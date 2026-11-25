@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Latele" tvg-chno="4" group-title="01 - Nacionales y noticias",004 - Latele
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-name="Paraguay TV" tvg-chno="7" group-title="01 - Nacionales y noticias",007 - Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-name="América Paraguay" tvg-chno="12" group-title="01 - Nacionales y noticias",012 - América Paraguay
+https://america-live.argosworkspace.com/america/index.m3u8
+#EXTINF:-1 tvg-name="A24 Paraguay" tvg-chno="13" group-title="01 - Nacionales y noticias",013 - A24 Paraguay
+https://a24-live.argosworkspace.com/a24/index.m3u8
+#EXTINF:-1 tvg-name="Ñandutí TV" tvg-chno="15" group-title="01 - Nacionales y noticias",015 - Ñandutí TV [opción 1]
+https://nanduti.b-cdn.net/720p.m3u8
+#EXTINF:-1 tvg-name="Ñandutí TV" tvg-chno="16" group-title="01 - Nacionales y noticias",016 - Ñandutí TV [opción 2]
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+https://nanduti.b-cdn.net/Source.m3u8
+#EXTINF:-1 tvg-name="Canal Guapa" tvg-chno="17" group-title="01 - Nacionales y noticias",017 - Canal Guapa
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
+#EXTINF:-1 tvg-name="Canal Pro" tvg-chno="18" group-title="01 - Nacionales y noticias",018 - Canal Pro
+#EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
+https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 tvg-name="Mega TV" tvg-chno="19" group-title="01 - Nacionales y noticias",019 - Mega TV
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-name="Telefuturo" tvg-chno="69" group-title="01 - Nacionales y noticias",069 - Telefuturo [alternativa 2]
+#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-name="NPY" tvg-chno="76" group-title="01 - Nacionales y noticias",076 - NPY [alternativa 2]
+#EXTVLCOPT:http-referrer=https://www.npy.com.py/
+https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-name="Monumental TV" tvg-chno="77" group-title="01 - Nacionales y noticias",077 - Monumental TV [alternativa 2]
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-name="4DmásNoticias TV" tvg-chno="21" group-title="02 - Regionales y temáticos",021 - 4DmásNoticias TV
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+#EXTINF:-1 tvg-name="AGR FM TV" tvg-chno="22" group-title="02 - Regionales y temáticos",022 - AGR FM TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Alcance FM PLAY TV" tvg-chno="23" group-title="02 - Regionales y temáticos",023 - Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+#EXTINF:-1 tvg-name="Alt Media TV" tvg-chno="24" group-title="02 - Regionales y temáticos",024 - Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-name="Bruno Masi TV" tvg-chno="25" group-title="02 - Regionales y temáticos",025 - Bruno Masi TV
+https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+#EXTINF:-1 tvg-name="CAD TV" tvg-chno="26" group-title="02 - Regionales y temáticos",026 - CAD TV
+https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+#EXTINF:-1 tvg-name="Canal 8 C&C Producciones" tvg-chno="28" group-title="02 - Regionales y temáticos",028 - Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+#EXTINF:-1 tvg-name="Canal 8 Visión TV" tvg-chno="29" group-title="02 - Regionales y temáticos",029 - Canal 8 Visión TV
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cáritas TV" tvg-chno="30" group-title="02 - Regionales y temáticos",030 - Cáritas TV
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cosmos TV" tvg-chno="31" group-title="02 - Regionales y temáticos",031 - Cosmos TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-name="Del Rey TV" tvg-chno="32" group-title="02 - Regionales y temáticos",032 - Del Rey TV
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 tvg-name="Dismar Radio TV" tvg-chno="33" group-title="02 - Regionales y temáticos",033 - Dismar Radio TV
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+#EXTINF:-1 tvg-name="E40" tvg-chno="34" group-title="02 - Regionales y temáticos",034 - E40
+https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-name="Farra Play" tvg-chno="35" group-title="02 - Regionales y temáticos",035 - Farra Play
+https://stream.farra.com.py/live/farra_low.m3u8
+#EXTINF:-1 tvg-name="GO TV" tvg-chno="36" group-title="02 - Regionales y temáticos",036 - GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 tvg-name="HEi Now" tvg-chno="37" group-title="02 - Regionales y temáticos",037 - HEi Now
+#EXTVLCOPT:http-referrer=https://www.heinow.com.py/
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-name="Invasiva TV" tvg-chno="38" group-title="02 - Regionales y temáticos",038 - Invasiva TV
+https://tv-omega-nine.vercel.app/hls/live.m3u8
+#EXTINF:-1 tvg-name="Los Ángeles TV Radio" tvg-chno="39" group-title="02 - Regionales y temáticos",039 - Los Ángeles TV Radio
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
+#EXTINF:-1 tvg-name="Ñandejara Ne'e TV" tvg-chno="43" group-title="02 - Regionales y temáticos",043 - Ñandejara Ne'e TV
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-name="Oasis TV" tvg-chno="44" group-title="02 - Regionales y temáticos",044 - Oasis TV
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+#EXTINF:-1 tvg-name="Occidental TV" tvg-chno="45" group-title="02 - Regionales y temáticos",045 - Occidental TV
+https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-name="Oviedo TV" tvg-chno="46" group-title="02 - Regionales y temáticos",046 - Oviedo TV
+https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
+#EXTINF:-1 tvg-name="Productiva TV" tvg-chno="48" group-title="02 - Regionales y temáticos",048 - Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-name="Radio Colmenar 92.5 FM TV" tvg-chno="49" group-title="02 - Regionales y temáticos",049 - Radio Colmenar 92.5 FM TV
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+#EXTINF:-1 tvg-name="Radio Guairá TV" tvg-chno="50" group-title="02 - Regionales y temáticos",050 - Radio Guairá TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+#EXTINF:-1 tvg-name="Radio San Cristóbal TV" tvg-chno="51" group-title="02 - Regionales y temáticos",051 - Radio San Cristóbal TV
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+#EXTINF:-1 tvg-name="Radio TV El Arca del Pacto" tvg-chno="52" group-title="02 - Regionales y temáticos",052 - Radio TV El Arca del Pacto
+https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+#EXTINF:-1 tvg-name="RB TV" tvg-chno="53" group-title="02 - Regionales y temáticos",053 - RB TV
+https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
+#EXTINF:-1 tvg-name="RCC TV" tvg-chno="54" group-title="02 - Regionales y temáticos",054 - RCC TV
+https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-name="Red Interior TV" tvg-chno="56" group-title="02 - Regionales y temáticos",056 - Red Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+#EXTINF:-1 tvg-name="Regional TV Yaguarón" tvg-chno="57" group-title="02 - Regionales y temáticos",057 - Regional TV Yaguarón
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+#EXTINF:-1 tvg-name="República TV" tvg-chno="58" group-title="02 - Regionales y temáticos",058 - República TV
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Aire" tvg-chno="61" group-title="02 - Regionales y temáticos",061 - TV Aire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-name="TV Canindeyú" tvg-chno="62" group-title="02 - Regionales y temáticos",062 - TV Canindeyú
+https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+#EXTINF:-1 tvg-name="Unión TV" tvg-chno="63" group-title="02 - Regionales y temáticos",063 - Unión TV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
+#EXTINF:-1 tvg-name="UniRadio TV" tvg-chno="64" group-title="02 - Regionales y temáticos",064 - UniRadio TV
+https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+#EXTINF:-1 tvg-name="Venus Media" tvg-chno="65" group-title="02 - Regionales y temáticos",065 - Venus Media
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Villa Elisa Radio TV" tvg-chno="66" group-title="02 - Regionales y temáticos",066 - Villa Elisa Radio TV
+https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-name="SNT" tvg-chno="85" group-title="Paraguay - Prueba 03",085 - SNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+#EXTINF:-1 tvg-name="Trece" tvg-chno="86" group-title="Paraguay - Prueba 03",086 - Trece
+https://tv.mitvparaguay.com/hls?id=trece&type=hls
+#EXTINF:-1 tvg-name="Trece" tvg-chno="87" group-title="Paraguay - Prueba 03",087 - Trece
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-name="Unicanal" tvg-chno="88" group-title="Paraguay - Prueba 03",088 - Unicanal
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:-1 tvg-name="Unicanal" tvg-chno="89" group-title="Paraguay - Prueba 03",089 - Unicanal
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 tvg-name="ABC TV" tvg-chno="90" group-title="Paraguay - Prueba 03",090 - ABC TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-name="Paravisión" tvg-chno="91" group-title="Paraguay - Prueba 03",091 - Paravisión
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+#EXTINF:-1 tvg-name="Paravisión" tvg-chno="92" group-title="Paraguay - Prueba 03",092 - Paravisión
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+#EXTINF:-1 tvg-name="Educanal" tvg-chno="93" group-title="Paraguay - Prueba 03",093 - Educanal
+http://190.128.214.97:64333/play/a011/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5 TV Max" tvg-chno="94" group-title="Paraguay - Prueba 03",094 - Canal 5 TV Max
+https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
+#EXTINF:-1 tvg-name="MiTV" tvg-chno="95" group-title="Paraguay - Prueba 03",095 - MiTV
+http://190.128.214.97:64333/play/a02w/index.m3u8
+#EXTINF:-1 tvg-name="Popu TV" tvg-chno="96" group-title="Paraguay - Prueba 03",096 - Popu TV
+http://190.108.83.69:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-name="5 Días TV" tvg-chno="97" group-title="Paraguay - Prueba 03",097 - 5 Días TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+#EXTINF:-1 tvg-name="TV Cámara" tvg-chno="98" group-title="Paraguay - Prueba 03",098 - TV Cámara
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+#EXTINF:-1 tvg-name="TV Cámara" tvg-chno="99" group-title="Paraguay - Prueba 03",099 - TV Cámara
+http://158.172.217.18:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-name="SUR TV Itapúa" tvg-chno="100" group-title="Paraguay - Prueba 03",100 - SUR TV Itapúa
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1 tvg-name="Tropicalia 93.9 FM" tvg-chno="101" group-title="Paraguay - Prueba 03",101 - Tropicalia 93.9 FM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF:-1 tvg-name="Más TV Encarnación" tvg-chno="102" group-title="Paraguay - Prueba 03",102 - Más TV Encarnación
+https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
+#EXTINF:-1 tvg-name="KOA TV" tvg-chno="103" group-title="Paraguay - Prueba 03",103 - KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-name="Estación Cristal TV" tvg-chno="104" group-title="Paraguay - Prueba 03",104 - Estación Cristal TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Integración TV" tvg-chno="105" group-title="Paraguay - Prueba 03",105 - Integración TV
+http://nextplayparaguay.live/hls/integraciontv.m3u8
+#EXTINF:-1 tvg-name="Visión Villarrica" tvg-chno="106" group-title="Paraguay - Prueba 03",106 - Visión Villarrica
+http://inliveserver.com:1935/8312/8312/playlist.m3u8
+#EXTINF:-1 tvg-name="Senado TV" tvg-chno="107" group-title="Paraguay - Prueba 03",107 - Senado TV
+https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
