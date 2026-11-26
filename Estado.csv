@@ -72,10 +72,10 @@
 71,PY-041,Invasiva TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720
 72,PY-042,KOA TV,no,Offline,error_red_URLError,pendiente,,,
 73,PY-043,Latele,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720
-74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
+74,PY-044,LIM TV,no,Offline,http_521,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,480x360
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
