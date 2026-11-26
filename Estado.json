@@ -40,19 +40,19 @@
   "PY-003": {
     "multimedia": "decodifica",
     "principal": "https://a24-live.argosworkspace.com/a24/index.m3u8",
-    "rapida": "hls_master",
+    "rapida": "error_red_URLError",
     "urls": {
       "https://a24-live.argosworkspace.com/a24/index.m3u8": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "hls_master"
+        "rapida": "error_red_URLError"
       }
     }
   },
@@ -121,7 +121,7 @@
       "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
@@ -130,19 +130,19 @@
   "PY-008": {
     "multimedia": "decodifica",
     "principal": "https://america-live.argosworkspace.com/america/index.m3u8",
-    "rapida": "hls_master",
+    "rapida": "error_red_URLError",
     "urls": {
       "https://america-live.argosworkspace.com/america/index.m3u8": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "hls_master"
+        "rapida": "error_red_URLError"
       }
     }
   },
@@ -179,7 +179,7 @@
       "https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -193,7 +193,7 @@
       "https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -284,19 +284,19 @@
   "PY-018": {
     "multimedia": "decodifica",
     "principal": "https://guapa-live.argosworkspace.com/guapa/index.m3u8",
-    "rapida": "hls_master",
+    "rapida": "error_red_URLError",
     "urls": {
       "https://guapa-live.argosworkspace.com/guapa/index.m3u8": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "hls_master"
+        "rapida": "error_red_URLError"
       }
     }
   },
@@ -358,7 +358,7 @@
       "http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -372,7 +372,7 @@
       "http://nextplayparaguay.live/hls/guajayvifm.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -480,7 +480,7 @@
       "http://190.128.214.97:64333/play/a011/index.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_403"
       }
@@ -494,7 +494,7 @@
       "https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -508,7 +508,7 @@
       "http://159.203.148.226/live/farra.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
@@ -528,7 +528,7 @@
       "http://nextplayparaguay.live/hls/canal10.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -586,7 +586,7 @@
       "http://nextplayparaguay.live/hls/integraciontv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -619,7 +619,7 @@
       "https://panel.dattalive.com/8028/8028/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -647,14 +647,14 @@
   "PY-044": {
     "multimedia": "pendiente",
     "principal": "https://tv.invasivamedia.com/hls/limtv.m3u8",
-    "rapida": "http_521",
+    "rapida": "http_404",
     "urls": {
       "https://tv.invasivamedia.com/hls/limtv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
-        "rapida": "http_521"
+        "rapida": "http_404"
       }
     }
   },
@@ -691,7 +691,7 @@
       "https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -730,7 +730,7 @@
       "http://190.128.214.97:64333/play/a02w/index.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_403"
       }
@@ -763,7 +763,7 @@
       "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
@@ -903,7 +903,7 @@
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
@@ -973,7 +973,7 @@
       "http://190.108.83.69:8000/play/a070/index.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
@@ -1106,7 +1106,7 @@
       "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
@@ -1139,7 +1139,7 @@
       "https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -1153,7 +1153,7 @@
       "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
@@ -1230,7 +1230,7 @@
       "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -1282,7 +1282,7 @@
       "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -1296,7 +1296,7 @@
       "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -1310,7 +1310,7 @@
       "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -1463,7 +1463,7 @@
       "https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_TimeoutError"
       }
@@ -1597,7 +1597,7 @@
       "http://inliveserver.com:1935/8312/8312/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -1864,7 +1864,7 @@
       "https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "error_red_URLError"
       }
@@ -1878,7 +1878,7 @@
       "https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {},
         "rapida": "http_404"
       }
