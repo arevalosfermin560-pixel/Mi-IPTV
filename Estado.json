@@ -1,0 +1,1917 @@
+{
+  "PY-001": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1600x900",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-002": {
+    "multimedia": "sin_audio_video_confirmado",
+    "principal": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "",
+          "estado": "sin_audio_video_confirmado",
+          "resolucion": "",
+          "video": ""
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-003": {
+    "multimedia": "decodifica",
+    "principal": "https://a24-live.argosworkspace.com/a24/index.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://a24-live.argosworkspace.com/a24/index.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-004": {
+    "multimedia": "sin_audio_video_confirmado",
+    "principal": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "",
+          "estado": "sin_audio_video_confirmado",
+          "resolucion": "",
+          "video": ""
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-005": {
+    "multimedia": "decodifica",
+    "principal": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-006": {
+    "multimedia": "decodifica",
+    "principal": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-007": {
+    "multimedia": "pendiente",
+    "principal": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-008": {
+    "multimedia": "decodifica",
+    "principal": "https://america-live.argosworkspace.com/america/index.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://america-live.argosworkspace.com/america/index.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-009": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-010": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-011": {
+    "multimedia": "pendiente",
+    "principal": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-012": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-013": {
+    "multimedia": "decodifica",
+    "principal": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-014": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-015": {
+    "multimedia": "decodifica",
+    "principal": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-016": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-017": {
+    "multimedia": "decodifica",
+    "principal": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-018": {
+    "multimedia": "decodifica",
+    "principal": "https://guapa-live.argosworkspace.com/guapa/index.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://guapa-live.argosworkspace.com/guapa/index.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-019": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-020": {
+    "multimedia": "decodifica",
+    "principal": "https://www.desde-paraguay.com/pro.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://www.desde-paraguay.com/pro.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-021": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-022": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-023": {
+    "multimedia": "pendiente",
+    "principal": "http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-024": {
+    "multimedia": "pendiente",
+    "principal": "http://nextplayparaguay.live/hls/guajayvifm.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "http://nextplayparaguay.live/hls/guajayvifm.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-025": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-026": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-027": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-028": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-029": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-030": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-031": {
+    "multimedia": "decodifica",
+    "principal": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-032": {
+    "multimedia": "pendiente",
+    "principal": "http://190.128.214.97:64333/play/a011/index.m3u8",
+    "rapida": "http_403",
+    "urls": {
+      "http://190.128.214.97:64333/play/a011/index.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_403"
+      }
+    }
+  },
+  "PY-033": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-034": {
+    "multimedia": "pendiente",
+    "principal": "http://159.203.148.226/live/farra.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "http://159.203.148.226/live/farra.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-035": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-036": {
+    "multimedia": "pendiente",
+    "principal": "http://nextplayparaguay.live/hls/canal10.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "http://nextplayparaguay.live/hls/canal10.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-037": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-038": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-039": {
+    "multimedia": "decodifica",
+    "principal": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-040": {
+    "multimedia": "pendiente",
+    "principal": "http://nextplayparaguay.live/hls/integraciontv.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "http://nextplayparaguay.live/hls/integraciontv.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-041": {
+    "multimedia": "decodifica",
+    "principal": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://tv-omega-nine.vercel.app/hls/live.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-042": {
+    "multimedia": "pendiente",
+    "principal": "https://panel.dattalive.com/8028/8028/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://panel.dattalive.com/8028/8028/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-043": {
+    "multimedia": "decodifica",
+    "principal": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-044": {
+    "multimedia": "pendiente",
+    "principal": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "https://tv.invasivamedia.com/hls/limtv.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-045": {
+    "multimedia": "decodifica",
+    "principal": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "480x360",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-046": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-047": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-048": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-049": {
+    "multimedia": "decodifica",
+    "principal": "https://www.desde-paraguay.com/mega.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://www.desde-paraguay.com/mega.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-050": {
+    "multimedia": "pendiente",
+    "principal": "http://190.128.214.97:64333/play/a02w/index.m3u8",
+    "rapida": "http_403",
+    "urls": {
+      "http://190.128.214.97:64333/play/a02w/index.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_403"
+      }
+    }
+  },
+  "PY-051": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-052": {
+    "multimedia": "pendiente",
+    "principal": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-053": {
+    "multimedia": "decodifica",
+    "principal": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-054": {
+    "multimedia": "decodifica",
+    "principal": "https://nanduti.b-cdn.net/720p.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://nanduti.b-cdn.net/720p.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-055": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-056": {
+    "multimedia": "decodifica",
+    "principal": "https://edge.enhdtv.com/nexthd/index.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://edge.enhdtv.com/nexthd/index.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-057": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-058": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-059": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-060": {
+    "multimedia": "decodifica",
+    "principal": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1092x614",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-061": {
+    "multimedia": "pendiente",
+    "principal": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-062": {
+    "multimedia": "decodifica",
+    "principal": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-063": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-064": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-065": {
+    "multimedia": "decodifica",
+    "principal": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+    "rapida": "hls_master",
+    "urls": {
+      "http://45.170.130.224:8000/play/a032/index.m3u8?hls": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "mp2",
+          "estado": "decodifica",
+          "resolucion": "720x480",
+          "video": "mpeg2video"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-066": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-067": {
+    "multimedia": "pendiente",
+    "principal": "http://190.108.83.69:8000/play/a070/index.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "http://190.108.83.69:8000/play/a070/index.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-068": {
+    "multimedia": "decodifica",
+    "principal": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-069": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-070": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-071": {
+    "multimedia": "decodifica",
+    "principal": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://tvdatta.com:3041/live/colmenarlive.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-072": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-073": {
+    "multimedia": "decodifica",
+    "principal": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://tvdatta.com:3991/live/guairatvlive.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-074": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-075": {
+    "multimedia": "decodifica",
+    "principal": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1092x614",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-076": {
+    "multimedia": "decodifica",
+    "principal": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-077": {
+    "multimedia": "pendiente",
+    "principal": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-078": {
+    "multimedia": "decodifica",
+    "principal": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-079": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-080": {
+    "multimedia": "pendiente",
+    "principal": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-081": {
+    "multimedia": "decodifica",
+    "principal": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-082": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-083": {
+    "multimedia": "decodifica",
+    "principal": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-084": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-085": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-086": {
+    "multimedia": "decodifica",
+    "principal": "https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1",
+    "rapida": "hls_media",
+    "urls": {
+      "https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-087": {
+    "multimedia": "sin_audio_video_confirmado",
+    "principal": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "",
+          "estado": "sin_audio_video_confirmado",
+          "resolucion": "",
+          "video": ""
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-088": {
+    "multimedia": "pendiente",
+    "principal": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-089": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-090": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-091": {
+    "multimedia": "decodifica",
+    "principal": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+    "rapida": "hls_master",
+    "urls": {
+      "http://45.170.130.224:8000/play/a036/index.m3u8?hls": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "mp2",
+          "estado": "decodifica",
+          "resolucion": "720x480",
+          "video": "mpeg2video"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-092": {
+    "multimedia": "decodifica",
+    "principal": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-093": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-094": {
+    "multimedia": "sin_audio_video_confirmado",
+    "principal": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "",
+          "estado": "sin_audio_video_confirmado",
+          "resolucion": "",
+          "video": ""
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-095": {
+    "multimedia": "sin_audio_video_confirmado",
+    "principal": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "",
+          "estado": "sin_audio_video_confirmado",
+          "resolucion": "",
+          "video": ""
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-096": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-097": {
+    "multimedia": "decodifica",
+    "principal": "http://158.172.217.18:8000/play/a00m/index.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "http://158.172.217.18:8000/play/a00m/index.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "mp2",
+          "estado": "decodifica",
+          "resolucion": "720x480",
+          "video": "mpeg2video"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-098": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-099": {
+    "multimedia": "pendiente",
+    "principal": "https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8",
+    "rapida": "error_red_TimeoutError",
+    "urls": {
+      "https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_TimeoutError"
+      }
+    }
+  },
+  "PY-100": {
+    "multimedia": "decodifica",
+    "principal": "https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-101": {
+    "multimedia": "sin_audio_video_confirmado",
+    "principal": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "",
+          "estado": "sin_audio_video_confirmado",
+          "resolucion": "",
+          "video": ""
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-102": {
+    "multimedia": "decodifica",
+    "principal": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-103": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-104": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-105": {
+    "multimedia": "decodifica",
+    "principal": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+    "rapida": "hls_master",
+    "urls": {
+      "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-106": {
+    "multimedia": "decodifica",
+    "principal": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+    "rapida": "hls_master",
+    "urls": {
+      "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_master"
+      }
+    }
+  },
+  "PY-107": {
+    "multimedia": "pendiente",
+    "principal": "http://inliveserver.com:1935/8312/8312/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "http://inliveserver.com:1935/8312/8312/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-108": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-109": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-110": {
+    "multimedia": "decodifica",
+    "principal": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+    "rapida": "hls_media",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8": {
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 0,
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1280x720",
+          "video": "h264"
+        },
+        "rapida": "hls_media"
+      }
+    }
+  },
+  "PY-111": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-112": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-113": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-114": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-115": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-116": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-117": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-118": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-119": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-120": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-121": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-122": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-123": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-124": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-125": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-126": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-127": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-128": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-129": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-130": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-131": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-132": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-133": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-134": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-135": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-136": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-137": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-138": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-139": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-140": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-141": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-142": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-143": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-144": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-145": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-146": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-147": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-148": {
+    "multimedia": "pendiente",
+    "principal": "https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8",
+    "rapida": "error_red_URLError",
+    "urls": {
+      "https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "error_red_URLError"
+      }
+    }
+  },
+  "PY-149": {
+    "multimedia": "pendiente",
+    "principal": "https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8",
+    "rapida": "http_404",
+    "urls": {
+      "https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8": {
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 0,
+        "fallos_rapidos": 1,
+        "multimedia": {},
+        "rapida": "http_404"
+      }
+    }
+  },
+  "PY-150": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-151": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-152": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-153": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  },
+  "PY-154": {
+    "multimedia": "pendiente",
+    "principal": "",
+    "rapida": "sin_enlace",
+    "urls": {}
+  }
+}

@@ -1,0 +1,155 @@
+utc,id,canal,rapida,multimedia,evento
+2026-11-26T11:28:39+00:00,PY-001,4DmásNoticias TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-002,5 Días TV,hls_media,sin_audio_video_confirmado,estado
+2026-11-26T11:28:39+00:00,PY-003,A24 Paraguay,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-004,ABC TV,hls_media,sin_audio_video_confirmado,estado
+2026-11-26T11:28:39+00:00,PY-005,AGR FM TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-109,AlberdiNET TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-006,Alcance FM PLAY TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-110,Almaya TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-007,Alt Media TV,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-008,América Paraguay,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-009,Areguá TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-111,Artigas TV Online,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-010,Bruno Masi TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-011,C9N,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-113,Caaguazú TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-012,Cablemás TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-013,CAD TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-144,Cadena Master TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-014,Cambyretá TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-114,Campo 9 Online,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-115,Canal 10 Atyrá,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-116,Canal 10 CTS,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-117,Canal 11 Damoa TV Regional,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-118,Canal 11 Yvy Pytã TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-119,Canal 15 San Joaquín,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-120,Canal 16 Fernando de la Mora,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-121,Canal 2 CCV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-122,Canal 2 Teve,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-123,Canal 4 Iturbe,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-124,Canal 4 TVCSA,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-125,Canal 40 TV Concepción,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-126,Canal 41 TV Cable Color Caaguazú,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-015,Canal 5 TV Max,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-127,Canal 6 Multimedios,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-128,Canal 7 TV Cable Caaguazú,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-016,Canal 8 C&C Producciones,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-017,Canal 8 Visión TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-129,Canal de Salvación TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-018,Canal Guapa,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-019,Canal Noticias PY,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-020,Canal Pro,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-021,Cáritas TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-022,Causa Común,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-112,CBC Canal 8,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-023,Central TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-024,Choré TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-025,Cordillera Noticias,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-026,Cosmos TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-027,Costanera TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-028,Del Rey TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-029,Diario La Jornada,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-030,Dismar Radio TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-130,DMpy,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-031,E40,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-032,Educanal,http_403,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-131,El Observador TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-132,Emprende TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-133,En Lengua de Señas TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-033,Estación Cristal TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-134,Estación Radio TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-034,Farra Play,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-136,Fe TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-035,Fiera TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-135,FM Frutillar TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-137,Fuente Paraguay TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-036,GCV Canal 10 Guajayví,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-037,GEN,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-038,GO TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-039,HEi Now,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-040,Integración TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-041,Invasiva TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-042,KOA TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-043,Latele,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-044,LIM TV,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-138,Limpio Digital TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-145,Local TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-045,Los Ángeles TV Radio,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-139,Luque Puroite Radio TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-046,Magazine Global,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-047,Más TV Encarnación,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-140,Max Plus TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-048,Mbokayaty TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-049,Mega TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-141,Mil Ideas TV Canal 10,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-146,Miranda Radio TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-142,Misión TV Digital,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-050,MiTV,http_403,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-051,Monumental TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-052,Ñande Portetepe TV,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-053,Ñandejara Ne'e TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-054,Ñandutí TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-055,Natalicio TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-147,NetPlayGo,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-056,Next HD,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-057,NotiFranco,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-058,NPY,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-059,Oasis TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-148,Obedira TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-060,Occidental TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-061,Oviedo TV,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-149,Panambi Vera TV,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-062,Paraguay TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-063,Paraná Medios,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-064,Paraná TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-065,Paravisión,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-150,PDS Radio y TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-066,PLRA TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-067,Popu TV,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-068,Productiva TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-069,Progreso TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-070,Pykasu Radio TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-151,Radio Ciudad TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-071,Radio Colmenar 92.5 FM TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-072,Radio Fénix TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-073,Radio Guairá TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-074,Radio Iguazú TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-143,Radio Miguelita TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-075,Radio San Cristóbal TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-076,Radio TV El Arca del Pacto,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-077,RB TV,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-078,RCC TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-079,RCN TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-152,Red Activa Paraguay TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-080,Red Digital,http_404,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-081,Red Interior TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-082,Regional TV Yaguarón,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-153,Renueva TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-083,República TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-084,Rewind,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-085,RTV 12,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-086,Senado TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-154,Simplemente Cielo TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-087,SNT,hls_media,sin_audio_video_confirmado,estado
+2026-11-26T11:28:39+00:00,PY-088,SNT,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-089,Somos del Este TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-090,Suceso TV,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-091,SUR TV Itapúa,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-092,Telefuturo,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-093,TN Noticias,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-094,Trece,hls_media,sin_audio_video_confirmado,estado
+2026-11-26T11:28:39+00:00,PY-095,Tropicalia 93.9 FM,hls_media,sin_audio_video_confirmado,estado
+2026-11-26T11:28:39+00:00,PY-096,TV Aire,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-097,TV Cámara,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-098,TV Canindeyú,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-099,TVS,error_red_TimeoutError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-100,UGA TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-101,Unicanal,hls_media,sin_audio_video_confirmado,estado
+2026-11-26T11:28:39+00:00,PY-102,Unión TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-103,UniRadio TV,hls_media,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-104,Vamo al Aire TV,sin_enlace,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-105,Venus Media,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-106,Villa Elisa Radio TV,hls_master,decodifica,estado
+2026-11-26T11:28:39+00:00,PY-107,Visión Villarrica,error_red_URLError,pendiente,estado
+2026-11-26T11:28:39+00:00,PY-108,Xpress TV,sin_enlace,pendiente,estado
