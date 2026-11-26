@@ -3,7 +3,7 @@
 2,PY-002,5 Días TV,no,Online,hls_media,sin_audio_video_confirmado,,,
 3,PY-003,A24 Paraguay,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 4,PY-004,ABC TV,no,Online,hls_media,sin_audio_video_confirmado,,,
-5,PY-005,AGR FM TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720
+5,PY-005,AGR FM TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
 6,PY-109,AlberdiNET TV,sin enlace,,sin_enlace,pendiente,,,
 7,PY-006,Alcance FM PLAY TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1920x1080
 8,PY-110,Almaya TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,0x0
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
@@ -88,7 +88,7 @@
 87,PY-050,MiTV,no,Blocked / login,http_403,pendiente,,,
 88,PY-051,Monumental TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720
 89,PY-052,Ñande Portetepe TV,no,Offline,http_404,pendiente,,,
-90,PY-053,Ñandejara Ne'e TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1920x1080
+90,PY-053,Ñandejara Ne'e TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 91,PY-054,Ñandutí TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 92,PY-055,Natalicio TV,sin enlace,,sin_enlace,pendiente,,,
 93,PY-147,NetPlayGo,sin enlace,,sin_enlace,pendiente,,,

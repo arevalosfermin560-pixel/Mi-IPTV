@@ -167,3 +167,5 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-26T15:57:16+00:00,PY-045,Los Ángeles TV Radio,hls_media,decodifica,estado
 2026-11-26T15:57:16+00:00,PY-053,Ñandejara Ne'e TV,error_red_TimeoutError,decodifica,estado
 2026-11-26T16:44:07+00:00,PY-053,Ñandejara Ne'e TV,http_404,decodifica,estado
+2026-11-26T17:38:13+00:00,PY-005,AGR FM TV,http_404,decodifica,estado
+2026-11-26T17:38:13+00:00,PY-053,Ñandejara Ne'e TV,hls_master,decodifica,estado
