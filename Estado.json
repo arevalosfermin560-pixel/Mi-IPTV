@@ -78,7 +78,7 @@
   "PY-005": {
     "multimedia": "decodifica",
     "principal": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-    "rapida": "error_red_TimeoutError",
+    "rapida": "http_404",
     "urls": {
       "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": {
         "exitos_multimedia": 0,
@@ -90,7 +90,7 @@
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "error_red_TimeoutError"
+        "rapida": "http_404"
       }
     }
   },

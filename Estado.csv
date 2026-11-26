@@ -3,7 +3,7 @@
 2,PY-002,5 Días TV,no,Online,hls_media,sin_audio_video_confirmado,,,
 3,PY-003,A24 Paraguay,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 4,PY-004,ABC TV,no,Online,hls_media,sin_audio_video_confirmado,,,
-5,PY-005,AGR FM TV,sin fallo reportado,Online,error_red_TimeoutError,decodifica,h264,aac,1280x720
+5,PY-005,AGR FM TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
 6,PY-109,AlberdiNET TV,sin enlace,,sin_enlace,pendiente,,,
 7,PY-006,Alcance FM PLAY TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1920x1080
 8,PY-110,Almaya TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
