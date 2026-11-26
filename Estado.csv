@@ -66,7 +66,7 @@
 65,PY-137,Fuente Paraguay TV,sin enlace,,sin_enlace,pendiente,,,
 66,PY-036,GCV Canal 10 Guajayví,no,Offline,error_red_URLError,pendiente,,,
 67,PY-037,GEN,sin enlace,,sin_enlace,pendiente,,,
-68,PY-038,GO TV,sin fallo reportado,Online,error_red_TimeoutError,decodifica,h264,aac,1920x1080
+68,PY-038,GO TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 69,PY-039,HEi Now,no,Online,hls_master,decodifica,h264,aac,1280x720
 70,PY-040,Integración TV,no,Offline,error_red_URLError,pendiente,,,
 71,PY-041,Invasiva TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720
@@ -122,7 +122,7 @@
 121,PY-078,RCC TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 122,PY-079,RCN TV,no,Timed out,error_red_URLError,pendiente,,,
 123,PY-152,Red Activa Paraguay TV,sin enlace,,sin_enlace,pendiente,,,
-124,PY-080,Red Digital,no,Offline,http_404,pendiente,,,
+124,PY-080,Red Digital,no,Offline,hls_media,pendiente,,,
 125,PY-081,Red Interior TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 126,PY-082,Regional TV Yaguarón,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 127,PY-153,Renueva TV,sin enlace,,sin_enlace,pendiente,,,
