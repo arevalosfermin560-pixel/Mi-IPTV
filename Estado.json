@@ -2,19 +2,19 @@
   "PY-001": {
     "multimedia": "decodifica",
     "principal": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-    "rapida": "error_red_TimeoutError",
+    "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1600x900",
           "video": "h264"
         },
-        "rapida": "error_red_TimeoutError"
+        "rapida": "hls_master"
       }
     }
   },
@@ -78,19 +78,19 @@
   "PY-005": {
     "multimedia": "decodifica",
     "principal": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-    "rapida": "error_red_TimeoutError",
+    "rapida": "hls_master",
     "urls": {
       "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 3,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "error_red_TimeoutError"
+        "rapida": "hls_master"
       }
     }
   },
@@ -659,18 +659,18 @@
     }
   },
   "PY-045": {
-    "multimedia": "decodifica",
+    "multimedia": "error_decodificacion",
     "principal": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
     "rapida": "hls_media",
     "urls": {
       "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8": {
-        "exitos_multimedia": 2,
-        "fallos_multimedia": 0,
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
-          "estado": "decodifica",
-          "resolucion": "480x360",
+          "estado": "error_decodificacion",
+          "resolucion": "0x0",
           "video": "h264"
         },
         "rapida": "hls_media"
