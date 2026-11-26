@@ -1,126 +1,243 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="4DmásNoticias TV" tvg-chno="1" group-title="Paraguay",001 - 4DmásNoticias TV
+# Catalogo permanente Paraguay. Sin enlace: comentario no reproducible.
+#EXTINF:-1 tvg-id="PY-001" tvg-name="4DmásNoticias TV" tvg-chno="1" group-title="Paraguay",001 - 4DmásNoticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 tvg-name="5 Días TV" tvg-chno="2" group-title="Paraguay",002 - 5 Días TV
+#EXTINF:-1 tvg-id="PY-002" tvg-name="5 Días TV" tvg-chno="2" group-title="Paraguay",002 - 5 Días TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
-#EXTINF:-1 tvg-name="A24 Paraguay" tvg-chno="3" group-title="Paraguay",003 - A24 Paraguay
+#EXTINF:-1 tvg-id="PY-003" tvg-name="A24 Paraguay" tvg-chno="3" group-title="Paraguay",003 - A24 Paraguay
 https://a24-live.argosworkspace.com/a24/index.m3u8
-#EXTINF:-1 tvg-name="ABC TV" tvg-chno="4" group-title="Paraguay",004 - ABC TV
+#EXTINF:-1 tvg-id="PY-004" tvg-name="ABC TV" tvg-chno="4" group-title="Paraguay",004 - ABC TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
-#EXTINF:-1 tvg-name="AGR FM TV" tvg-chno="5" group-title="Paraguay",005 - AGR FM TV
+#EXTINF:-1 tvg-id="PY-005" tvg-name="AGR FM TV" tvg-chno="5" group-title="Paraguay",005 - AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Alcance FM PLAY TV" tvg-chno="6" group-title="Paraguay",006 - Alcance FM PLAY TV
+# PENDIENTE 006 - AlberdiNET TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-006" tvg-name="Alcance FM PLAY TV" tvg-chno="7" group-title="Paraguay",007 - Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
-#EXTINF:-1 tvg-name="América Paraguay" tvg-chno="7" group-title="Paraguay",007 - América Paraguay
+#EXTINF:-1 tvg-id="PY-110" tvg-name="Almaya TV" tvg-chno="8" group-title="Paraguay",008 - Almaya TV
+https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
+#EXTINF:-1 tvg-id="PY-007" tvg-name="Alt Media TV" tvg-chno="9" group-title="Paraguay",009 - Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-id="PY-008" tvg-name="América Paraguay" tvg-chno="10" group-title="Paraguay",010 - América Paraguay
 https://america-live.argosworkspace.com/america/index.m3u8
-#EXTINF:-1 tvg-name="Bruno Masi TV" tvg-chno="8" group-title="Paraguay",008 - Bruno Masi TV
+# PENDIENTE 011 - Areguá TV (sin enlace directo)
+# PENDIENTE 012 - Artigas TV Online (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-010" tvg-name="Bruno Masi TV" tvg-chno="13" group-title="Paraguay",013 - Bruno Masi TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 tvg-name="CAD TV" tvg-chno="9" group-title="Paraguay",009 - CAD TV
+#EXTINF:-1 tvg-id="PY-011" tvg-name="C9N" tvg-chno="14" group-title="Paraguay",014 - C9N
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
+# PENDIENTE 015 - Caaguazú TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-012" tvg-name="Cablemás TV" tvg-chno="16" group-title="Paraguay",016 - Cablemás TV
+https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
+#EXTINF:-1 tvg-id="PY-013" tvg-name="CAD TV" tvg-chno="17" group-title="Paraguay",017 - CAD TV
 https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
-#EXTINF:-1 tvg-name="Canal 8 C&C Producciones" tvg-chno="10" group-title="Paraguay",010 - Canal 8 C&C Producciones
+# PENDIENTE 018 - Cadena Master TV (sin enlace directo)
+# PENDIENTE 019 - Cambyretá TV (sin enlace directo)
+# PENDIENTE 020 - Campo 9 Online (sin enlace directo)
+# PENDIENTE 021 - Canal 10 Atyrá (sin enlace directo)
+# PENDIENTE 022 - Canal 10 CTS (sin enlace directo)
+# PENDIENTE 023 - Canal 11 Damoa TV Regional (sin enlace directo)
+# PENDIENTE 024 - Canal 11 Yvy Pytã TV (sin enlace directo)
+# PENDIENTE 025 - Canal 15 San Joaquín (sin enlace directo)
+# PENDIENTE 026 - Canal 16 Fernando de la Mora (sin enlace directo)
+# PENDIENTE 027 - Canal 2 CCV (sin enlace directo)
+# PENDIENTE 028 - Canal 2 Teve (sin enlace directo)
+# PENDIENTE 029 - Canal 4 Iturbe (sin enlace directo)
+# PENDIENTE 030 - Canal 4 TVCSA (sin enlace directo)
+# PENDIENTE 031 - Canal 40 TV Concepción (sin enlace directo)
+# PENDIENTE 032 - Canal 41 TV Cable Color Caaguazú (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-015" tvg-name="Canal 5 TV Max" tvg-chno="33" group-title="Paraguay",033 - Canal 5 TV Max
+https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
+# PENDIENTE 034 - Canal 6 Multimedios (sin enlace directo)
+# PENDIENTE 035 - Canal 7 TV Cable Caaguazú (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-016" tvg-name="Canal 8 C&C Producciones" tvg-chno="36" group-title="Paraguay",036 - Canal 8 C&C Producciones
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-#EXTINF:-1 tvg-name="Canal 8 Visión TV" tvg-chno="11" group-title="Paraguay",011 - Canal 8 Visión TV
+#EXTINF:-1 tvg-id="PY-017" tvg-name="Canal 8 Visión TV" tvg-chno="37" group-title="Paraguay",037 - Canal 8 Visión TV
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Guapa" tvg-chno="12" group-title="Paraguay",012 - Canal Guapa
+# PENDIENTE 038 - Canal de Salvación TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-018" tvg-name="Canal Guapa" tvg-chno="39" group-title="Paraguay",039 - Canal Guapa
 https://guapa-live.argosworkspace.com/guapa/index.m3u8
-#EXTINF:-1 tvg-name="Canal Pro" tvg-chno="13" group-title="Paraguay",013 - Canal Pro
-#EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
+# PENDIENTE 040 - Canal Noticias PY (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-020" tvg-name="Canal Pro" tvg-chno="41" group-title="Paraguay",041 - Canal Pro
 https://www.desde-paraguay.com/pro.m3u8
-#EXTINF:-1 tvg-name="Cáritas TV" tvg-chno="14" group-title="Paraguay",014 - Cáritas TV
+#EXTINF:-1 tvg-id="PY-021" tvg-name="Cáritas TV" tvg-chno="42" group-title="Paraguay",042 - Cáritas TV
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 tvg-name="Cosmos TV" tvg-chno="15" group-title="Paraguay",015 - Cosmos TV
+# PENDIENTE 043 - Causa Común (sin enlace directo)
+# PENDIENTE 044 - CBC Canal 8 (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-023" tvg-name="Central TV" tvg-chno="45" group-title="Paraguay",045 - Central TV
+http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8
+#EXTINF:-1 tvg-id="PY-024" tvg-name="Choré TV" tvg-chno="46" group-title="Paraguay",046 - Choré TV
+http://nextplayparaguay.live/hls/guajayvifm.m3u8
+# PENDIENTE 047 - Cordillera Noticias (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-026" tvg-name="Cosmos TV" tvg-chno="48" group-title="Paraguay",048 - Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:-1 tvg-name="Del Rey TV" tvg-chno="16" group-title="Paraguay",016 - Del Rey TV
+# PENDIENTE 049 - Costanera TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-028" tvg-name="Del Rey TV" tvg-chno="50" group-title="Paraguay",050 - Del Rey TV
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
-#EXTINF:-1 tvg-name="Dismar Radio TV" tvg-chno="17" group-title="Paraguay",017 - Dismar Radio TV
+# PENDIENTE 051 - Diario La Jornada (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-030" tvg-name="Dismar Radio TV" tvg-chno="52" group-title="Paraguay",052 - Dismar Radio TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1 tvg-name="E40" tvg-chno="18" group-title="Paraguay",018 - E40
+# PENDIENTE 053 - DMpy (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-031" tvg-name="E40" tvg-chno="54" group-title="Paraguay",054 - E40
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-name="GO TV" tvg-chno="19" group-title="Paraguay",019 - GO TV
+#EXTINF:-1 tvg-id="PY-032" tvg-name="Educanal" tvg-chno="55" group-title="Paraguay",055 - Educanal
+http://190.128.214.97:64333/play/a011/index.m3u8
+# PENDIENTE 056 - El Observador TV (sin enlace directo)
+# PENDIENTE 057 - Emprende TV (sin enlace directo)
+# PENDIENTE 058 - En Lengua de Señas TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-033" tvg-name="Estación Cristal TV" tvg-chno="59" group-title="Paraguay",059 - Estación Cristal TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+# PENDIENTE 060 - Estación Radio TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-034" tvg-name="Farra Play" tvg-chno="61" group-title="Paraguay",061 - Farra Play
+http://159.203.148.226/live/farra.m3u8
+# PENDIENTE 062 - Fe TV (sin enlace directo)
+# PENDIENTE 063 - Fiera TV (sin enlace directo)
+# PENDIENTE 064 - FM Frutillar TV (sin enlace directo)
+# PENDIENTE 065 - Fuente Paraguay TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-036" tvg-name="GCV Canal 10 Guajayví" tvg-chno="66" group-title="Paraguay",066 - GCV Canal 10 Guajayví
+http://nextplayparaguay.live/hls/canal10.m3u8
+# PENDIENTE 067 - GEN (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-038" tvg-name="GO TV" tvg-chno="68" group-title="Paraguay",068 - GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 tvg-name="HEi Now" tvg-chno="20" group-title="Paraguay",020 - HEi Now
-#EXTVLCOPT:http-referrer=https://www.heinow.com.py/
+#EXTINF:-1 tvg-id="PY-039" tvg-name="HEi Now" tvg-chno="69" group-title="Paraguay",069 - HEi Now
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-name="Invasiva TV" tvg-chno="21" group-title="Paraguay",021 - Invasiva TV
+#EXTINF:-1 tvg-id="PY-040" tvg-name="Integración TV" tvg-chno="70" group-title="Paraguay",070 - Integración TV
+http://nextplayparaguay.live/hls/integraciontv.m3u8
+#EXTINF:-1 tvg-id="PY-041" tvg-name="Invasiva TV" tvg-chno="71" group-title="Paraguay",071 - Invasiva TV
 https://tv-omega-nine.vercel.app/hls/live.m3u8
-#EXTINF:-1 tvg-name="Latele" tvg-chno="22" group-title="Paraguay",022 - Latele
-#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+#EXTINF:-1 tvg-id="PY-042" tvg-name="KOA TV" tvg-chno="72" group-title="Paraguay",072 - KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-id="PY-043" tvg-name="Latele" tvg-chno="73" group-title="Paraguay",073 - Latele
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-name="Los Ángeles TV Radio" tvg-chno="23" group-title="Paraguay",023 - Los Ángeles TV Radio
+#EXTINF:-1 tvg-id="PY-044" tvg-name="LIM TV" tvg-chno="74" group-title="Paraguay",074 - LIM TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+# PENDIENTE 075 - Limpio Digital TV (sin enlace directo)
+# PENDIENTE 076 - Local TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-045" tvg-name="Los Ángeles TV Radio" tvg-chno="77" group-title="Paraguay",077 - Los Ángeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
-#EXTINF:-1 tvg-name="Mega TV" tvg-chno="24" group-title="Paraguay",024 - Mega TV
+# PENDIENTE 078 - Luque Puroite Radio TV (sin enlace directo)
+# PENDIENTE 079 - Magazine Global (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-047" tvg-name="Más TV Encarnación" tvg-chno="80" group-title="Paraguay",080 - Más TV Encarnación
+https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
+# PENDIENTE 081 - Max Plus TV (sin enlace directo)
+# PENDIENTE 082 - Mbokayaty TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-049" tvg-name="Mega TV" tvg-chno="83" group-title="Paraguay",083 - Mega TV
 https://www.desde-paraguay.com/mega.m3u8
-#EXTINF:-1 tvg-name="Monumental TV" tvg-chno="25" group-title="Paraguay",025 - Monumental TV [alternativa 2]
-#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+# PENDIENTE 084 - Mil Ideas TV Canal 10 (sin enlace directo)
+# PENDIENTE 085 - Miranda Radio TV (sin enlace directo)
+# PENDIENTE 086 - Misión TV Digital (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-050" tvg-name="MiTV" tvg-chno="87" group-title="Paraguay",087 - MiTV
+http://190.128.214.97:64333/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="PY-051" tvg-name="Monumental TV" tvg-chno="88" group-title="Paraguay",088 - Monumental TV
 https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-name="NPY" tvg-chno="26" group-title="Paraguay",026 - NPY [alternativa 2]
-#EXTVLCOPT:http-referrer=https://www.npy.com.py/
-https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-name="Ñandejara Ne'e TV" tvg-chno="27" group-title="Paraguay",027 - Ñandejara Ne'e TV
+#EXTINF:-1 tvg-id="PY-052" tvg-name="Ñande Portetepe TV" tvg-chno="89" group-title="Paraguay",089 - Ñande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-id="PY-053" tvg-name="Ñandejara Ne'e TV" tvg-chno="90" group-title="Paraguay",090 - Ñandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-name="Ñandutí TV" tvg-chno="28" group-title="Paraguay",028 - Ñandutí TV [opción 1]
+#EXTINF:-1 tvg-id="PY-054" tvg-name="Ñandutí TV" tvg-chno="91" group-title="Paraguay",091 - Ñandutí TV
 https://nanduti.b-cdn.net/720p.m3u8
-#EXTINF:-1 tvg-name="Ñandutí TV" tvg-chno="29" group-title="Paraguay",029 - Ñandutí TV [opción 2]
-#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
-https://nanduti.b-cdn.net/Source.m3u8
-#EXTINF:-1 tvg-name="Oasis TV" tvg-chno="30" group-title="Paraguay",030 - Oasis TV
+# PENDIENTE 092 - Natalicio TV (sin enlace directo)
+# PENDIENTE 093 - NetPlayGo (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-056" tvg-name="Next HD" tvg-chno="94" group-title="Paraguay",094 - Next HD
+https://edge.enhdtv.com/nexthd/index.m3u8
+# PENDIENTE 095 - NotiFranco (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-058" tvg-name="NPY" tvg-chno="96" group-title="Paraguay",096 - NPY
+https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="PY-059" tvg-name="Oasis TV" tvg-chno="97" group-title="Paraguay",097 - Oasis TV
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-name="Occidental TV" tvg-chno="31" group-title="Paraguay",031 - Occidental TV
+#EXTINF:-1 tvg-id="PY-148" tvg-name="Obedira TV" tvg-chno="98" group-title="Paraguay",098 - Obedira TV
+https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
+#EXTINF:-1 tvg-id="PY-060" tvg-name="Occidental TV" tvg-chno="99" group-title="Paraguay",099 - Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-#EXTINF:-1 tvg-name="Oviedo TV" tvg-chno="32" group-title="Paraguay",032 - Oviedo TV
+#EXTINF:-1 tvg-id="PY-061" tvg-name="Oviedo TV" tvg-chno="100" group-title="Paraguay",100 - Oviedo TV
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:-1 tvg-name="Paraguay TV" tvg-chno="33" group-title="Paraguay",033 - Paraguay TV
+#EXTINF:-1 tvg-id="PY-149" tvg-name="Panambi Vera TV" tvg-chno="101" group-title="Paraguay",101 - Panambi Vera TV
+https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8
+#EXTINF:-1 tvg-id="PY-062" tvg-name="Paraguay TV" tvg-chno="102" group-title="Paraguay",102 - Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
-#EXTINF:-1 tvg-name="Paravisión" tvg-chno="34" group-title="Paraguay",034 - Paravisión
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
-#EXTINF:-1 tvg-name="Productiva TV" tvg-chno="35" group-title="Paraguay",035 - Productiva TV
+# PENDIENTE 103 - Paraná Medios (sin enlace directo)
+# PENDIENTE 104 - Paraná TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-065" tvg-name="Paravisión" tvg-chno="105" group-title="Paraguay",105 - Paravisión
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+# PENDIENTE 106 - PDS Radio y TV (sin enlace directo)
+# PENDIENTE 107 - PLRA TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-067" tvg-name="Popu TV" tvg-chno="108" group-title="Paraguay",108 - Popu TV
+http://190.108.83.69:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="PY-068" tvg-name="Productiva TV" tvg-chno="109" group-title="Paraguay",109 - Productiva TV
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-name="Radio Colmenar 92.5 FM TV" tvg-chno="36" group-title="Paraguay",036 - Radio Colmenar 92.5 FM TV
+# PENDIENTE 110 - Progreso TV (sin enlace directo)
+# PENDIENTE 111 - Pykasu Radio TV (sin enlace directo)
+# PENDIENTE 112 - Radio Ciudad TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-071" tvg-name="Radio Colmenar 92.5 FM TV" tvg-chno="113" group-title="Paraguay",113 - Radio Colmenar 92.5 FM TV
 https://tvdatta.com:3041/live/colmenarlive.m3u8
-#EXTINF:-1 tvg-name="Radio Guairá TV" tvg-chno="37" group-title="Paraguay",037 - Radio Guairá TV
+# PENDIENTE 114 - Radio Fénix TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-073" tvg-name="Radio Guairá TV" tvg-chno="115" group-title="Paraguay",115 - Radio Guairá TV
 https://tvdatta.com:3991/live/guairatvlive.m3u8
-#EXTINF:-1 tvg-name="Radio San Cristóbal TV" tvg-chno="38" group-title="Paraguay",038 - Radio San Cristóbal TV
+# PENDIENTE 116 - Radio Iguazú TV (sin enlace directo)
+# PENDIENTE 117 - Radio Miguelita TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-075" tvg-name="Radio San Cristóbal TV" tvg-chno="118" group-title="Paraguay",118 - Radio San Cristóbal TV
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
-#EXTINF:-1 tvg-name="Radio TV El Arca del Pacto" tvg-chno="39" group-title="Paraguay",039 - Radio TV El Arca del Pacto
+#EXTINF:-1 tvg-id="PY-076" tvg-name="Radio TV El Arca del Pacto" tvg-chno="119" group-title="Paraguay",119 - Radio TV El Arca del Pacto
 https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-#EXTINF:-1 tvg-name="RB TV" tvg-chno="40" group-title="Paraguay",040 - RB TV
+#EXTINF:-1 tvg-id="PY-077" tvg-name="RB TV" tvg-chno="120" group-title="Paraguay",120 - RB TV
 https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-#EXTINF:-1 tvg-name="RCC TV" tvg-chno="41" group-title="Paraguay",041 - RCC TV
+#EXTINF:-1 tvg-id="PY-078" tvg-name="RCC TV" tvg-chno="121" group-title="Paraguay",121 - RCC TV
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-name="Red Interior TV" tvg-chno="42" group-title="Paraguay",042 - Red Interior TV
+#EXTINF:-1 tvg-id="PY-079" tvg-name="RCN TV" tvg-chno="122" group-title="Paraguay",122 - RCN TV
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
+# PENDIENTE 123 - Red Activa Paraguay TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-080" tvg-name="Red Digital" tvg-chno="124" group-title="Paraguay",124 - Red Digital
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+#EXTINF:-1 tvg-id="PY-081" tvg-name="Red Interior TV" tvg-chno="125" group-title="Paraguay",125 - Red Interior TV
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-#EXTINF:-1 tvg-name="Regional TV Yaguarón" tvg-chno="43" group-title="Paraguay",043 - Regional TV Yaguarón
+#EXTINF:-1 tvg-id="PY-082" tvg-name="Regional TV Yaguarón" tvg-chno="126" group-title="Paraguay",126 - Regional TV Yaguarón
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
-#EXTINF:-1 tvg-name="República TV" tvg-chno="44" group-title="Paraguay",044 - República TV
+# PENDIENTE 127 - Renueva TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-083" tvg-name="República TV" tvg-chno="128" group-title="Paraguay",128 - República TV
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Senado TV" tvg-chno="45" group-title="Paraguay",045 - Senado TV
+# PENDIENTE 129 - Rewind (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-085" tvg-name="RTV 12" tvg-chno="130" group-title="Paraguay",130 - RTV 12
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+#EXTINF:-1 tvg-id="PY-086" tvg-name="Senado TV" tvg-chno="131" group-title="Paraguay",131 - Senado TV
 https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
-#EXTINF:-1 tvg-name="SNT" tvg-chno="46" group-title="Paraguay",046 - SNT
+# PENDIENTE 132 - Simplemente Cielo TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-087" tvg-name="SNT" tvg-chno="133" group-title="Paraguay",133 - SNT
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
-#EXTINF:-1 tvg-name="Telefuturo" tvg-chno="47" group-title="Paraguay",047 - Telefuturo [alternativa 2]
-#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
+#EXTINF:-1 tvg-id="PY-088" tvg-name="SNT" tvg-chno="134" group-title="Paraguay",134 - SNT
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="PY-089" tvg-name="Somos del Este TV" tvg-chno="135" group-title="Paraguay",135 - Somos del Este TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1 tvg-id="PY-090" tvg-name="Suceso TV" tvg-chno="136" group-title="Paraguay",136 - Suceso TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1 tvg-id="PY-091" tvg-name="SUR TV Itapúa" tvg-chno="137" group-title="Paraguay",137 - SUR TV Itapúa
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1 tvg-id="PY-092" tvg-name="Telefuturo" tvg-chno="138" group-title="Paraguay",138 - Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-name="Trece" tvg-chno="48" group-title="Paraguay",048 - Trece
-https://tv.mitvparaguay.com/hls?id=trece&type=hls
-#EXTINF:-1 tvg-name="Trece" tvg-chno="49" group-title="Paraguay",049 - Trece
+# PENDIENTE 139 - TN Noticias (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-094" tvg-name="Trece" tvg-chno="140" group-title="Paraguay",140 - Trece
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
-#EXTINF:-1 tvg-name="Tropicalia 93.9 FM" tvg-chno="50" group-title="Paraguay",050 - Tropicalia 93.9 FM
+#EXTINF:-1 tvg-id="PY-095" tvg-name="Tropicalia 93.9 FM" tvg-chno="141" group-title="Paraguay",141 - Tropicalia 93.9 FM
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
-#EXTINF:-1 tvg-name="TV Aire" tvg-chno="51" group-title="Paraguay",051 - TV Aire
+#EXTINF:-1 tvg-id="PY-096" tvg-name="TV Aire" tvg-chno="142" group-title="Paraguay",142 - TV Aire
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-#EXTINF:-1 tvg-name="TV Cámara" tvg-chno="52" group-title="Paraguay",052 - TV Cámara
-http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-#EXTINF:-1 tvg-name="TV Cámara" tvg-chno="53" group-title="Paraguay",053 - TV Cámara
+#EXTINF:-1 tvg-id="PY-097" tvg-name="TV Cámara" tvg-chno="143" group-title="Paraguay",143 - TV Cámara
 http://158.172.217.18:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-name="TV Canindeyú" tvg-chno="54" group-title="Paraguay",054 - TV Canindeyú
+#EXTINF:-1 tvg-id="PY-098" tvg-name="TV Canindeyú" tvg-chno="144" group-title="Paraguay",144 - TV Canindeyú
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
-#EXTINF:-1 tvg-name="Unicanal" tvg-chno="55" group-title="Paraguay",055 - Unicanal
+#EXTINF:-1 tvg-id="PY-099" tvg-name="TVS" tvg-chno="145" group-title="Paraguay",145 - TVS
+https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8
+#EXTINF:-1 tvg-id="PY-100" tvg-name="UGA TV" tvg-chno="146" group-title="Paraguay",146 - UGA TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+#EXTINF:-1 tvg-id="PY-101" tvg-name="Unicanal" tvg-chno="147" group-title="Paraguay",147 - Unicanal
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
-#EXTINF:-1 tvg-name="Unión TV" tvg-chno="56" group-title="Paraguay",056 - Unión TV
+#EXTINF:-1 tvg-id="PY-102" tvg-name="Unión TV" tvg-chno="148" group-title="Paraguay",148 - Unión TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-name="UniRadio TV" tvg-chno="57" group-title="Paraguay",057 - UniRadio TV
+#EXTINF:-1 tvg-id="PY-103" tvg-name="UniRadio TV" tvg-chno="149" group-title="Paraguay",149 - UniRadio TV
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-#EXTINF:-1 tvg-name="Venus Media" tvg-chno="58" group-title="Paraguay",058 - Venus Media
+# PENDIENTE 150 - Vamo al Aire TV (sin enlace directo)
+#EXTINF:-1 tvg-id="PY-105" tvg-name="Venus Media" tvg-chno="151" group-title="Paraguay",151 - Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Villa Elisa Radio TV" tvg-chno="59" group-title="Paraguay",059 - Villa Elisa Radio TV
+#EXTINF:-1 tvg-id="PY-106" tvg-name="Villa Elisa Radio TV" tvg-chno="152" group-title="Paraguay",152 - Villa Elisa Radio TV
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="PY-107" tvg-name="Visión Villarrica" tvg-chno="153" group-title="Paraguay",153 - Visión Villarrica
+http://inliveserver.com:1935/8312/8312/playlist.m3u8
+# PENDIENTE 154 - Xpress TV (sin enlace directo)
