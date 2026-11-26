@@ -183,3 +183,4 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-26T20:38:56+00:00,PY-080,Red Digital,hls_media,pendiente,estado
 2026-11-26T20:49:28+00:00,PY-080,Red Digital,hls_media,decodifica,estado
 2026-11-26T21:15:57+00:00,PY-038,GO TV,error_red_TimeoutError,decodifica,estado
+2026-11-26T22:50:39+00:00,PY-065,Paravisión,hls_master,error_decodificacion,estado
