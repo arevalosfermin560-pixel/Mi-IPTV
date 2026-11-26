@@ -543,19 +543,19 @@
   "PY-038": {
     "multimedia": "decodifica",
     "principal": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-    "rapida": "hls_master",
+    "rapida": "error_red_TimeoutError",
     "urls": {
       "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "hls_master"
+        "rapida": "error_red_TimeoutError"
       }
     }
   },
@@ -664,7 +664,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -1109,7 +1109,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
