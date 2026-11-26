@@ -176,3 +176,5 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-26T18:51:31+00:00,PY-001,4DmásNoticias TV,hls_master,decodifica,estado
 2026-11-26T18:51:31+00:00,PY-005,AGR FM TV,hls_master,decodifica,estado
 2026-11-26T18:51:31+00:00,PY-045,Los Ángeles TV Radio,hls_media,error_decodificacion,estado
+2026-11-26T19:46:39+00:00,PY-045,Los Ángeles TV Radio,hls_media,decodifica,estado
+2026-11-26T19:46:39+00:00,PY-077,RB TV,hls_media,decodifica,estado
