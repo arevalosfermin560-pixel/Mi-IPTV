@@ -664,13 +664,13 @@
     "rapida": "hls_media",
     "urls": {
       "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "960x720",
+          "resolucion": "384x288",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -772,7 +772,7 @@
   "PY-053": {
     "multimedia": "decodifica",
     "principal": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
-    "rapida": "error_red_TimeoutError",
+    "rapida": "http_404",
     "urls": {
       "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
         "exitos_multimedia": 0,
@@ -784,7 +784,7 @@
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "error_red_TimeoutError"
+        "rapida": "http_404"
       }
     }
   },
