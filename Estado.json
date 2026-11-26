@@ -548,7 +548,7 @@
       "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 2,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
