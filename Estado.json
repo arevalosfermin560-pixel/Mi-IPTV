@@ -78,19 +78,19 @@
   "PY-005": {
     "multimedia": "decodifica",
     "principal": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-    "rapida": "http_404",
+    "rapida": "error_red_TimeoutError",
     "urls": {
       "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "error_red_TimeoutError"
       }
     }
   },
@@ -670,7 +670,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "0x0",
+          "resolucion": "480x360",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -775,7 +775,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
