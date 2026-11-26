@@ -951,7 +951,7 @@
     "rapida": "hls_master",
     "urls": {
       "http://45.170.130.224:8000/play/a032/index.m3u8?hls": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
