@@ -158,3 +158,6 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-26T12:30:04+00:00,PY-008,América Paraguay,error_red_URLError,decodifica,estado
 2026-11-26T12:30:04+00:00,PY-018,Canal Guapa,error_red_URLError,decodifica,estado
 2026-11-26T12:30:04+00:00,PY-044,LIM TV,http_404,pendiente,estado
+2026-11-26T13:06:12+00:00,PY-003,A24 Paraguay,hls_master,decodifica,estado
+2026-11-26T13:06:12+00:00,PY-008,América Paraguay,hls_master,decodifica,estado
+2026-11-26T13:06:12+00:00,PY-018,Canal Guapa,hls_master,decodifica,estado
