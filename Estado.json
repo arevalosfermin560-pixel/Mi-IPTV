@@ -659,18 +659,18 @@
     }
   },
   "PY-045": {
-    "multimedia": "error_decodificacion",
+    "multimedia": "decodifica",
     "principal": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
     "rapida": "hls_media",
     "urls": {
       "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8": {
-        "exitos_multimedia": 0,
-        "fallos_multimedia": 1,
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
-          "estado": "error_decodificacion",
-          "resolucion": "0x0",
+          "estado": "decodifica",
+          "resolucion": "960x720",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -772,19 +772,19 @@
   "PY-053": {
     "multimedia": "decodifica",
     "principal": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
-    "rapida": "http_404",
+    "rapida": "error_red_TimeoutError",
     "urls": {
       "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "error_red_TimeoutError"
       }
     }
   },
@@ -901,7 +901,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
