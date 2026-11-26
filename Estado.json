@@ -546,7 +546,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -1156,15 +1156,20 @@
     }
   },
   "PY-080": {
-    "multimedia": "pendiente",
+    "multimedia": "decodifica",
     "principal": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
     "rapida": "hls_media",
     "urls": {
       "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
-        "multimedia": {},
+        "multimedia": {
+          "audio": "aac",
+          "estado": "decodifica",
+          "resolucion": "1920x1080",
+          "video": "h264"
+        },
         "rapida": "hls_media"
       }
     }

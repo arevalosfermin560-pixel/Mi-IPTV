@@ -122,7 +122,7 @@
 121,PY-078,RCC TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 122,PY-079,RCN TV,no,Timed out,error_red_URLError,pendiente,,,
 123,PY-152,Red Activa Paraguay TV,sin enlace,,sin_enlace,pendiente,,,
-124,PY-080,Red Digital,no,Offline,hls_media,pendiente,,,
+124,PY-080,Red Digital,no,Offline,hls_media,decodifica,h264,aac,1920x1080
 125,PY-081,Red Interior TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 126,PY-082,Regional TV Yaguarón,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 127,PY-153,Renueva TV,sin enlace,,sin_enlace,pendiente,,,
