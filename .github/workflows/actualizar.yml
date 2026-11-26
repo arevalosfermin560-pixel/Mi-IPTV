@@ -1,0 +1,43 @@
+name: IPTV Paraguay - mantenimiento
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '3 * * * *'
+    - cron: '23,43 * * * *'
+    - cron: '13,33,53 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: iptv-paraguay
+  cancel-in-progress: false
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar FFmpeg si falta
+        run: |
+          if ! command -v ffmpeg >/dev/null || ! command -v ffprobe >/dev/null; then
+            sudo apt-get update && sudo apt-get install -y ffmpeg
+          fi
+      - name: Verificar catálogo
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          case "$SCHEDULE" in
+            '13,33,53 * * * *') MODE=rapida ;;
+            '23,43 * * * *') MODE=profunda ;;
+            *) MODE=completa ;;
+          esac
+          python3 Verificar.py --modo "$MODE"
+      - name: Guardar cambios
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for f in Paraguay.m3u Canales.json Estado.json Estado.csv Historial.csv Candidatos.json; do
+            if [ -f "$f" ]; then git add -- "$f"; fi
+          done
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'IPTV: actualizar estados y señales'
+          git push
