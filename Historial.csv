@@ -231,3 +231,4 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T21:35:57+00:00,PY-076,Radio TV El Arca del Pacto,hls_media,decodifica,estado
 2026-11-27T21:50:15+00:00,PY-034,Farra Play,http_404,decodifica,estado
 2026-11-27T21:59:25+00:00,PY-053,Ñandejara Ne'e TV,error_red_TimeoutError,decodifica,estado
+2026-11-27T22:36:42+00:00,PY-053,Ñandejara Ne'e TV,http_404,decodifica,estado
