@@ -66,7 +66,7 @@
 65,PY-137,Fuente Paraguay TV,sin enlace,,sin_enlace,pendiente,,,
 66,PY-036,GCV Canal 10 Guajayví,no,Offline,error_red_URLError,pendiente,,,
 67,PY-037,GEN,sin enlace,,sin_enlace,pendiente,,,
-68,PY-038,GO TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
+68,PY-038,GO TV,sin fallo reportado,Online,error_red_TimeoutError,decodifica,h264,aac,1920x1080
 69,PY-039,HEi Now,no,Online,hls_master,decodifica,h264,aac,1280x720
 70,PY-040,Integración TV,no,Offline,error_red_URLError,pendiente,,,
 71,PY-041,Invasiva TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720
@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,352x262
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,490x360
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
@@ -117,7 +117,7 @@
 116,PY-074,Radio Iguazú TV,sin enlace,,sin_enlace,pendiente,,,
 117,PY-143,Radio Miguelita TV,sin enlace,,sin_enlace,pendiente,,,
 118,PY-075,Radio San Cristóbal TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1092x614
-119,PY-076,Radio TV El Arca del Pacto,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
+119,PY-076,Radio TV El Arca del Pacto,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 120,PY-077,RB TV,no,Offline,hls_media,decodifica,h264,aac,1280x720
 121,PY-078,RCC TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 122,PY-079,RCN TV,no,Timed out,error_red_URLError,pendiente,,,
