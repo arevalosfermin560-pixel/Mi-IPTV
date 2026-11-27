@@ -219,3 +219,5 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T17:13:50+00:00,PY-001,4DmásNoticias TV,hls_master,decodifica,estado
 2026-11-27T17:36:01+00:00,PY-045,Los Ángeles TV Radio,hls_media,error_decodificacion,estado
 2026-11-27T17:52:14+00:00,PY-045,Los Ángeles TV Radio,hls_media,decodifica,estado
+2026-11-27T19:00:59+00:00,PY-053,Ñandejara Ne'e TV,error_red_TimeoutError,decodifica,estado
+2026-11-27T19:00:59+00:00,PY-076,Radio TV El Arca del Pacto,http_404,decodifica,estado
