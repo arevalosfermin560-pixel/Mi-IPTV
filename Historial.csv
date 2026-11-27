@@ -189,3 +189,5 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T00:15:53+00:00,PY-067,Popu TV,error_red_RemoteDisconnected,pendiente,estado
 2026-11-27T00:42:44+00:00,PY-067,Popu TV,http_404,pendiente,estado
 2026-11-27T01:48:58+00:00,PY-006,Alcance FM PLAY TV,http_404,decodifica,estado
+2026-11-27T02:21:07+00:00,PY-010,Bruno Masi TV,hls_master,error_decodificacion,estado
+2026-11-27T02:21:07+00:00,PY-059,Oasis TV,http_404,decodifica,estado
