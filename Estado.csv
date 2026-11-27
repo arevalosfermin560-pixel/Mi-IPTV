@@ -8,7 +8,7 @@
 7,PY-006,Alcance FM PLAY TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1920x1080
 8,PY-110,Almaya TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 9,PY-007,Alt Media TV,no,Offline,http_404,pendiente,,,
-10,PY-008,América Paraguay,sin fallo reportado,Online,hls_master,sin_audio_video_confirmado,,,
+10,PY-008,América Paraguay,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 11,PY-009,Areguá TV,sin enlace,,sin_enlace,pendiente,,,
 12,PY-111,Artigas TV Online,sin enlace,,sin_enlace,pendiente,,,
 13,PY-010,Bruno Masi TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,0x0
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
