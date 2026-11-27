@@ -508,7 +508,7 @@
       "http://159.203.148.226/live/farra.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 2,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
@@ -553,7 +553,7 @@
       "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
@@ -777,7 +777,7 @@
   "PY-053": {
     "multimedia": "decodifica",
     "principal": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
-    "rapida": "http_404",
+    "rapida": "error_red_TimeoutError",
     "urls": {
       "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
         "exitos_multimedia": 0,
@@ -789,7 +789,7 @@
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "error_red_TimeoutError"
       }
     }
   },
