@@ -237,3 +237,4 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T23:00:37+00:00,PY-001,4DmásNoticias TV,error_red_TimeoutError,decodifica,estado
 2026-11-27T23:32:38+00:00,PY-008,América Paraguay,hls_master,decodifica,estado
 2026-11-27T23:46:50+00:00,PY-100,UGA TV,error_red_TimeoutError,decodifica,estado
+2026-11-27T23:56:55+00:00,PY-100,UGA TV,http_404,decodifica,estado
