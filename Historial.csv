@@ -206,3 +206,5 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T12:42:36+00:00,PY-038,GO TV,hls_master,decodifica,estado
 2026-11-27T12:48:42+00:00,PY-062,Paraguay TV,error_red_URLError,decodifica,estado
 2026-11-27T13:02:06+00:00,PY-062,Paraguay TV,hls_master,decodifica,estado
+2026-11-27T14:00:41+00:00,PY-059,Oasis TV,http_404,decodifica,estado
+2026-11-27T14:00:41+00:00,PY-061,Oviedo TV,http_404,decodifica,estado
