@@ -922,19 +922,19 @@
   "PY-062": {
     "multimedia": "decodifica",
     "principal": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
-    "rapida": "hls_master",
+    "rapida": "error_red_URLError",
     "urls": {
       "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "hls_master"
+        "rapida": "error_red_URLError"
       }
     }
   },
