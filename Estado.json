@@ -512,7 +512,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "0x0",
+          "resolucion": "426x238",
           "video": "h264"
         },
         "rapida": "hls_master"
@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "480x360",
+          "resolucion": "1280x720",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -870,7 +870,7 @@
       "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
@@ -908,7 +908,7 @@
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
