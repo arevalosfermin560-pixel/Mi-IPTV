@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "1280x720",
+          "resolucion": "0x0",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -903,19 +903,19 @@
   "PY-061": {
     "multimedia": "decodifica",
     "principal": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-    "rapida": "http_404",
+    "rapida": "hls_media",
     "urls": {
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 3,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_media"
       }
     }
   },
@@ -953,19 +953,19 @@
   "PY-065": {
     "multimedia": "decodifica",
     "principal": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
-    "rapida": "hls_master",
+    "rapida": "http_404",
     "urls": {
       "http://45.170.130.224:8000/play/a032/index.m3u8?hls": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "mp2",
           "estado": "decodifica",
           "resolucion": "720x480",
           "video": "mpeg2video"
         },
-        "rapida": "hls_master"
+        "rapida": "http_404"
       }
     }
   },
@@ -1339,19 +1339,19 @@
   "PY-091": {
     "multimedia": "decodifica",
     "principal": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-    "rapida": "hls_master",
+    "rapida": "http_404",
     "urls": {
       "http://45.170.130.224:8000/play/a036/index.m3u8?hls": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "mp2",
           "estado": "decodifica",
           "resolucion": "720x480",
           "video": "mpeg2video"
         },
-        "rapida": "hls_master"
+        "rapida": "http_404"
       }
     }
   },
