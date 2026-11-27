@@ -78,13 +78,16 @@ def discover(channels):
                         if not any(x['url']==line for x in arr): arr.append({'url':line,'fuente':src,'nombre':name,'aprobada':False})
                 name=None
     save(CAND,candidates)
-def render(channels):
+def render_paraguay(channels):
     lines=['#EXTM3U','# Catalogo permanente Paraguay. Sin enlace: comentario no reproducible.']
     for c in sorted(channels,key=lambda c:c['numero']):
         n=c['numero']; name=c['nombre'].replace('"',"'").replace('\n',' '); u=c['principal']
         if valid(u): lines += [f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{name}" tvg-chno="{n}" group-title="Paraguay",{n:03d} - {name}',u]
         else: lines.append(f'# PENDIENTE {n:03d} - {name} (sin enlace directo)')
     return '\n'.join(lines)+'\n'
+def render(channels):
+    from Internacional import append
+    return append(render_paraguay(channels))
 def run(mode):
     channels=load(CAT,[]); assert len(channels)==154 and len({c['id'] for c in channels})==154, 'Catalogo incompleto o ID repetido'
     old=load(STATE,{}); state={}; do_deep=mode in ('profunda','completa'); do_search=mode=='completa'
@@ -126,6 +129,9 @@ def run(mode):
     save(STATE,state)
     if modified: save(CAT,channels)
     # Nunca elimina una entrada por fallo ni introduce páginas HTML como señales.
+    if do_deep:
+        from Internacional import refresh
+        refresh()
     text=render(channels); playlist=ROOT/'Paraguay.m3u'
     if not playlist.exists() or playlist.read_text(encoding='utf-8-sig')!=text: playlist.write_text(text,encoding='utf-8')
     with REPORT.open('w',encoding='utf-8-sig',newline='') as f:

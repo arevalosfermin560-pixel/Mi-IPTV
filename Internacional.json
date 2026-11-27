@@ -1,0 +1,641 @@
+[
+  {
+    "name": "ABTV Bariloche",
+    "id": "",
+    "country": "AR",
+    "group": "Argentina",
+    "logo": "",
+    "language": "es",
+    "url": "https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8"
+  },
+  {
+    "name": "AlternaTV",
+    "id": "",
+    "country": "AR",
+    "group": "Argentina",
+    "logo": "",
+    "language": "es",
+    "url": "https://tv.alterna.ar/stream/hls/live.m3u8"
+  },
+  {
+    "name": "Canal Pulpo TV",
+    "id": "",
+    "country": "AR",
+    "group": "Argentina",
+    "logo": "",
+    "language": "es",
+    "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8"
+  },
+  {
+    "name": "Itel TV Canal 2",
+    "id": "",
+    "country": "AR",
+    "group": "Argentina",
+    "logo": "",
+    "language": "es",
+    "url": "https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8"
+  },
+  {
+    "name": "Mercurio Noticias",
+    "id": "",
+    "country": "AR",
+    "group": "Argentina",
+    "logo": "",
+    "language": "es",
+    "url": "https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8"
+  },
+  {
+    "name": "T5 Satelital",
+    "id": "",
+    "country": "AR",
+    "group": "Argentina",
+    "logo": "",
+    "language": "es",
+    "url": "https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8"
+  },
+  {
+    "name": "Canal Gov",
+    "id": "",
+    "country": "BR",
+    "group": "Brasil",
+    "logo": "",
+    "language": "pt",
+    "url": "https://canalgov-stream.ebc.com.br/index.m3u8"
+  },
+  {
+    "name": "Canal UOL",
+    "id": "",
+    "country": "BR",
+    "group": "Brasil",
+    "logo": "",
+    "language": "pt",
+    "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
+  },
+  {
+    "name": "Elemental Channel",
+    "id": "",
+    "country": "BR",
+    "group": "Brasil",
+    "logo": "",
+    "language": "pt",
+    "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
+  },
+  {
+    "name": "TV Brasil",
+    "id": "",
+    "country": "BR",
+    "group": "Brasil",
+    "logo": "",
+    "language": "pt",
+    "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
+  },
+  {
+    "name": "TV Cultura",
+    "id": "",
+    "country": "BR",
+    "group": "Brasil",
+    "logo": "",
+    "language": "pt",
+    "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8"
+  },
+  {
+    "name": "TV Câmara",
+    "id": "",
+    "country": "BR",
+    "group": "Brasil",
+    "logo": "",
+    "language": "pt",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
+  },
+  {
+    "name": "Canal ALMA",
+    "id": "",
+    "country": "UY",
+    "group": "Uruguay",
+    "logo": "",
+    "language": "es",
+    "url": "https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8"
+  },
+  {
+    "name": "Canal Más",
+    "id": "",
+    "country": "UY",
+    "group": "Uruguay",
+    "logo": "",
+    "language": "es",
+    "url": "https://canalmasuruguay.com/hls/master-abr.m3u8"
+  },
+  {
+    "name": "Canal Once Plus",
+    "id": "",
+    "country": "UY",
+    "group": "Uruguay",
+    "logo": "",
+    "language": "es",
+    "url": "https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8"
+  },
+  {
+    "name": "Desde El Sur TV",
+    "id": "",
+    "country": "UY",
+    "group": "Uruguay",
+    "logo": "",
+    "language": "es",
+    "url": "https://stmv.gmpro.top/surtv/surtv/playlist.m3u8"
+  },
+  {
+    "name": "Amitel TV",
+    "id": "",
+    "country": "BO",
+    "group": "Bolivia",
+    "logo": "",
+    "language": "es",
+    "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
+  },
+  {
+    "name": "As Contenidos",
+    "id": "",
+    "country": "BO",
+    "group": "Bolivia",
+    "logo": "",
+    "language": "es",
+    "url": "https://master.tucableip.com/ascontenido/index.m3u8"
+  },
+  {
+    "name": "Audiokiss",
+    "id": "",
+    "country": "BO",
+    "group": "Bolivia",
+    "logo": "",
+    "language": "es",
+    "url": "https://master.tucableip.com/audiokisstv/index.m3u8"
+  },
+  {
+    "name": "CTV",
+    "id": "",
+    "country": "BO",
+    "group": "Bolivia",
+    "logo": "",
+    "language": "es",
+    "url": "https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8"
+  },
+  {
+    "name": "Radio Suyai TV",
+    "id": "",
+    "country": "CL",
+    "group": "Chile",
+    "logo": "",
+    "language": "es",
+    "url": "https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8"
+  },
+  {
+    "name": "Solo TV",
+    "id": "",
+    "country": "CL",
+    "group": "Chile",
+    "logo": "",
+    "language": "es",
+    "url": "https://sproxy.solotv.cl/hls/live/fhd.m3u8"
+  },
+  {
+    "name": "Suyai TV",
+    "id": "",
+    "country": "CL",
+    "group": "Chile",
+    "logo": "",
+    "language": "es",
+    "url": "https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8"
+  },
+  {
+    "name": "TV Senado",
+    "id": "",
+    "country": "CL",
+    "group": "Chile",
+    "logo": "",
+    "language": "es",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8"
+  },
+  {
+    "name": "U Los Lagos TV",
+    "id": "",
+    "country": "CL",
+    "group": "Chile",
+    "logo": "",
+    "language": "es",
+    "url": "http://tv.ulagos.cl/web/live.m3u8"
+  },
+  {
+    "name": "Wapp",
+    "id": "",
+    "country": "CL",
+    "group": "Chile",
+    "logo": "",
+    "language": "es",
+    "url": "https://stream.wapptv.cl/video/index.m3u8"
+  },
+  {
+    "name": "Huacho Perú TV",
+    "id": "",
+    "country": "PE",
+    "group": "Perú",
+    "logo": "",
+    "language": "es",
+    "url": "https://tv.huachotv.com/stream.m3u8"
+  },
+  {
+    "name": "La Tremenda TV",
+    "id": "",
+    "country": "PE",
+    "group": "Perú",
+    "logo": "",
+    "language": "es",
+    "url": "https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Buenísima Radio TV",
+    "id": "",
+    "country": "CO",
+    "group": "Colombia",
+    "logo": "",
+    "language": "es",
+    "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8"
+  },
+  {
+    "name": "Canal Dos",
+    "id": "",
+    "country": "CO",
+    "group": "Colombia",
+    "logo": "",
+    "language": "es",
+    "url": "https://stream2.micanal2.tv/hls/canal2.m3u8"
+  },
+  {
+    "name": "Kalu TV",
+    "id": "",
+    "country": "CO",
+    "group": "Colombia",
+    "logo": "",
+    "language": "es",
+    "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8"
+  },
+  {
+    "name": "Momento24",
+    "id": "",
+    "country": "CO",
+    "group": "Colombia",
+    "logo": "",
+    "language": "es",
+    "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8"
+  },
+  {
+    "name": "Más Norte TV",
+    "id": "",
+    "country": "CO",
+    "group": "Colombia",
+    "logo": "",
+    "language": "es",
+    "url": "https://live.arnoproducciones.com/hls/norte.m3u8"
+  },
+  {
+    "name": "América Estéreo Guayaquil",
+    "id": "",
+    "country": "EC",
+    "group": "Ecuador",
+    "logo": "",
+    "language": "es",
+    "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
+  },
+  {
+    "name": "América Estéreo Ibarra",
+    "id": "",
+    "country": "EC",
+    "group": "Ecuador",
+    "logo": "",
+    "language": "es",
+    "url": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8"
+  },
+  {
+    "name": "América Estéreo Quito",
+    "id": "",
+    "country": "EC",
+    "group": "Ecuador",
+    "logo": "",
+    "language": "es",
+    "url": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8"
+  },
+  {
+    "name": "TV Legislativa",
+    "id": "",
+    "country": "EC",
+    "group": "Ecuador",
+    "logo": "",
+    "language": "es",
+    "url": "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8"
+  },
+  {
+    "name": "AbejalesTV",
+    "id": "",
+    "country": "VE",
+    "group": "Venezuela",
+    "logo": "",
+    "language": "es",
+    "url": "https://streaming5.globalhostla.com/rtplive/abejales/playlist.m3u8"
+  },
+  {
+    "name": "BTA TV",
+    "id": "",
+    "country": "VE",
+    "group": "Venezuela",
+    "logo": "",
+    "language": "es",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+  },
+  {
+    "name": "Canal I",
+    "id": "",
+    "country": "VE",
+    "group": "Venezuela",
+    "logo": "",
+    "language": "es",
+    "url": "https://streaming.canal-i.com/canal-i/live/master.m3u8"
+  },
+  {
+    "name": "TAM TV",
+    "id": "",
+    "country": "VE",
+    "group": "Venezuela",
+    "logo": "",
+    "language": "es",
+    "url": "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+  },
+  {
+    "name": "8NTV",
+    "id": "",
+    "country": "MX",
+    "group": "México",
+    "logo": "",
+    "language": "es",
+    "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8"
+  },
+  {
+    "name": "Alcance TV",
+    "id": "",
+    "country": "MX",
+    "group": "México",
+    "logo": "",
+    "language": "es",
+    "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8"
+  },
+  {
+    "name": "AMX Noticias",
+    "id": "",
+    "country": "MX",
+    "group": "México",
+    "logo": "",
+    "language": "es",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"
+  },
+  {
+    "name": "Antena TV",
+    "id": "",
+    "country": "MX",
+    "group": "México",
+    "logo": "",
+    "language": "es",
+    "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
+  },
+  {
+    "name": "Canal Once",
+    "id": "",
+    "country": "MX",
+    "group": "México",
+    "logo": "",
+    "language": "es",
+    "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8"
+  },
+  {
+    "name": "30A Georgia Hollywood Review",
+    "id": "",
+    "country": "US",
+    "group": "Estados Unidos",
+    "logo": "",
+    "language": "en",
+    "url": "https://30a-tv.com/gh.m3u8"
+  },
+  {
+    "name": "30A Investment Pitch",
+    "id": "",
+    "country": "US",
+    "group": "Estados Unidos",
+    "logo": "",
+    "language": "en",
+    "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8"
+  },
+  {
+    "name": "30A Luxe Life Discovered",
+    "id": "",
+    "country": "US",
+    "group": "Estados Unidos",
+    "logo": "",
+    "language": "en",
+    "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8"
+  },
+  {
+    "name": "30A Ridiculous TV",
+    "id": "",
+    "country": "US",
+    "group": "Estados Unidos",
+    "logo": "",
+    "language": "en",
+    "url": "https://30a-tv.com/feeds/720p/63.m3u8"
+  },
+  {
+    "name": "30A Sidewalks",
+    "id": "",
+    "country": "US",
+    "group": "Estados Unidos",
+    "logo": "",
+    "language": "en",
+    "url": "https://30a-tv.com/sidewalks.m3u8"
+  },
+  {
+    "name": "30A Television Channel",
+    "id": "",
+    "country": "US",
+    "group": "Estados Unidos",
+    "logo": "",
+    "language": "en",
+    "url": "https://30a-tv.com/feeds/masters/30atv.m3u8"
+  },
+  {
+    "name": "ABC News Live",
+    "id": "",
+    "country": "US",
+    "group": "Estados Unidos",
+    "logo": "",
+    "language": "en",
+    "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8"
+  },
+  {
+    "name": "CityNews Calgary",
+    "id": "",
+    "country": "CA",
+    "group": "Canadá",
+    "logo": "",
+    "language": "en",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
+  },
+  {
+    "name": "CityNews Toronto",
+    "id": "",
+    "country": "CA",
+    "group": "Canadá",
+    "logo": "",
+    "language": "en",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+  },
+  {
+    "name": "CityNews Vancouver",
+    "id": "",
+    "country": "CA",
+    "group": "Canadá",
+    "logo": "",
+    "language": "en",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
+  },
+  {
+    "name": "Agrotendencia TV",
+    "id": "",
+    "country": "CR",
+    "group": "Costa Rica",
+    "logo": "",
+    "language": "es",
+    "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
+  },
+  {
+    "name": "Canal 8",
+    "id": "",
+    "country": "CR",
+    "group": "Costa Rica",
+    "logo": "",
+    "language": "es",
+    "url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
+  },
+  {
+    "name": "Colosal TV",
+    "id": "",
+    "country": "CR",
+    "group": "Costa Rica",
+    "logo": "",
+    "language": "es",
+    "url": "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
+  },
+  {
+    "name": "Conexión Positiva TV",
+    "id": "",
+    "country": "CR",
+    "group": "Costa Rica",
+    "logo": "",
+    "language": "es",
+    "url": "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
+  },
+  {
+    "name": "Hosanna Visión",
+    "id": "",
+    "country": "PA",
+    "group": "Panamá",
+    "logo": "",
+    "language": "es",
+    "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8"
+  },
+  {
+    "name": "Más23 TV",
+    "id": "",
+    "country": "PA",
+    "group": "Panamá",
+    "logo": "",
+    "language": "es",
+    "url": "https://movil.ejeserver.com/live/mas23tv.m3u8"
+  },
+  {
+    "name": "Planet 100.9 FM",
+    "id": "",
+    "country": "PA",
+    "group": "Panamá",
+    "logo": "",
+    "language": "es",
+    "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
+  },
+  {
+    "name": "Acento TV",
+    "id": "",
+    "country": "DO",
+    "group": "República Dominicana",
+    "logo": "",
+    "language": "es",
+    "url": "https://acentotv01.streamprolive.com/hls/live.m3u8"
+  },
+  {
+    "name": "Canal del Sol",
+    "id": "",
+    "country": "DO",
+    "group": "República Dominicana",
+    "logo": "",
+    "language": "es",
+    "url": "https://stream.canaldelsol.com/sol26/live_1080.m3u8"
+  },
+  {
+    "name": "El Seis 6",
+    "id": "",
+    "country": "DO",
+    "group": "República Dominicana",
+    "logo": "",
+    "language": "es",
+    "url": "https://stream.elseis.do/canal6/live_1080.m3u8"
+  },
+  {
+    "name": "Larivision TV",
+    "id": "",
+    "country": "DO",
+    "group": "República Dominicana",
+    "logo": "",
+    "language": "es",
+    "url": "https://live.larivision.net/livelan/live.m3u8"
+  },
+  {
+    "name": "TV Canal Sur",
+    "id": "",
+    "country": "DO",
+    "group": "República Dominicana",
+    "logo": "",
+    "language": "es",
+    "url": "https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8"
+  },
+  {
+    "name": "HGPTV",
+    "id": "",
+    "country": "GY",
+    "group": "Guyana",
+    "logo": "",
+    "language": "en",
+    "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8"
+  },
+  {
+    "name": "MTV Guyana",
+    "id": "",
+    "country": "GY",
+    "group": "Guyana",
+    "logo": "",
+    "language": "en",
+    "url": "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8"
+  },
+  {
+    "name": "Trishul Broadcasting Network",
+    "id": "",
+    "country": "SR",
+    "group": "Surinam",
+    "logo": "",
+    "language": "en;nl;hi",
+    "url": "https://live.suricloud.com/hls/tbntv/index.m3u8"
+  }
+]
