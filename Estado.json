@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "0x0",
+          "resolucion": "1280x720",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -903,19 +903,19 @@
   "PY-061": {
     "multimedia": "decodifica",
     "principal": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-    "rapida": "http_404",
+    "rapida": "hls_media",
     "urls": {
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_media"
       }
     }
   },
