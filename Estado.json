@@ -903,7 +903,7 @@
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
