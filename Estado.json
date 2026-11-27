@@ -153,17 +153,17 @@
     "urls": {}
   },
   "PY-010": {
-    "multimedia": "error_decodificacion",
+    "multimedia": "decodifica",
     "principal": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
     "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8": {
-        "exitos_multimedia": 0,
-        "fallos_multimedia": 1,
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
-          "estado": "error_decodificacion",
+          "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
@@ -670,7 +670,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "384x288",
+          "resolucion": "1280x720",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -865,7 +865,7 @@
       "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
