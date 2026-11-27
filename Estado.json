@@ -664,18 +664,18 @@
     }
   },
   "PY-045": {
-    "multimedia": "error_decodificacion",
+    "multimedia": "decodifica",
     "principal": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
     "rapida": "hls_media",
     "urls": {
       "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8": {
-        "exitos_multimedia": 0,
-        "fallos_multimedia": 1,
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
-          "estado": "error_decodificacion",
-          "resolucion": "0x0",
+          "estado": "decodifica",
+          "resolucion": "352x262",
           "video": "h264"
         },
         "rapida": "hls_media"
