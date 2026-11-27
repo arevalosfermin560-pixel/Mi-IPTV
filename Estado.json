@@ -102,7 +102,7 @@
       "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
@@ -865,7 +865,7 @@
       "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 2,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
