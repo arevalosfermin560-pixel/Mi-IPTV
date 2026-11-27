@@ -670,7 +670,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "480x360",
+          "resolucion": "0x0",
           "video": "h264"
         },
         "rapida": "hls_media"
