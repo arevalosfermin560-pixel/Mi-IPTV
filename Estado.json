@@ -97,19 +97,19 @@
   "PY-006": {
     "multimedia": "decodifica",
     "principal": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
-    "rapida": "http_404",
+    "rapida": "hls_media",
     "urls": {
       "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 3,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_media"
       }
     }
   },
@@ -506,7 +506,7 @@
     "rapida": "hls_master",
     "urls": {
       "http://159.203.148.226/live/farra.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -868,7 +868,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -1552,7 +1552,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
