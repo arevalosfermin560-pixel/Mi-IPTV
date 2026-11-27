@@ -234,3 +234,4 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T22:36:42+00:00,PY-053,Ñandejara Ne'e TV,http_404,decodifica,estado
 2026-11-27T22:51:18+00:00,PY-008,América Paraguay,hls_master,sin_audio_video_confirmado,estado
 2026-11-27T22:51:18+00:00,PY-053,Ñandejara Ne'e TV,hls_master,decodifica,estado
+2026-11-27T23:00:37+00:00,PY-001,4DmásNoticias TV,error_red_TimeoutError,decodifica,estado
