@@ -202,3 +202,4 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T09:34:48+00:00,PY-103,UniRadio TV,hls_media,decodifica,estado
 2026-11-27T10:01:33+00:00,PY-006,Alcance FM PLAY TV,hls_media,decodifica,estado
 2026-11-27T10:55:00+00:00,PY-034,Farra Play,http_404,decodifica,estado
+2026-11-27T11:32:25+00:00,PY-034,Farra Play,hls_master,decodifica,estado

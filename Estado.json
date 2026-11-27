@@ -503,19 +503,19 @@
   "PY-034": {
     "multimedia": "decodifica",
     "principal": "http://159.203.148.226/live/farra.m3u8",
-    "rapida": "http_404",
+    "rapida": "hls_master",
     "urls": {
       "http://159.203.148.226/live/farra.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "426x238",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_master"
       }
     }
   },

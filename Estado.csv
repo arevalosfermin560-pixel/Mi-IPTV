@@ -59,7 +59,7 @@
 58,PY-133,En Lengua de Señas TV,sin enlace,,sin_enlace,pendiente,,,
 59,PY-033,Estación Cristal TV,no,Timed out,error_red_URLError,pendiente,,,
 60,PY-134,Estación Radio TV,sin enlace,,sin_enlace,pendiente,,,
-61,PY-034,Farra Play,no,Offline,http_404,decodifica,h264,aac,426x238
+61,PY-034,Farra Play,no,Offline,hls_master,decodifica,h264,aac,426x238
 62,PY-136,Fe TV,sin enlace,,sin_enlace,pendiente,,,
 63,PY-035,Fiera TV,sin enlace,,sin_enlace,pendiente,,,
 64,PY-135,FM Frutillar TV,sin enlace,,sin_enlace,pendiente,,,
