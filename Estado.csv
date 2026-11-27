@@ -59,7 +59,7 @@
 58,PY-133,En Lengua de Señas TV,sin enlace,,sin_enlace,pendiente,,,
 59,PY-033,Estación Cristal TV,no,Timed out,error_red_URLError,pendiente,,,
 60,PY-134,Estación Radio TV,sin enlace,,sin_enlace,pendiente,,,
-61,PY-034,Farra Play,no,Offline,http_404,pendiente,,,
+61,PY-034,Farra Play,no,Offline,hls_master,decodifica,h264,aac,426x238
 62,PY-136,Fe TV,sin enlace,,sin_enlace,pendiente,,,
 63,PY-035,Fiera TV,sin enlace,,sin_enlace,pendiente,,,
 64,PY-135,FM Frutillar TV,sin enlace,,sin_enlace,pendiente,,,
@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,480x356
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
@@ -95,7 +95,7 @@
 94,PY-056,Next HD,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 95,PY-057,NotiFranco,sin enlace,,sin_enlace,pendiente,,,
 96,PY-058,NPY,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
-97,PY-059,Oasis TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
+97,PY-059,Oasis TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 98,PY-148,Obedira TV,no,Timed out,error_red_URLError,pendiente,,,
 99,PY-060,Occidental TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1092x614
 100,PY-061,Oviedo TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
@@ -147,7 +147,7 @@
 146,PY-100,UGA TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 147,PY-101,Unicanal,no,Online,hls_media,sin_audio_video_confirmado,,,
 148,PY-102,Unión TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
-149,PY-103,UniRadio TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
+149,PY-103,UniRadio TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 150,PY-104,Vamo al Aire TV,sin enlace,,sin_enlace,pendiente,,,
 151,PY-105,Venus Media,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 152,PY-106,Villa Elisa Radio TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720

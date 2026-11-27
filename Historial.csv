@@ -197,3 +197,6 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-27T08:51:27+00:00,PY-075,Radio San Cristóbal TV,http_404,decodifica,estado
 2026-11-27T08:58:17+00:00,PY-061,Oviedo TV,hls_media,decodifica,estado
 2026-11-27T08:58:17+00:00,PY-075,Radio San Cristóbal TV,hls_media,decodifica,estado
+2026-11-27T09:34:48+00:00,PY-034,Farra Play,hls_master,decodifica,estado
+2026-11-27T09:34:48+00:00,PY-059,Oasis TV,hls_media,decodifica,estado
+2026-11-27T09:34:48+00:00,PY-103,UniRadio TV,hls_media,decodifica,estado
