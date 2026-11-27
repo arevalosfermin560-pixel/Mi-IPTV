@@ -5,7 +5,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -664,18 +664,18 @@
     }
   },
   "PY-045": {
-    "multimedia": "decodifica",
+    "multimedia": "error_decodificacion",
     "principal": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
     "rapida": "hls_media",
     "urls": {
       "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8": {
-        "exitos_multimedia": 2,
-        "fallos_multimedia": 0,
+        "exitos_multimedia": 0,
+        "fallos_multimedia": 1,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
-          "estado": "decodifica",
-          "resolucion": "490x360",
+          "estado": "error_decodificacion",
+          "resolucion": "0x0",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -782,7 +782,7 @@
       "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
@@ -956,7 +956,7 @@
     "rapida": "hls_master",
     "urls": {
       "http://45.170.130.224:8000/play/a032/index.m3u8?hls": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -1342,7 +1342,7 @@
     "rapida": "hls_master",
     "urls": {
       "http://45.170.130.224:8000/play/a036/index.m3u8?hls": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
