@@ -185,3 +185,5 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-26T21:15:57+00:00,PY-038,GO TV,error_red_TimeoutError,decodifica,estado
 2026-11-26T22:50:39+00:00,PY-065,Paravisión,hls_master,error_decodificacion,estado
 2026-11-26T23:19:23+00:00,PY-065,Paravisión,hls_master,decodifica,estado
+2026-11-27T00:15:53+00:00,PY-001,4DmásNoticias TV,error_red_TimeoutError,decodifica,estado
+2026-11-27T00:15:53+00:00,PY-067,Popu TV,error_red_RemoteDisconnected,pendiente,estado
