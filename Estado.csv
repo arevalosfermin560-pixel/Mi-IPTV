@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,384x288
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,908x720
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
@@ -100,7 +100,7 @@
 99,PY-060,Occidental TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1092x614
 100,PY-061,Oviedo TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 101,PY-149,Panambi Vera TV,no,Offline,http_404,pendiente,,,
-102,PY-062,Paraguay TV,sin fallo reportado,Online,error_red_URLError,decodifica,h264,aac,1920x1080
+102,PY-062,Paraguay TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 103,PY-063,Paraná Medios,sin enlace,,sin_enlace,pendiente,,,
 104,PY-064,Paraná TV,sin enlace,,sin_enlace,pendiente,,,
 105,PY-065,Paravisión,no,Online,hls_master,decodifica,mpeg2video,mp2,720x480

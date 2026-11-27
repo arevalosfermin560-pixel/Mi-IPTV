@@ -551,7 +551,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "384x288",
+          "resolucion": "908x720",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -922,19 +922,19 @@
   "PY-062": {
     "multimedia": "decodifica",
     "principal": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
-    "rapida": "error_red_URLError",
+    "rapida": "hls_master",
     "urls": {
       "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "error_red_URLError"
+        "rapida": "hls_master"
       }
     }
   },
