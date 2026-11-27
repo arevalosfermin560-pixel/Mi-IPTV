@@ -670,7 +670,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "384x288",
+          "resolucion": "480x356",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -898,19 +898,19 @@
   "PY-061": {
     "multimedia": "decodifica",
     "principal": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-    "rapida": "http_404",
+    "rapida": "hls_media",
     "urls": {
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 3,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_media"
       }
     }
   },
@@ -1068,19 +1068,19 @@
   "PY-075": {
     "multimedia": "decodifica",
     "principal": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-    "rapida": "http_404",
+    "rapida": "hls_media",
     "urls": {
       "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1092x614",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_media"
       }
     }
   },
@@ -1549,7 +1549,7 @@
       "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 2,
+        "fallos_rapidos": 3,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",

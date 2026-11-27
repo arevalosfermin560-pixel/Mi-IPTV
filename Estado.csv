@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,384x288
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,480x356
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
@@ -98,7 +98,7 @@
 97,PY-059,Oasis TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
 98,PY-148,Obedira TV,no,Timed out,error_red_URLError,pendiente,,,
 99,PY-060,Occidental TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1092x614
-100,PY-061,Oviedo TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
+100,PY-061,Oviedo TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 101,PY-149,Panambi Vera TV,no,Offline,http_404,pendiente,,,
 102,PY-062,Paraguay TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 103,PY-063,Paraná Medios,sin enlace,,sin_enlace,pendiente,,,
@@ -116,7 +116,7 @@
 115,PY-073,Radio Guairá TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 116,PY-074,Radio Iguazú TV,sin enlace,,sin_enlace,pendiente,,,
 117,PY-143,Radio Miguelita TV,sin enlace,,sin_enlace,pendiente,,,
-118,PY-075,Radio San Cristóbal TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1092x614
+118,PY-075,Radio San Cristóbal TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1092x614
 119,PY-076,Radio TV El Arca del Pacto,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 120,PY-077,RB TV,no,Offline,hls_media,decodifica,h264,aac,1280x720
 121,PY-078,RCC TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
