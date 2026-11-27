@@ -158,7 +158,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -670,7 +670,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "1280x720",
+          "resolucion": "480x360",
           "video": "h264"
         },
         "rapida": "hls_media"
