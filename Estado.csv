@@ -116,7 +116,7 @@
 115,PY-073,Radio Guairá TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 116,PY-074,Radio Iguazú TV,sin enlace,,sin_enlace,pendiente,,,
 117,PY-143,Radio Miguelita TV,sin enlace,,sin_enlace,pendiente,,,
-118,PY-075,Radio San Cristóbal TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1092x614
+118,PY-075,Radio San Cristóbal TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1092x614
 119,PY-076,Radio TV El Arca del Pacto,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 120,PY-077,RB TV,no,Offline,hls_media,decodifica,h264,aac,1280x720
 121,PY-078,RCC TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080

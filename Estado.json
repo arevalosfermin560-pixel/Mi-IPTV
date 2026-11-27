@@ -1068,19 +1068,19 @@
   "PY-075": {
     "multimedia": "decodifica",
     "principal": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-    "rapida": "hls_media",
+    "rapida": "http_404",
     "urls": {
       "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1092x614",
           "video": "h264"
         },
-        "rapida": "hls_media"
+        "rapida": "http_404"
       }
     }
   },
@@ -1549,7 +1549,7 @@
       "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 2,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
