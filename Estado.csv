@@ -1,5 +1,5 @@
 ﻿numero,id,canal,prueba_cielo_2026-11-26,checker_2026-11-26,rapida,multimedia,video,audio,resolucion
-1,PY-001,4DmásNoticias TV,sin fallo reportado,Online,error_red_TimeoutError,decodifica,h264,aac,1600x900
+1,PY-001,4DmásNoticias TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1600x900
 2,PY-002,5 Días TV,no,Online,hls_media,sin_audio_video_confirmado,,,
 3,PY-003,A24 Paraguay,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 4,PY-004,ABC TV,no,Online,hls_media,sin_audio_video_confirmado,,,

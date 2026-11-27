@@ -2,19 +2,19 @@
   "PY-001": {
     "multimedia": "decodifica",
     "principal": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-    "rapida": "error_red_TimeoutError",
+    "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 3,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1600x900",
           "video": "h264"
         },
-        "rapida": "error_red_TimeoutError"
+        "rapida": "hls_master"
       }
     }
   },
@@ -782,7 +782,7 @@
       "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 2,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
