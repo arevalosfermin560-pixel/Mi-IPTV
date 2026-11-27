@@ -9,7 +9,12 @@ RAW='https://raw.githubusercontent.com/nexonic-technologies/nexonic-iptv/main/pl
 LIMIT=1000
 COUNTRIES=dict(zip('AR BR UY BO CL PE CO EC VE MX US CA ES PY CR PA DO HN GT SV NI PR CU HT JM BZ GY SR GB FR DE IT PT NL JP KR IN AU NZ'.split(),'Argentina|Brasil|Uruguay|Bolivia|Chile|Perú|Colombia|Ecuador|Venezuela|México|Estados Unidos|Canadá|España|Paraguay|Costa Rica|Panamá|República Dominicana|Honduras|Guatemala|El Salvador|Nicaragua|Puerto Rico|Cuba|Haití|Jamaica|Belice|Guyana|Surinam|Reino Unido|Francia|Alemania|Italia|Portugal|Países Bajos|Japón|Corea del Sur|India|Australia|Nueva Zelanda'.split('|')))
 THEMES={'sports':'Deportes','movies':'Cine y series','series':'Cine y series','news':'Noticias','documentary':'Cultura','culture':'Cultura','education':'Cultura','science':'Cultura','music':'Música','kids':'Infantil','religious':'Religioso','entertainment':'Entretenimiento','lifestyle':'Entretenimiento'}
-ORDER=['Deportes','Cine y series','Noticias','Cultura','Infantil','Música','Religioso','Entretenimiento']+list(COUNTRIES.values())
+XUPER_COUNTRIES = ['Argentina','Brasil','Bolivia','Chile','Colombia','Ecuador','Perú','Uruguay','Venezuela','México','Estados Unidos','Canadá','España','Costa Rica','Panamá','República Dominicana','Honduras','El Salvador','Puerto Rico','Guatemala','Nicaragua','Cuba']
+ORDER=['Deportes','Cine y series','Noticias','Cultura','Música','Infantil','Religioso','Entretenimiento']+XUPER_COUNTRIES+['Desde Internet']
+# Los grupos no documentados se concentran en Desde Internet; no se descartan señales.
+def menu_group(g):
+    g=COUNTRIES.get(g.upper(),g)
+    return g if g in ORDER else 'Desde Internet'
 # Objetivos orientativos; el resto se reparte por grupo, sin duplicar canales.
 QUOTAS={'Deportes':65,'Cine y series':85,'Noticias':50,'Cultura':45,'Infantil':25,'Música':30,'Religioso':15,'Entretenimiento':35,'Argentina':65,'Brasil':65,'México':70,'Estados Unidos':70,'España':50,'Colombia':45,'Chile':40,'Perú':35,'Ecuador':30,'Bolivia':25,'Uruguay':20,'Venezuela':20,'Canadá':20}
 def norm(s): return re.sub(r'[^a-z0-9]','',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower())
@@ -45,7 +50,7 @@ def group(e,cat):
     for t in tags:
         if t.strip().lower() in THEMES: return THEMES[t.strip().lower()]
     c=country(e)
-    return COUNTRIES.get(c,c or 'Otros países')
+    return menu_group(COUNTRIES.get(c,c or 'Otros países'))
 def fetch(url):
     with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mi-IPTV/2.0'}),timeout=25) as r:
         data=r.read(12_000_001)
@@ -92,8 +97,8 @@ def load(): return json.loads(CACHE.read_text(encoding='utf-8')) if CACHE.exists
 def append(text):
     lines=[text.rstrip()]; seen=set(x.strip() for x in text.splitlines() if x.startswith(('http://','https://')))
     n=154
-    for e in load():
+    for e in sorted(load(),key=lambda e:(ORDER.index(menu_group(e['group'])),e['name'].casefold())):
         if not url_ok(e['url']) or e['url'] in seen or country(e)=='PY': continue
-        seen.add(e['url']); n+=1; name=safe(e['name']); groupname=safe(e['group']); logo=safe(e['logo']); ident=safe(e['id']); c=safe(country(e))
+        seen.add(e['url']); n+=1; name=safe(e['name']); groupname=safe(menu_group(e['group'])); logo=safe(e['logo']); ident=safe(e['id']); c=safe(country(e))
         lines += [f'#EXTINF:-1 tvg-id="{ident}" tvg-name="{name}" tvg-logo="{logo}" tvg-country="{c}" tvg-chno="{n}" group-title="{groupname}",{n:03d} - {name}',e['url']]
     return '\n'.join(lines)+'\n'
