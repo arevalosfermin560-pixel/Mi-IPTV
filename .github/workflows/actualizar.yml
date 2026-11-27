@@ -31,6 +31,8 @@ jobs:
             *) MODE=completa ;;
           esac
           python3 Verificar.py --modo "$MODE"
+      - name: Aplicar grupos fijos Xuper
+        run: python3 Grupos.py
       - name: Guardar cambios
         run: |
           git config user.name 'github-actions[bot]'
