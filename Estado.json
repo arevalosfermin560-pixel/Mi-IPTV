@@ -230,7 +230,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -287,7 +287,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://guapa-live.argosworkspace.com/guapa/index.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -777,19 +777,19 @@
   "PY-053": {
     "multimedia": "decodifica",
     "principal": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
-    "rapida": "http_404",
+    "rapida": "hls_master",
     "urls": {
       "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_master"
       }
     }
   },
@@ -865,19 +865,19 @@
   "PY-059": {
     "multimedia": "decodifica",
     "principal": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-    "rapida": "hls_media",
+    "rapida": "http_404",
     "urls": {
       "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
-        "exitos_multimedia": 2,
+        "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 0,
+        "fallos_rapidos": 1,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "hls_media"
+        "rapida": "http_404"
       }
     }
   },
