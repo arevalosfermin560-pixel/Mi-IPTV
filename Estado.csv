@@ -98,7 +98,7 @@
 97,PY-059,Oasis TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 98,PY-148,Obedira TV,no,Timed out,error_red_URLError,pendiente,,,
 99,PY-060,Occidental TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1092x614
-100,PY-061,Oviedo TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
+100,PY-061,Oviedo TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 101,PY-149,Panambi Vera TV,no,Offline,http_404,pendiente,,,
 102,PY-062,Paraguay TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 103,PY-063,Paraná Medios,sin enlace,,sin_enlace,pendiente,,,
@@ -140,7 +140,7 @@
 139,PY-093,TN Noticias,sin enlace,,sin_enlace,pendiente,,,
 140,PY-094,Trece,no,Online,hls_media,sin_audio_video_confirmado,,,
 141,PY-095,Tropicalia 93.9 FM,no,Online,hls_media,sin_audio_video_confirmado,,,
-142,PY-096,TV Aire,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
+142,PY-096,TV Aire,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 143,PY-097,TV Cámara,no,Online,hls_master,decodifica,mpeg2video,mp2,720x480
 144,PY-098,TV Canindeyú,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 145,PY-099,TVS,no,Timed out,error_red_TimeoutError,pendiente,,,
