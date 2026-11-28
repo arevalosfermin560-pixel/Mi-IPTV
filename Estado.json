@@ -43,7 +43,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://a24-live.argosworkspace.com/a24/index.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -133,7 +133,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://america-live.argosworkspace.com/america/index.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -287,7 +287,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://guapa-live.argosworkspace.com/guapa/index.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "480x360",
+          "resolucion": "1280x720",
           "video": "h264"
         },
         "rapida": "hls_media"
