@@ -865,19 +865,19 @@
   "PY-059": {
     "multimedia": "decodifica",
     "principal": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-    "rapida": "http_404",
+    "rapida": "hls_media",
     "urls": {
       "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 3,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "http_404"
+        "rapida": "hls_media"
       }
     }
   },
