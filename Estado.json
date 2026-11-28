@@ -551,7 +551,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "480x360",
+          "resolucion": "1280x720",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -1478,14 +1478,14 @@
   "PY-099": {
     "multimedia": "pendiente",
     "principal": "https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8",
-    "rapida": "http_404",
+    "rapida": "error_red_TimeoutError",
     "urls": {
       "https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
         "fallos_rapidos": 3,
         "multimedia": {},
-        "rapida": "http_404"
+        "rapida": "error_red_TimeoutError"
       }
     }
   },
