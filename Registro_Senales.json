@@ -6,25 +6,25 @@
     "grupo": "Paraguay",
     "nombre": "TV Cámara",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://159.203.148.226/live/farra.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-034\" tvg-name=\"Farra Play\" tvg-chno=\"61\" group-title=\"Paraguay\",061 - Farra Play",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Farra Play",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://159.203.148.226/live/farra_low.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Farra Play",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "Farra Play",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://168.232.168.242:4000/play/a00b/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",A&E HD",
@@ -2625,29 +2625,29 @@
   "http://190.108.83.69:8000/play/a070/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-067\" tvg-name=\"Popu TV\" tvg-chno=\"108\" group-title=\"Paraguay\",108 - Popu TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Popu TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://190.128.214.97:64333/play/a011/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-032\" tvg-name=\"Educanal\" tvg-chno=\"55\" group-title=\"Paraguay\",055 - Educanal",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Educanal",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://190.128.214.97:64333/play/a02w/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-050\" tvg-name=\"MiTV\" tvg-chno=\"87\" group-title=\"Paraguay\",087 - MiTV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "MiTV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://190.60.52.28:5001/play/a094/index.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"-\",ESPN 3 HD (N2)",
@@ -2854,7 +2854,7 @@
     "grupo": "Paraguay",
     "nombre": "Paravisión",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.170.130.224:8000/play/a036/index.m3u8?hls": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-091\" tvg-name=\"SUR TV Itapúa\" tvg-chno=\"137\" group-title=\"Paraguay\",137 - SUR TV Itapúa",
@@ -2863,7 +2863,7 @@
     "grupo": "Paraguay",
     "nombre": "SUR TV Itapúa",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.170.130.224:8000/play/a03x/index.m3u8?hls": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",TV Cámara",
@@ -2872,79 +2872,79 @@
     "grupo": "Paraguay",
     "nombre": "TV Cámara",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-087\" tvg-name=\"SNT\" tvg-chno=\"133\" group-title=\"Paraguay\",133 - SNT",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Paravisión",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "Paravisión",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-002\" tvg-name=\"5 Días TV\" tvg-chno=\"2\" group-title=\"Paraguay\",002 - 5 Días TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "5 Días TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-095\" tvg-name=\"Tropicalia 93.9 FM\" tvg-chno=\"141\" group-title=\"Paraguay\",141 - Tropicalia 93.9 FM",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Tropicalia 93.9 FM",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-004\" tvg-name=\"ABC TV\" tvg-chno=\"4\" group-title=\"Paraguay\",004 - ABC TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "ABC TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-101\" tvg-name=\"Unicanal\" tvg-chno=\"147\" group-title=\"Paraguay\",147 - Unicanal",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-094\" tvg-name=\"Trece\" tvg-chno=\"140\" group-title=\"Paraguay\",140 - Trece",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Trece",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://45.55.127.106/live/unicanal_mid.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Unicanal",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal2000.es@SD\" tvg-name=\"Canal 2000\" tvg-logo=\"https://i.imgur.com/9RoBASf.png\" tvg-country=\"ES\" tvg-chno=\"1034\" group-title=\"España\",1034 - Canal 2000",
@@ -5491,11 +5491,11 @@
   "http://inliveserver.com:1935/8312/8312/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-107\" tvg-name=\"Visión Villarrica\" tvg-chno=\"153\" group-title=\"Paraguay\",153 - Visión Villarrica",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Visión Villarrica",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://intelincloud01.com.ar/hls/cn3/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal3Pinamar.ar@SD\" tvg-name=\"Canal 3 Pinamar\" tvg-logo=\"https://i.imgur.com/IABFaH1.png\" tvg-country=\"AR\" tvg-chno=\"613\" group-title=\"Argentina\",613 - Canal 3 Pinamar",
@@ -5527,47 +5527,47 @@
   "http://nextplayparaguay.live/hls/canal10.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-036\" tvg-name=\"GCV Canal 10 Guajayví\" tvg-chno=\"66\" group-title=\"Paraguay\",066 - GCV Canal 10 Guajayví",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "GCV Canal 10 Guajayví",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://nextplayparaguay.live/hls/guajayvifm.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-024\" tvg-name=\"Choré TV\" tvg-chno=\"46\" group-title=\"Paraguay\",046 - Choré TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Choré TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://nextplayparaguay.live/hls/integraciontv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-040\" tvg-name=\"Integración TV\" tvg-chno=\"70\" group-title=\"Paraguay\",070 - Integración TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Integración TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://strm.unicanal.com.py/live/unicanal.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Unicanal",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://strm.unicanal.com.py/live/unicanal_src.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Unicanal",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DisneyJrLatinAmerica.ar@South\" tvg-name=\"Disney Jr. Latin America (South)\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg\" tvg-country=\"AR\" tvg-chno=\"625\" group-title=\"Argentina\",625 - Disney Jr. Latin America (South)",
@@ -5581,11 +5581,11 @@
   "http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-023\" tvg-name=\"Central TV\" tvg-chno=\"45\" group-title=\"Paraguay\",045 - Central TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Central TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",HOLA! Play",
@@ -6161,101 +6161,101 @@
   "https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-033\" tvg-name=\"Estación Cristal TV\" tvg-chno=\"59\" group-title=\"Paraguay\",059 - Estación Cristal TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Estación Cristal TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Educanal",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "Educanal",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-047\" tvg-name=\"Más TV Encarnación\" tvg-chno=\"80\" group-title=\"Paraguay\",080 - Más TV Encarnación",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Más TV Encarnación",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-085\" tvg-name=\"RTV 12\" tvg-chno=\"130\" group-title=\"Paraguay\",130 - RTV 12",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "RTV 12",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-148\" tvg-name=\"Obedira TV\" tvg-chno=\"98\" group-title=\"Paraguay\",098 - Obedira TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Obedira TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",RCC TV",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "RCC TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-079\" tvg-name=\"RCN TV\" tvg-chno=\"122\" group-title=\"Paraguay\",122 - RCN TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "RCN TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-089\" tvg-name=\"Somos del Este TV\" tvg-chno=\"135\" group-title=\"Paraguay\",135 - Somos del Este TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Somos del Este TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Somos del Este TV",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "Somos del Este TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-090\" tvg-name=\"Suceso TV\" tvg-chno=\"136\" group-title=\"Paraguay\",136 - Suceso TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Suceso TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-012\" tvg-name=\"Cablemás TV\" tvg-chno=\"16\" group-title=\"Paraguay\",016 - Cablemás TV",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "Cablemás TV",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Globovision.ve@SD\" tvg-name=\"Globovision\" tvg-logo=\"https://i.imgur.com/v6nRdxQ.png\" tvg-country=\"VE\" tvg-chno=\"860\" group-title=\"Venezuela\",860 - Globovision",
@@ -7040,7 +7040,7 @@
     "grupo": "Paraguay",
     "nombre": "A24 Paraguay",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RakutenTVDramaMovies.es@Spain\" tvg-name=\"Rakuten TV Drama Movies\" tvg-logo=\"https://i.imgur.com/Meew6eX.png\" tvg-country=\"ES\" tvg-chno=\"330\" group-title=\"Cine y series\",330 - Rakuten TV Drama Movies",
@@ -7198,29 +7198,29 @@
   "https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-011\" tvg-name=\"C9N\" tvg-chno=\"14\" group-title=\"Paraguay\",014 - C9N",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "C9N",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-088\" tvg-name=\"SNT\" tvg-chno=\"134\" group-title=\"Paraguay\",134 - SNT",
     "estado": "no_confirmado",
-    "fallos": 8,
+    "fallos": 9,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",SNT",
     "estado": "no_confirmado",
-    "fallos": 6,
+    "fallos": 7,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AlexBerlin.de@SD\" tvg-name=\"Alex Berlin\" tvg-logo=\"https://i.imgur.com/eTmHk4e.png\" tvg-country=\"DE\" tvg-chno=\"1152\" group-title=\"Desde Internet\",1152 - Alex Berlin",
@@ -7283,7 +7283,7 @@
     "grupo": "Paraguay",
     "nombre": "América Paraguay",
     "opciones": [],
-    "ultimo": 1795884198
+    "ultimo": 1795886246
   },
   "https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DogtheBountyHunter.us@UK\" tvg-name=\"Dog the Bounty Hunter (UK)\" tvg-logo=\"https://i.imgur.com/lMICupK.png\" tvg-country=\"US\" tvg-chno=\"263\" group-title=\"Cine y series\",263 - Dog the Bounty Hunter (UK)",
@@ -8097,11 +8097,11 @@
   "https://cdn.jwplayer.com/live/broadcast/aide2636.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",ABC TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "ABC TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://cdn.live247stream.com/hyder/tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"HyderTV.ca@SD\" tvg-name=\"Hyder TV\" tvg-logo=\"https://i.imgur.com/reHjjRZ.png\" tvg-country=\"CA\" tvg-chno=\"444\" group-title=\"Cultura\",444 - Hyder TV",
@@ -8540,11 +8540,11 @@
   "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Educanal",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Educanal",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AlcarriaTV.es@SD\" tvg-name=\"Alcarria TV\" tvg-logo=\"\" tvg-country=\"ES\" tvg-chno=\"1030\" group-title=\"España\",1030 - Alcarria TV",
@@ -8618,7 +8618,7 @@
     "grupo": "Paraguay",
     "nombre": "HEi Now",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Monumental TV",
@@ -8627,7 +8627,7 @@
     "grupo": "Paraguay",
     "nombre": "Monumental TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-053\" tvg-name=\"Ñandejara Ne'e TV\" tvg-chno=\"90\" group-title=\"Paraguay\",090 - Ñandejara Ne'e TV",
@@ -8636,7 +8636,7 @@
     "grupo": "Paraguay",
     "nombre": "Ñandejara Ne'e TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",NPY",
@@ -8645,16 +8645,16 @@
     "grupo": "Paraguay",
     "nombre": "NPY",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Telefuturo",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Telefuturo",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Popu TV",
@@ -8663,16 +8663,16 @@
     "grupo": "Paraguay",
     "nombre": "Popu TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-106\" tvg-name=\"Villa Elisa Radio TV\" tvg-chno=\"152\" group-title=\"Paraguay\",152 - Villa Elisa Radio TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Villa Elisa Radio TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-068\" tvg-name=\"Productiva TV\" tvg-chno=\"109\" group-title=\"Paraguay\",109 - Productiva TV",
@@ -8681,7 +8681,7 @@
     "grupo": "Paraguay",
     "nombre": "Productiva TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-078\" tvg-name=\"RCC TV\" tvg-chno=\"121\" group-title=\"Paraguay\",121 - RCC TV",
@@ -8690,7 +8690,7 @@
     "grupo": "Paraguay",
     "nombre": "RCC TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-031\" tvg-name=\"E40\" tvg-chno=\"54\" group-title=\"Paraguay\",054 - E40",
@@ -8699,7 +8699,7 @@
     "grupo": "Paraguay",
     "nombre": "E40",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-043\" tvg-name=\"Latele\" tvg-chno=\"73\" group-title=\"Paraguay\",073 - Latele",
@@ -8708,7 +8708,7 @@
     "grupo": "Paraguay",
     "nombre": "Latele",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Telefuturo",
@@ -8717,7 +8717,7 @@
     "grupo": "Paraguay",
     "nombre": "Telefuturo",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-092\" tvg-name=\"Telefuturo\" tvg-chno=\"138\" group-title=\"Paraguay\",138 - Telefuturo",
@@ -8726,7 +8726,7 @@
     "grupo": "Paraguay",
     "nombre": "Telefuturo",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://crtvg-europa.flumotion.cloud/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"GaliciaTVEuropa.es@SD\" tvg-name=\"Galicia TV Europa\" tvg-logo=\"https://i.imgur.com/dvkzH8n.png\" tvg-country=\"ES\" tvg-chno=\"1053\" group-title=\"España\",1053 - Galicia TV Europa",
@@ -8886,20 +8886,20 @@
   "https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",C9N",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "C9N",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",ABC TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "ABC TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABPNews.in@SD\" tvg-name=\"ABP News\" tvg-logo=\"https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540\" tvg-country=\"IN\" tvg-chno=\"346\" group-title=\"Noticias\",346 - ABP News",
@@ -8958,11 +8958,11 @@
   "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",C9N",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "C9N",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",El Pais TV",
@@ -9027,16 +9027,16 @@
     "grupo": "Desde Internet",
     "nombre": "Canela TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",SNT",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PBSNature.us@SD\" tvg-name=\"PBS Nature\" tvg-logo=\"https://i.imgur.com/Brry7cZ.png\" tvg-country=\"US\" tvg-chno=\"315\" group-title=\"Cine y series\",315 - PBS Nature",
@@ -9045,7 +9045,7 @@
     "grupo": "Cine y series",
     "nombre": "PBS Nature",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TSNTheOcho.ca@SD\" tvg-name=\"TSN The Ocho\" tvg-logo=\"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png\" tvg-country=\"CA\" tvg-chno=\"231\" group-title=\"Deportes\",231 - TSN The Ocho",
@@ -9054,7 +9054,7 @@
     "grupo": "Deportes",
     "nombre": "TSN The Ocho",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f8d92312b9a4783bbd706cf7ed86085/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BansalNews.in@SD\" tvg-name=\"Bansal News\" tvg-logo=\"https://dtil.tmsimg.com/assets/s142702_ld_h9_aa.png?lock=720x540\" tvg-country=\"IN\" tvg-chno=\"371\" group-title=\"Noticias\",371 - Bansal News",
@@ -9063,7 +9063,7 @@
     "grupo": "Noticias",
     "nombre": "Bansal News",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a3e6a5fec4354ec4ae0ca5ed539ff641/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AasthaTelugu.in@SD\" tvg-name=\"Aastha Telugu\" tvg-logo=\"https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540\" tvg-country=\"IN\" tvg-chno=\"545\" group-title=\"Religioso\",545 - Aastha Telugu",
@@ -9072,7 +9072,7 @@
     "grupo": "Religioso",
     "nombre": "Aastha Telugu",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABC.us@KRGVTV\" tvg-name=\"ABC (KRGV-TV)\" tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvETpbhVGYqrNLKf-Jh12zQsXVxAWJM-r6HlUG5NmHqNVlvDaWbBcFKRc-7wWaL7DVM0&usqp=CAU\" tvg-country=\"US\" tvg-chno=\"924\" group-title=\"Estados Unidos\",924 - ABC (KRGV-TV)",
@@ -9081,7 +9081,7 @@
     "grupo": "Estados Unidos",
     "nombre": "ABC (KRGV-TV)",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AntiquesRoadTrip.us@SD\" tvg-name=\"Antiques Road Trip\" tvg-logo=\"https://i.imgur.com/kkm7VqV.png\" tvg-country=\"US\" tvg-chno=\"571\" group-title=\"Desde Internet\",571 - Antiques Road Trip",
@@ -9090,7 +9090,7 @@
     "grupo": "Desde Internet",
     "nombre": "Antiques Road Trip",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"GravitasMovies.us@SD\" tvg-name=\"Gravitas Movies\" tvg-logo=\"https://i.imgur.com/H2hD4vT.png\" tvg-country=\"US\" tvg-chno=\"277\" group-title=\"Cine y series\",277 - Gravitas Movies",
@@ -9099,7 +9099,7 @@
     "grupo": "Cine y series",
     "nombre": "Gravitas Movies",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RacerSelect.us@SD\" tvg-name=\"Racer Select\" tvg-logo=\"https://i.imgur.com/CurtYvn.png\" tvg-country=\"US\" tvg-chno=\"212\" group-title=\"Deportes\",212 - Racer Select",
@@ -9108,7 +9108,7 @@
     "grupo": "Deportes",
     "nombre": "Racer Select",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"beINSPORTSXTRA.us@SD\" tvg-name=\"beIN SPORTS XTRA\" tvg-logo=\"https://i.ibb.co/HT49GPmB/XTRA-2.png\" tvg-country=\"US\" tvg-chno=\"161\" group-title=\"Deportes\",161 - beIN SPORTS XTRA",
@@ -9117,7 +9117,7 @@
     "grupo": "Deportes",
     "nombre": "beIN SPORTS XTRA",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Ecuavisa.ec@Guayaquil\" tvg-name=\"Ecuavisa (Guayaquil)\" tvg-logo=\"https://i.imgur.com/Hl5wowk.png\" tvg-country=\"EC\" tvg-chno=\"801\" group-title=\"Ecuador\",801 - Ecuavisa (Guayaquil)",
@@ -9126,7 +9126,7 @@
     "grupo": "Ecuador",
     "nombre": "Ecuavisa (Guayaquil)",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",El Confidencial",
@@ -9146,7 +9146,7 @@
     "grupo": "Desde Internet",
     "nombre": "DesheBideshe TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DBMTV.fr@SD\" tvg-name=\"DBM TV\" tvg-logo=\"https://i.imgur.com/ab6p2SW.png\" tvg-country=\"FR\" tvg-chno=\"486\" group-title=\"Música\",486 - DBM TV",
@@ -9155,7 +9155,7 @@
     "grupo": "Música",
     "nombre": "DBM TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"beINSPORTSXTRAenEspanol.us@SD\" tvg-name=\"beIN SPORTS XTRA en Espanol\" tvg-logo=\"https://i.imgur.com/V562tpO.png\" tvg-country=\"US\" tvg-chno=\"162\" group-title=\"Deportes\",162 - beIN SPORTS XTRA en Espanol",
@@ -9164,7 +9164,7 @@
     "grupo": "Deportes",
     "nombre": "beIN SPORTS XTRA en Espanol",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"10Bold.au@Sydney\" tvg-name=\"10 Bold\" tvg-logo=\"https://i.imgur.com/2xglh33.png\" tvg-country=\"AU\" tvg-chno=\"1137\" group-title=\"Desde Internet\",1137 - 10 Bold",
@@ -9173,7 +9173,7 @@
     "grupo": "Desde Internet",
     "nombre": "10 Bold",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DealorNoDeal.us@SD\" tvg-name=\"Deal or No Deal\" tvg-logo=\"https://i.imgur.com/lZvNXA1.png\" tvg-country=\"US\" tvg-chno=\"262\" group-title=\"Cine y series\",262 - Deal or No Deal",
@@ -9182,16 +9182,16 @@
     "grupo": "Cine y series",
     "nombre": "Deal or No Deal",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",SNT",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DeshiTV.ca@SD\" tvg-name=\"Deshi TV\" tvg-logo=\"https://i.imgur.com/PzqzgMm.png\" tvg-country=\"CA\" tvg-chno=\"1001\" group-title=\"Desde Internet\",1001 - Deshi TV",
@@ -9200,16 +9200,16 @@
     "grupo": "Desde Internet",
     "nombre": "Deshi TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://desichannel.kableone.com/desichannel/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DesiChannel.in@SD\" tvg-name=\"Desi Channel\" tvg-logo=\"https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png\" tvg-country=\"IN\" tvg-chno=\"602\" group-title=\"Desde Internet\",602 - Desi Channel",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Desde Internet",
     "nombre": "Desi Channel",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://df1zke3zj042m.cloudfront.net/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ALLBLKGems.us@SD\" tvg-name=\"ALLBLK Gems\" tvg-logo=\"https://i.imgur.com/gnkepQJ.png\" tvg-country=\"US\" tvg-chno=\"570\" group-title=\"Desde Internet\",570 - ALLBLK Gems",
@@ -9218,7 +9218,7 @@
     "grupo": "Desde Internet",
     "nombre": "ALLBLK Gems",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"WildTV.ca@SD\" tvg-name=\"Wild TV\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png\" tvg-country=\"CA\" tvg-chno=\"1018\" group-title=\"Desde Internet\",1018 - Wild TV",
@@ -9227,7 +9227,7 @@
     "grupo": "Desde Internet",
     "nombre": "Wild TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CanalSurAndalucia.es@SD\" tvg-name=\"Canal Sur Andalucia\" tvg-logo=\"https://i.imgur.com/lznnA4v.png\" tvg-country=\"ES\" tvg-chno=\"1041\" group-title=\"España\",1041 - Canal Sur Andalucia",
@@ -9236,7 +9236,7 @@
     "grupo": "España",
     "nombre": "Canal Sur Andalucia",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Europa\",CNN Internacional",
@@ -9267,34 +9267,34 @@
     "grupo": "Infantil",
     "nombre": "HappyKids",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"3CatCameresdeltemps.es@SD\" tvg-name=\"3Cat Cameres del temps\" tvg-logo=\"\" tvg-country=\"ES\" tvg-chno=\"1021\" group-title=\"España\",1021 - 3Cat Cameres del temps",
-    "estado": "video_detectado",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "3Cat Cameres del temps",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BonDiaTV.es@SD\" tvg-name=\"Bon Dia TV\" tvg-logo=\"https://i.imgur.com/VgRCu2U.png\" tvg-country=\"ES\" tvg-chno=\"1032\" group-title=\"España\",1032 - Bon Dia TV",
-    "estado": "video_detectado",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "Bon Dia TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"3CatInfo.es@SD\" tvg-name=\"3CatInfo\" tvg-logo=\"\" tvg-country=\"ES\" tvg-chno=\"1022\" group-title=\"España\",1022 - 3CatInfo",
-    "estado": "video_detectado",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "3CatInfo",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",324",
@@ -9320,12 +9320,12 @@
   },
   "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TV3CAT.es\" tvg-name=\"TV3CAT\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png\" tvg-country=\"ES\" tvg-chno=\"1072\" group-title=\"España\",1072 - TV3CAT",
-    "estado": "video_detectado",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "TV3CAT",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DisneyJunior.us@East\" tvg-name=\"Disney Junior\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg\" tvg-country=\"US\" tvg-chno=\"500\" group-title=\"Infantil\",500 - Disney Junior",
@@ -9334,7 +9334,7 @@
     "grupo": "Infantil",
     "nombre": "Disney Junior",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PickleballNow.in@SD\" tvg-name=\"Pickleball Now\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png\" tvg-country=\"IN\" tvg-chno=\"211\" group-title=\"Deportes\",211 - Pickleball Now",
@@ -9343,7 +9343,7 @@
     "grupo": "Deportes",
     "nombre": "Pickleball Now",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DangerTV.us@SD\" tvg-name=\"Danger TV\" tvg-logo=\"https://i.imgur.com/4aTk45R.png\" tvg-country=\"US\" tvg-chno=\"415\" group-title=\"Cultura\",415 - Danger TV",
@@ -9352,7 +9352,7 @@
     "grupo": "Cultura",
     "nombre": "Danger TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"pocketwatch.us@SD\" tvg-name=\"pocket.watch\" tvg-logo=\"https://i.imgur.com/T0V90Lz.png\" tvg-country=\"US\" tvg-chno=\"528\" group-title=\"Infantil\",528 - pocket.watch",
@@ -9361,7 +9361,7 @@
     "grupo": "Infantil",
     "nombre": "pocket.watch",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dltiqboxjw21d.cloudfront.net/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"LegoChannel.us@SD\" tvg-name=\"Lego Channel\" tvg-logo=\"https://i.imgur.com/xePwW13.png\" tvg-country=\"US\" tvg-chno=\"513\" group-title=\"Infantil\",513 - Lego Channel",
@@ -9370,7 +9370,7 @@
     "grupo": "Infantil",
     "nombre": "Lego Channel",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AMP1.us@SD\" tvg-name=\"AMP 1\" tvg-logo=\"https://i.imgur.com/3ZhrthD.png\" tvg-country=\"US\" tvg-chno=\"948\" group-title=\"Estados Unidos\",948 - AMP 1",
@@ -9379,7 +9379,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AMP 1",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AMP2.us@SD\" tvg-name=\"AMP 2\" tvg-logo=\"https://i.imgur.com/nfur3FR.png\" tvg-country=\"US\" tvg-chno=\"395\" group-title=\"Cultura\",395 - AMP 2",
@@ -9388,7 +9388,7 @@
     "grupo": "Cultura",
     "nombre": "AMP 2",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CVCEducation.us@SD\" tvg-name=\"CVC Education\" tvg-logo=\"https://i.imgur.com/tUgEAUJ.png\" tvg-country=\"US\" tvg-chno=\"414\" group-title=\"Cultura\",414 - CVC Education",
@@ -9397,7 +9397,7 @@
     "grupo": "Cultura",
     "nombre": "CVC Education",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CityTVLakewood.us@SD\" tvg-name=\"CityTV Lakewood\" tvg-logo=\"https://i.imgur.com/e1shzv9.png\" tvg-country=\"US\" tvg-chno=\"993\" group-title=\"Estados Unidos\",993 - CityTV Lakewood",
@@ -9406,7 +9406,7 @@
     "grupo": "Estados Unidos",
     "nombre": "CityTV Lakewood",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"FuboSportsNetwork.us@SD\" tvg-name=\"Fubo Sports Network\" tvg-logo=\"https://i.imgur.com/qFNRJLb.png\" tvg-country=\"US\" tvg-chno=\"186\" group-title=\"Deportes\",186 - Fubo Sports Network",
@@ -9415,7 +9415,7 @@
     "grupo": "Deportes",
     "nombre": "Fubo Sports Network",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DUST.us@SD\" tvg-name=\"DUST\" tvg-logo=\"https://i.imgur.com/FxYhME9.png\" tvg-country=\"US\" tvg-chno=\"266\" group-title=\"Cine y series\",266 - DUST",
@@ -9424,7 +9424,7 @@
     "grupo": "Cine y series",
     "nombre": "DUST",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Europa\",DW EspaÃ±ol",
@@ -9444,7 +9444,7 @@
     "grupo": "Cultura",
     "nombre": "Dateline 24/7",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"EBS1TV.kr@SD\" tvg-name=\"EBS 1TV\" tvg-logo=\"\" tvg-country=\"KR\" tvg-chno=\"426\" group-title=\"Cultura\",426 - EBS 1TV",
@@ -9453,7 +9453,7 @@
     "grupo": "Cultura",
     "nombre": "EBS 1TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"EBS2TV.kr@SD\" tvg-name=\"EBS 2TV\" tvg-logo=\"\" tvg-country=\"KR\" tvg-chno=\"427\" group-title=\"Cultura\",427 - EBS 2TV",
@@ -9462,7 +9462,7 @@
     "grupo": "Cultura",
     "nombre": "EBS 2TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"EBSKids.kr@SD\" tvg-name=\"EBS Kids\" tvg-logo=\"\" tvg-country=\"KR\" tvg-chno=\"501\" group-title=\"Infantil\",501 - EBS Kids",
@@ -9471,7 +9471,7 @@
     "grupo": "Infantil",
     "nombre": "EBS Kids",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"EBSPlus2.kr@SD\" tvg-name=\"EBS Plus 2\" tvg-logo=\"\" tvg-country=\"KR\" tvg-chno=\"428\" group-title=\"Cultura\",428 - EBS Plus 2",
@@ -9480,16 +9480,16 @@
     "grupo": "Cultura",
     "nombre": "EBS Plus 2",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RakutenTVComedyMovies.es@Germany\" tvg-name=\"Rakuten TV Comedy Movies (Germany)\" tvg-logo=\"https://i.imgur.com/Meew6eX.png\" tvg-country=\"ES\" tvg-chno=\"327\" group-title=\"Cine y series\",327 - Rakuten TV Comedy Movies (Germany)",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Cine y series",
     "nombre": "Rakuten TV Comedy Movies (Germany)",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CityTVCarlsbad.us@SD\" tvg-name=\"City TV Carlsbad\" tvg-logo=\"https://i.imgur.com/G6h8efT.png\" tvg-country=\"US\" tvg-chno=\"991\" group-title=\"Estados Unidos\",991 - City TV Carlsbad",
@@ -9498,7 +9498,7 @@
     "grupo": "Estados Unidos",
     "nombre": "City TV Carlsbad",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CityTVChannel341.us@SD\" tvg-name=\"City TV Channel 3/41\" tvg-logo=\"https://i.imgur.com/L0vaDea.png\" tvg-country=\"US\" tvg-chno=\"992\" group-title=\"Estados Unidos\",992 - City TV Channel 3/41",
@@ -9507,7 +9507,7 @@
     "grupo": "Estados Unidos",
     "nombre": "City TV Channel 3/41",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CityofFortPierce.us@SD\" tvg-name=\"City of Fort Pierce\" tvg-logo=\"https://i.imgur.com/2ChoSsi.png\" tvg-country=\"US\" tvg-chno=\"990\" group-title=\"Estados Unidos\",990 - City of Fort Pierce",
@@ -9516,7 +9516,7 @@
     "grupo": "Estados Unidos",
     "nombre": "City of Fort Pierce",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.enhdtv.com/8150/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"6WiseTv.us@SD\" tvg-name=\"6 Wise Tv\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"921\" group-title=\"Estados Unidos\",921 - 6 Wise Tv",
@@ -9525,7 +9525,7 @@
     "grupo": "Estados Unidos",
     "nombre": "6 Wise Tv",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.enhdtv.com/8214/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TVUSucre.bo@SD\" tvg-name=\"TVU Sucre\" tvg-logo=\"https://i.imgur.com/7c0b4Y4.png\" tvg-country=\"BO\" tvg-chno=\"712\" group-title=\"Bolivia\",712 - TVU Sucre",
@@ -9534,7 +9534,7 @@
     "grupo": "Bolivia",
     "nombre": "TVU Sucre",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.enhdtv.com/litustv/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"LitusTV.ar@SD\" tvg-name=\"Litus TV\" tvg-logo=\"https://i.imgur.com/QIGSf4L.png\" tvg-country=\"AR\" tvg-chno=\"634\" group-title=\"Argentina\",634 - Litus TV",
@@ -9543,7 +9543,7 @@
     "grupo": "Argentina",
     "nombre": "Litus TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.enhdtv.com/nexthd/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-056\" tvg-name=\"Next HD\" tvg-chno=\"94\" group-title=\"Paraguay\",094 - Next HD",
@@ -9552,7 +9552,7 @@
     "grupo": "Paraguay",
     "nombre": "Next HD",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://edge.enhdtv.com/tvoff/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TVOFF.bo@SD\" tvg-name=\"TV OFF\" tvg-logo=\"https://i.imgur.com/vBe1GgI.png\" tvg-country=\"BO\" tvg-chno=\"711\" group-title=\"Bolivia\",711 - TV OFF",
@@ -9561,7 +9561,7 @@
     "grupo": "Bolivia",
     "nombre": "TV OFF",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Boreal.do@SD\" tvg-name=\"Boreal\" tvg-logo=\"https://i.imgur.com/KSquHTG.png\" tvg-country=\"DO\" tvg-chno=\"250\" group-title=\"Cine y series\",250 - Boreal",
@@ -9570,7 +9570,7 @@
     "grupo": "Cine y series",
     "nombre": "Boreal",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.essastream.com/canalcocotv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"COCOTV.do@SD\" tvg-name=\"COCO TV\" tvg-logo=\"https://i.imgur.com/CnAc7jU.png\" tvg-country=\"DO\" tvg-chno=\"594\" group-title=\"Desde Internet\",594 - COCO TV",
@@ -9579,7 +9579,7 @@
     "grupo": "Desde Internet",
     "nombre": "COCO TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CNTMasTV.do@HD\" tvg-name=\"CNT Mas TV\" tvg-logo=\"https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg\" tvg-country=\"DO\" tvg-chno=\"1107\" group-title=\"República Dominicana\",1107 - CNT Mas TV",
@@ -9588,7 +9588,7 @@
     "grupo": "República Dominicana",
     "nombre": "CNT Mas TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge.essastream.com/codigotv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CodigoTV.do@HD\" tvg-name=\"Codigo TV\" tvg-logo=\"https://imgur.com/DbjywI3.png\" tvg-country=\"DO\" tvg-chno=\"1108\" group-title=\"República Dominicana\",1108 - Codigo TV",
@@ -9597,7 +9597,7 @@
     "grupo": "República Dominicana",
     "nombre": "Codigo TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Africa24English.fr@SD\" tvg-name=\"Africa 24 English\" tvg-logo=\"https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png\" tvg-country=\"FR\" tvg-chno=\"351\" group-title=\"Noticias\",351 - Africa 24 English",
@@ -9606,7 +9606,7 @@
     "grupo": "Noticias",
     "nombre": "Africa 24 English",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DocumentaryPlus.us@US\" tvg-name=\"Documentary+\" tvg-logo=\"https://i.imgur.com/x57klfS.png\" tvg-country=\"US\" tvg-chno=\"421\" group-title=\"Cultura\",421 - Documentary+",
@@ -9615,7 +9615,7 @@
     "grupo": "Cultura",
     "nombre": "Documentary+",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://elche7tv.gestec-video.com/hls/canal2.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Elche7TV.es@SD\" tvg-name=\"Elche 7 TV\" tvg-logo=\"https://i.imgur.com/tjI0dLx.png\" tvg-country=\"ES\" tvg-chno=\"1047\" group-title=\"España\",1047 - Elche 7 TV",
@@ -9624,7 +9624,7 @@
     "grupo": "España",
     "nombre": "Elche 7 TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal3Arroyito.ar@SD\" tvg-name=\"Canal 3 Arroyito\" tvg-logo=\"https://i.imgur.com/FHVdMwg.jpeg\" tvg-country=\"AR\" tvg-chno=\"609\" group-title=\"Argentina\",609 - Canal 3 Arroyito",
@@ -9633,7 +9633,7 @@
     "grupo": "Argentina",
     "nombre": "Canal 3 Arroyito",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"7TV.es@Sevilla\" tvg-name=\"7TV (Sevilla)\" tvg-logo=\"https://i.imgur.com/rnzMR9R.png\" tvg-country=\"ES\" tvg-chno=\"1028\" group-title=\"España\",1028 - 7TV (Sevilla)",
@@ -9642,7 +9642,7 @@
     "grupo": "España",
     "nombre": "7TV (Sevilla)",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://especial7tv.gestec-video.com/hls/regional.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"7TV.es@Andalucia\" tvg-name=\"7TV\" tvg-logo=\"https://i.imgur.com/rnzMR9R.png\" tvg-country=\"ES\" tvg-chno=\"1023\" group-title=\"España\",1023 - 7TV",
@@ -9651,7 +9651,7 @@
     "grupo": "España",
     "nombre": "7TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://eu.streamjo.com/eetlive/eettv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"EETTV.ca@SD\" tvg-name=\"EET TV\" tvg-logo=\"https://i.imgur.com/rntSEDZ.png\" tvg-country=\"CA\" tvg-chno=\"431\" group-title=\"Cultura\",431 - EET TV",
@@ -9660,7 +9660,7 @@
     "grupo": "Cultura",
     "nombre": "EET TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://euhls.persiana.live/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PersianaPlus.fr@SD\" tvg-name=\"Persiana Plus\" tvg-logo=\"https://i.imgur.com/0xttibX.png\" tvg-country=\"FR\" tvg-chno=\"319\" group-title=\"Cine y series\",319 - Persiana Plus",
@@ -9669,7 +9669,7 @@
     "grupo": "Cine y series",
     "nombre": "Persiana Plus",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://europa-crtvg.flumotion.com/playlist.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",TVG Galicia",
@@ -9689,7 +9689,7 @@
     "grupo": "Cine y series",
     "nombre": "Persiana Family",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",Flooxer",
@@ -9786,7 +9786,7 @@
     "grupo": "Cine y series",
     "nombre": "CHARGE!",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Comet.us@SD\" tvg-name=\"Comet\" tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6hGmj4N40DjDiiDJZpq30HWu-4NrgcQok8XOS6g_o1YI798ogZyxIxM9k4NvdUFU_98&usqp=CAU\" tvg-country=\"US\" tvg-chno=\"596\" group-title=\"Desde Internet\",596 - Comet",
@@ -9795,25 +9795,25 @@
     "grupo": "Desde Internet",
     "nombre": "Comet",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"3CatPlatsbruts.es@SD\" tvg-name=\"3Cat Plats bruts\" tvg-logo=\"\" tvg-country=\"ES\" tvg-chno=\"235\" group-title=\"Cine y series\",235 - 3Cat Plats bruts",
-    "estado": "video_detectado",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "3Cat Plats bruts",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://feeds.intoday.in/bttv/itgd.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BTTV.in@SD\" tvg-name=\"BT TV\" tvg-logo=\"https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png\" tvg-country=\"IN\" tvg-chno=\"382\" group-title=\"Noticias\",382 - BT TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Noticias",
     "nombre": "BT TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://fighthls.persiana.live/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PersianaFight.fr@HD\" tvg-name=\"Persiana Fight\" tvg-logo=\"\" tvg-country=\"FR\" tvg-chno=\"209\" group-title=\"Deportes\",209 - Persiana Fight",
@@ -9822,7 +9822,7 @@
     "grupo": "Deportes",
     "nombre": "Persiana Fight",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Filmex.mx@SD\" tvg-name=\"Filmex\" tvg-logo=\"https://i.imgur.com/Hiz2OyC.png\" tvg-country=\"MX\" tvg-chno=\"272\" group-title=\"Cine y series\",272 - Filmex",
@@ -9831,7 +9831,7 @@
     "grupo": "Cine y series",
     "nombre": "Filmex",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"FilmexClasico.mx@SD\" tvg-name=\"Filmex Clasico\" tvg-logo=\"https://i.imgur.com/D3dj4mv.png\" tvg-country=\"MX\" tvg-chno=\"273\" group-title=\"Cine y series\",273 - Filmex Clasico",
@@ -9840,7 +9840,7 @@
     "grupo": "Cine y series",
     "nombre": "Filmex Clasico",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://fnx.lls.pbs.org/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"FNX.us@SD\" tvg-name=\"FNX\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"433\" group-title=\"Cultura\",433 - FNX",
@@ -9849,16 +9849,16 @@
     "grupo": "Cultura",
     "nombre": "FNX",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://freem3u.xyz/api/live/play.m3u8?vid=9856": {
     "cabecera": "#EXTINF:-1 tvg-id=\"HistoryAsia.us@SD\" tvg-name=\"History Asia\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png\" tvg-country=\"US\" tvg-chno=\"440\" group-title=\"Cultura\",440 - History Asia",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Cultura",
     "nombre": "History Asia",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://freya.mivideo.pro/centraltv/video.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CentralTV.cl@SD\" tvg-name=\"Central TV\" tvg-logo=\"https://cdn.m3u.cl/logo/1706_Central_TV.png\" tvg-country=\"CL\" tvg-chno=\"728\" group-title=\"Chile\",728 - Central TV",
@@ -9867,7 +9867,7 @@
     "grupo": "Chile",
     "nombre": "Central TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABC.us@KITV\" tvg-name=\"ABC (KITV)\" tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvETpbhVGYqrNLKf-Jh12zQsXVxAWJM-r6HlUG5NmHqNVlvDaWbBcFKRc-7wWaL7DVM0&usqp=CAU\" tvg-country=\"US\" tvg-chno=\"923\" group-title=\"Estados Unidos\",923 - ABC (KITV)",
@@ -9876,7 +9876,7 @@
     "grupo": "Estados Unidos",
     "nombre": "ABC (KITV)",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CBS.us@KWTVDT\" tvg-name=\"CBS (KWTV-DT)\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png\" tvg-country=\"US\" tvg-chno=\"981\" group-title=\"Estados Unidos\",981 - CBS (KWTV-DT)",
@@ -9885,25 +9885,25 @@
     "grupo": "Estados Unidos",
     "nombre": "CBS (KWTV-DT)",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal10MardelPlata.ar@SD\" tvg-name=\"Canal 10 Mar del Plata\" tvg-logo=\"https://i.imgur.com/bq29sfG.png\" tvg-country=\"AR\" tvg-chno=\"585\" group-title=\"Desde Internet\",585 - Canal 10 Mar del Plata",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Desde Internet",
     "nombre": "Canal 10 Mar del Plata",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TelefeTucuman.ar@SD\" tvg-name=\"Telefe Tucuman\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png\" tvg-country=\"AR\" tvg-chno=\"643\" group-title=\"Argentina\",643 - Telefe Tucuman",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Argentina",
     "nombre": "Telefe Tucuman",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://guapa-live.argosworkspace.com/guapa/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-018\" tvg-name=\"Canal Guapa\" tvg-chno=\"39\" group-title=\"Paraguay\",039 - Canal Guapa",
@@ -9912,7 +9912,7 @@
     "grupo": "Paraguay",
     "nombre": "Canal Guapa",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://gusto-xumo.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"GustoTV.ca@SD\" tvg-name=\"Gusto TV\" tvg-logo=\"https://i.imgur.com/swUX3hQ.png\" tvg-country=\"CA\" tvg-chno=\"1004\" group-title=\"Desde Internet\",1004 - Gusto TV",
@@ -9921,7 +9921,7 @@
     "grupo": "Desde Internet",
     "nombre": "Gusto TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://h.jcp.live.opencaster.com/play_src/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"MonterricoTV.pe@SD\" tvg-name=\"Monterrico TV\" tvg-logo=\"https://i.imgur.com/SuVO9T7.png\" tvg-country=\"PE\" tvg-chno=\"201\" group-title=\"Deportes\",201 - Monterrico TV",
@@ -9930,7 +9930,7 @@
     "grupo": "Deportes",
     "nombre": "Monterrico TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hls.avang.live/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AvangTV.us@SD\" tvg-name=\"Avang TV\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"468\" group-title=\"Música\",468 - Avang TV",
@@ -9939,7 +9939,7 @@
     "grupo": "Música",
     "nombre": "Avang TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hls.botflix.tv/radioo/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BotflixRadioo.us@HD\" tvg-name=\"Botflix Radioo\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"474\" group-title=\"Música\",474 - Botflix Radioo",
@@ -9948,7 +9948,7 @@
     "grupo": "Música",
     "nombre": "Botflix Radioo",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hls.botflix.tv/tv/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BotflixTV.us@HD\" tvg-name=\"Botflix TV\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"582\" group-title=\"Desde Internet\",582 - Botflix TV",
@@ -9957,7 +9957,7 @@
     "grupo": "Desde Internet",
     "nombre": "Botflix TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hls.savoir.media/live/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Savoirmedia.ca@CFTUDT\" tvg-name=\"Savoir media\" tvg-logo=\"\" tvg-country=\"CA\" tvg-chno=\"1010\" group-title=\"Desde Internet\",1010 - Savoir media",
@@ -9966,7 +9966,7 @@
     "grupo": "Desde Internet",
     "nombre": "Savoir media",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hls.tvabierta.net/hls/007.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Antena7.do@HD\" tvg-name=\"Antena 7\" tvg-logo=\"https://i.imgur.com/zKWFgeQ.png\" tvg-country=\"DO\" tvg-chno=\"1096\" group-title=\"República Dominicana\",1096 - Antena 7",
@@ -9975,7 +9975,7 @@
     "grupo": "República Dominicana",
     "nombre": "Antena 7",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hls.tvabierta.net/hls/036.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CDNDeportes.do@SD\" tvg-name=\"CDN Deportes\" tvg-logo=\"https://i.imgur.com/yU5LqTL.png\" tvg-country=\"DO\" tvg-chno=\"169\" group-title=\"Deportes\",169 - CDN Deportes",
@@ -9984,7 +9984,7 @@
     "grupo": "Deportes",
     "nombre": "CDN Deportes",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hls.tvabierta.net/hls/boliviatv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BoliviaTV.bo@SD\" tvg-name=\"Bolivia TV\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png\" tvg-country=\"BO\" tvg-chno=\"697\" group-title=\"Bolivia\",697 - Bolivia TV",
@@ -9993,16 +9993,16 @@
     "grupo": "Bolivia",
     "nombre": "Bolivia TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CMCUSACountryMusicChannel.us@SD\" tvg-name=\"CMC-USA Country Music Channel\" tvg-logo=\"https://i.imgur.com/QsANRSu.png\" tvg-country=\"US\" tvg-chno=\"481\" group-title=\"Música\",481 - CMC-USA Country Music Channel",
-    "estado": "no_confirmado",
-    "fallos": 1,
+    "estado": "video_detectado",
+    "fallos": 0,
     "grupo": "Música",
     "nombre": "CMC-USA Country Music Channel",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://iaw5b.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=e3881f524d77731ed02f75541a402153e85aecce-cd-1773308312-1773254312": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",DSports (Opcion 1)",
@@ -10022,16 +10022,16 @@
     "grupo": "México",
     "nombre": "Imagen TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://ignac16.github.io/voxel-tv-streams/a3.mpd": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Antena3.es@National\" tvg-name=\"Antena 3\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg\" tvg-country=\"ES\" tvg-chno=\"1031\" group-title=\"España\",1031 - Antena 3",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "España",
     "nombre": "Antena 3",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AKCTV.us@SD\" tvg-name=\"AKC TV\" tvg-logo=\"https://i.imgur.com/XRTfoSp.png\" tvg-country=\"US\" tvg-chno=\"941\" group-title=\"Estados Unidos\",941 - AKC TV",
@@ -10040,7 +10040,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AKC TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AKCTVMeettheBreeds.us@SD\" tvg-name=\"AKC TV Meet the Breeds\" tvg-logo=\"https://i.imgur.com/66avgdk.png\" tvg-country=\"US\" tvg-chno=\"942\" group-title=\"Estados Unidos\",942 - AKC TV Meet the Breeds",
@@ -10049,7 +10049,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AKC TV Meet the Breeds",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AKCTVPuppies.us@SD\" tvg-name=\"AKC TV Puppies\" tvg-logo=\"https://i.imgur.com/2nzRS60.png\" tvg-country=\"US\" tvg-chno=\"943\" group-title=\"Estados Unidos\",943 - AKC TV Puppies",
@@ -10058,7 +10058,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AKC TV Puppies",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://interalmeria.tv/directo/live.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"InteralmeriaTV.es@SD\" tvg-name=\"Interalmeria TV\" tvg-logo=\"\" tvg-country=\"ES\" tvg-chno=\"1055\" group-title=\"España\",1055 - Interalmeria TV",
@@ -10067,7 +10067,7 @@
     "grupo": "España",
     "nombre": "Interalmeria TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://iptv-org.github.io/iptv/countries/cl.m3u": {
     "cabecera": "#EXTINF:0 group-title=\"Fuentes Online\",IPTV-org Chile (playlist)",
@@ -10094,11 +10094,11 @@
   "https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Karibena.pe@SD\" tvg-name=\"Karibena\" tvg-logo=\"https://i.imgur.com/cgHjg1e.png\" tvg-country=\"PE\" tvg-chno=\"832\" group-title=\"Perú\",832 - Karibena",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Perú",
     "nombre": "Karibena",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ElGourmet.ar@South\" tvg-name=\"El Gourmet (South)\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png\" tvg-country=\"AR\" tvg-chno=\"627\" group-title=\"Argentina\",627 - El Gourmet (South)",
@@ -10107,7 +10107,7 @@
     "grupo": "Argentina",
     "nombre": "El Gourmet (South)",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"EuropaEuropa.ar@SD\" tvg-name=\"Europa Europa\" tvg-logo=\"https://i.imgur.com/w5SOfyJ.png\" tvg-country=\"AR\" tvg-chno=\"629\" group-title=\"Argentina\",629 - Europa Europa",
@@ -10116,7 +10116,7 @@
     "grupo": "Argentina",
     "nombre": "Europa Europa",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"LaTremendaTV.pe@TDT62\" tvg-name=\"La Tremenda TV\" tvg-logo=\"\" tvg-country=\"PE\" tvg-chno=\"833\" group-title=\"Perú\",833 - La Tremenda TV",
@@ -10125,7 +10125,7 @@
     "grupo": "Perú",
     "nombre": "La Tremenda TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://iptv.sohailtv.com/sohail/playlist/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"SohailTV.ca@SD\" tvg-name=\"Sohail TV\" tvg-logo=\"https://i.ibb.co/dtzjKfT/Sohail-TV.png\" tvg-country=\"CA\" tvg-chno=\"1012\" group-title=\"Desde Internet\",1012 - Sohail TV",
@@ -10134,7 +10134,7 @@
     "grupo": "Desde Internet",
     "nombre": "Sohail TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://irhls.persiana.live/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PersianaIranian.fr@SD\" tvg-name=\"Persiana Iranian\" tvg-logo=\"https://i.imgur.com/vqrrpBi.png\" tvg-country=\"FR\" tvg-chno=\"317\" group-title=\"Cine y series\",317 - Persiana Iranian",
@@ -10143,7 +10143,7 @@
     "grupo": "Cine y series",
     "nombre": "Persiana Iranian",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://isaocorp.cloudecast.com/playtv/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PlayTV.br@SD\" tvg-name=\"Play TV\" tvg-logo=\"https://i.imgur.com/Ikrj3lk.png\" tvg-country=\"BR\" tvg-chno=\"661\" group-title=\"Brasil\",661 - Play TV",
@@ -10152,7 +10152,7 @@
     "grupo": "Brasil",
     "nombre": "Play TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"SportitaliaSolocalcio.it@SD\" tvg-name=\"Sportitalia Solocalcio\" tvg-logo=\"https://i.imgur.com/hu56Ya5.png\" tvg-country=\"IT\" tvg-chno=\"221\" group-title=\"Deportes\",221 - Sportitalia Solocalcio",
@@ -10161,7 +10161,7 @@
     "grupo": "Deportes",
     "nombre": "Sportitalia Solocalcio",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"HellsKitchen.us@UK\" tvg-name=\"Hell's Kitchen\" tvg-logo=\"https://i.imgur.com/P9eT0O9.png\" tvg-country=\"US\" tvg-chno=\"280\" group-title=\"Cine y series\",280 - Hell's Kitchen",
@@ -10170,7 +10170,7 @@
     "grupo": "Cine y series",
     "nombre": "Hell's Kitchen",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://jmc-live.ercdn.net/amutv/amutv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AmuTV.us@SD\" tvg-name=\"Amu TV\" tvg-logo=\"https://i.imgur.com/KXdvPum.png\" tvg-country=\"US\" tvg-chno=\"355\" group-title=\"Noticias\",355 - Amu TV",
@@ -10179,7 +10179,7 @@
     "grupo": "Noticias",
     "nombre": "Amu TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AllRealitybyWEtv.us@SD\" tvg-name=\"All Reality by WE tv\" tvg-logo=\"https://i.imgur.com/hbJAs8h.png\" tvg-country=\"US\" tvg-chno=\"238\" group-title=\"Cine y series\",238 - All Reality by WE tv",
@@ -10188,7 +10188,7 @@
     "grupo": "Cine y series",
     "nombre": "All Reality by WE tv",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Frasier.us@CA\" tvg-name=\"Frasier\" tvg-logo=\"https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png\" tvg-country=\"US\" tvg-chno=\"275\" group-title=\"Cine y series\",275 - Frasier",
@@ -10197,7 +10197,7 @@
     "grupo": "Cine y series",
     "nombre": "Frasier",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://jmp2.uk/stvp-CHAJ0500413A": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DeluxeLounge.de@SD\" tvg-name=\"Deluxe Lounge\" tvg-logo=\"https://i.imgur.com/pgCA35z.png\" tvg-country=\"DE\" tvg-chno=\"487\" group-title=\"Música\",487 - Deluxe Lounge",
@@ -10206,7 +10206,7 @@
     "grupo": "Música",
     "nombre": "Deluxe Lounge",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://jmp2.uk/stvp-IN4000600Q": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Bollygold.in@HD\" tvg-name=\"Bollygold\" tvg-logo=\"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png\" tvg-country=\"IN\" tvg-chno=\"248\" group-title=\"Cine y series\",248 - Bollygold",
@@ -10215,7 +10215,7 @@
     "grupo": "Cine y series",
     "nombre": "Bollygold",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://jmp2.uk/stvp-IN46000140Q": {
     "cabecera": "#EXTINF:-1 tvg-id=\"NHBollyFlix.in@HD\" tvg-name=\"NH BollyFlix\" tvg-logo=\"https://i.ibb.co/yF9MPTDK/blyflx.png\" tvg-country=\"IN\" tvg-chno=\"309\" group-title=\"Cine y series\",309 - NH BollyFlix",
@@ -10224,7 +10224,7 @@
     "grupo": "Cine y series",
     "nombre": "NH BollyFlix",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"WeatherSpy.mx@SD\" tvg-name=\"WeatherSpy\" tvg-logo=\"https://i.imgur.com/KIEKOt1.png\" tvg-country=\"MX\" tvg-chno=\"911\" group-title=\"México\",911 - WeatherSpy",
@@ -10233,7 +10233,7 @@
     "grupo": "México",
     "nombre": "WeatherSpy",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://junhls.persiana.live/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PersianaJunior.fr@SD\" tvg-name=\"Persiana Junior\" tvg-logo=\"https://i.imgur.com/zeKHZYG.png\" tvg-country=\"FR\" tvg-chno=\"527\" group-title=\"Infantil\",527 - Persiana Junior",
@@ -10242,16 +10242,16 @@
     "grupo": "Infantil",
     "nombre": "Persiana Junior",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"KiKA.de@SD\" tvg-name=\"KiKA\" tvg-logo=\"\" tvg-country=\"DE\" tvg-chno=\"511\" group-title=\"Infantil\",511 - KiKA",
-    "estado": "video_detectado",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "KiKA",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://korhls.persiana.live/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PersianaKorea.fr@SD\" tvg-name=\"Persiana Korea\" tvg-logo=\"https://i.imgur.com/si2ZnIA.png\" tvg-country=\"FR\" tvg-chno=\"318\" group-title=\"Cine y series\",318 - Persiana Korea",
@@ -10260,7 +10260,7 @@
     "grupo": "Cine y series",
     "nombre": "Persiana Korea",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://lamhas.net/bollywoodmasala/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BollywoodMasala.in@SD\" tvg-name=\"Bollywood Masala\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png\" tvg-country=\"IN\" tvg-chno=\"580\" group-title=\"Desde Internet\",580 - Bollywood Masala",
@@ -10269,7 +10269,7 @@
     "grupo": "Desde Internet",
     "nombre": "Bollywood Masala",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://laotra-1-23.secure2.footprint.net/master.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",La Otra",
@@ -10289,7 +10289,7 @@
     "grupo": "Infantil",
     "nombre": "Kartoon Channel!",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CostaNoroesteTV.es@SD\" tvg-name=\"Costa Noroeste TV\" tvg-logo=\"https://i.imgur.com/iM9AN6Z.png\" tvg-country=\"ES\" tvg-chno=\"1043\" group-title=\"España\",1043 - Costa Noroeste TV",
@@ -10298,7 +10298,7 @@
     "grupo": "España",
     "nombre": "Costa Noroeste TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Choppertown.us@SD\" tvg-name=\"Choppertown\" tvg-logo=\"https://i.imgur.com/U6cu5Ms.png\" tvg-country=\"US\" tvg-chno=\"252\" group-title=\"Cine y series\",252 - Choppertown",
@@ -10307,7 +10307,7 @@
     "grupo": "Cine y series",
     "nombre": "Choppertown",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AFV.us@SD\" tvg-name=\"AFV\" tvg-logo=\"https://i.imgur.com/TOB9vmW.png\" tvg-country=\"US\" tvg-chno=\"937\" group-title=\"Estados Unidos\",937 - AFV",
@@ -10316,7 +10316,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AFV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"SwerveCombat.us@SD\" tvg-name=\"Swerve Combat\" tvg-logo=\"https://i.imgur.com/eFZh7aG.png\" tvg-country=\"US\" tvg-chno=\"225\" group-title=\"Deportes\",225 - Swerve Combat",
@@ -10325,7 +10325,7 @@
     "grupo": "Deportes",
     "nombre": "Swerve Combat",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AtHomewithFamilyHandyman.us@SD\" tvg-name=\"At Home with Family Handyman\" tvg-logo=\"https://i.imgur.com/WfKlGbX.png\" tvg-country=\"US\" tvg-chno=\"242\" group-title=\"Cine y series\",242 - At Home with Family Handyman",
@@ -10334,7 +10334,7 @@
     "grupo": "Cine y series",
     "nombre": "At Home with Family Handyman",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AsianCrush.us@SD\" tvg-name=\"AsianCrush\" tvg-logo=\"https://i.imgur.com/hW6z1RG.png\" tvg-country=\"US\" tvg-chno=\"573\" group-title=\"Desde Internet\",573 - AsianCrush",
@@ -10343,7 +10343,7 @@
     "grupo": "Desde Internet",
     "nombre": "AsianCrush",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Europa\",Sky News",
@@ -10363,7 +10363,7 @@
     "grupo": "Noticias",
     "nombre": "CBS News Miami",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CBSNewsBaltimore.us@SD\" tvg-name=\"CBS News Baltimore\" tvg-logo=\"https://i.imgur.com/jy3UfCe.png\" tvg-country=\"US\" tvg-chno=\"389\" group-title=\"Noticias\",389 - CBS News Baltimore",
@@ -10372,7 +10372,7 @@
     "grupo": "Noticias",
     "nombre": "CBS News Baltimore",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CBSNewsSacramento.us@SD\" tvg-name=\"CBS News Sacramento\" tvg-logo=\"https://i.imgur.com/0e1kSGX.png\" tvg-country=\"US\" tvg-chno=\"391\" group-title=\"Noticias\",391 - CBS News Sacramento",
@@ -10381,7 +10381,7 @@
     "grupo": "Noticias",
     "nombre": "CBS News Sacramento",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-20minutestv.digiteka.com/1961167769/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"20MinutesTV.fr@SD\" tvg-name=\"20 Minutes TV\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png\" tvg-country=\"FR\" tvg-chno=\"1142\" group-title=\"Desde Internet\",1142 - 20 Minutes TV",
@@ -10390,7 +10390,7 @@
     "grupo": "Desde Internet",
     "nombre": "20 Minutes TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BhojpuriCinema.in@SD\" tvg-name=\"Bhojpuri Cinema\" tvg-logo=\"https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540\" tvg-country=\"IN\" tvg-chno=\"247\" group-title=\"Cine y series\",247 - Bhojpuri Cinema",
@@ -10399,7 +10399,7 @@
     "grupo": "Cine y series",
     "nombre": "Bhojpuri Cinema",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Dangal2.in@SD\" tvg-name=\"Dangal 2\" tvg-logo=\"https://i.imgur.com/BEr1r7L.png\" tvg-country=\"IN\" tvg-chno=\"599\" group-title=\"Desde Internet\",599 - Dangal 2",
@@ -10408,7 +10408,7 @@
     "grupo": "Desde Internet",
     "nombre": "Dangal 2",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"36TVHuacho.pe@SD\" tvg-name=\"36 TV Huacho\" tvg-logo=\"https://i.imgur.com/F4NZM3s.jpeg\" tvg-country=\"PE\" tvg-chno=\"809\" group-title=\"Perú\",809 - 36 TV Huacho",
@@ -10417,7 +10417,7 @@
     "grupo": "Perú",
     "nombre": "36 TV Huacho",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CANALMTelevision.pe@SD\" tvg-name=\"CANAL M Television\" tvg-logo=\"https://i.imgur.com/EcdNFuJ.png\" tvg-country=\"PE\" tvg-chno=\"821\" group-title=\"Perú\",821 - CANAL M Television",
@@ -10426,7 +10426,7 @@
     "grupo": "Perú",
     "nombre": "CANAL M Television",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BicolorPlus.pe@SD\" tvg-name=\"Bicolor+\" tvg-logo=\"https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790182833200/6a8e1eb7f5d6_640_360.png\" tvg-country=\"PE\" tvg-chno=\"163\" group-title=\"Deportes\",163 - Bicolor+",
@@ -10435,7 +10435,7 @@
     "grupo": "Deportes",
     "nombre": "Bicolor+",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BicolorPlusPremium2.pe@SD\" tvg-name=\"Bicolor+ Premium 2\" tvg-logo=\"https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png\" tvg-country=\"PE\" tvg-chno=\"165\" group-title=\"Deportes\",165 - Bicolor+ Premium 2",
@@ -10444,7 +10444,7 @@
     "grupo": "Deportes",
     "nombre": "Bicolor+ Premium 2",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BicolorPlusPremium3.pe@SD\" tvg-name=\"Bicolor+ Premium 3\" tvg-logo=\"https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png\" tvg-country=\"PE\" tvg-chno=\"166\" group-title=\"Deportes\",166 - Bicolor+ Premium 3",
@@ -10453,7 +10453,7 @@
     "grupo": "Deportes",
     "nombre": "Bicolor+ Premium 3",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BicolorPlusPremium.pe@SD\" tvg-name=\"Bicolor+ Premium\" tvg-logo=\"https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png\" tvg-country=\"PE\" tvg-chno=\"164\" group-title=\"Deportes\",164 - Bicolor+ Premium",
@@ -10462,7 +10462,7 @@
     "grupo": "Deportes",
     "nombre": "Bicolor+ Premium",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CadenaTV.pe@SD\" tvg-name=\"Cadena TV\" tvg-logo=\"https://i.imgur.com/stvzqzd.png\" tvg-country=\"PE\" tvg-chno=\"818\" group-title=\"Perú\",818 - Cadena TV",
@@ -10471,7 +10471,7 @@
     "grupo": "Perú",
     "nombre": "Cadena TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RealTelevision.pe@SD\" tvg-name=\"Real Television\" tvg-logo=\"https://i.imgur.com/7KECyh5.jpeg\" tvg-country=\"PE\" tvg-chno=\"848\" group-title=\"Perú\",848 - Real Television",
@@ -10480,7 +10480,7 @@
     "grupo": "Perú",
     "nombre": "Real Television",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PBO.pe@SD\" tvg-name=\"PBO\" tvg-logo=\"https://i.imgur.com/vBpxX4S.png\" tvg-country=\"PE\" tvg-chno=\"843\" group-title=\"Perú\",843 - PBO",
@@ -10489,7 +10489,7 @@
     "grupo": "Perú",
     "nombre": "PBO",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ImperialTelevision.pe@SD\" tvg-name=\"Imperial Television\" tvg-logo=\"https://i.imgur.com/eYXqkyN.png\" tvg-country=\"PE\" tvg-chno=\"830\" group-title=\"Perú\",830 - Imperial Television",
@@ -10498,16 +10498,16 @@
     "grupo": "Perú",
     "nombre": "Imperial Television",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"MasterTV.pe@SD\" tvg-name=\"Master TV\" tvg-logo=\"https://i.imgur.com/K2ZimRv.png\" tvg-country=\"PE\" tvg-chno=\"838\" group-title=\"Perú\",838 - Master TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Perú",
     "nombre": "Master TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"OndaTV.pe@SD\" tvg-name=\"Onda TV\" tvg-logo=\"https://i.imgur.com/gbjdiLW.jpeg\" tvg-country=\"PE\" tvg-chno=\"842\" group-title=\"Perú\",842 - Onda TV",
@@ -10516,7 +10516,7 @@
     "grupo": "Perú",
     "nombre": "Onda TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795886246
   },
   "https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"QollasuyoTV.pe@SD\" tvg-name=\"Qollasuyo TV\" tvg-logo=\"https://i.imgur.com/6bi7fGB.jpeg\" tvg-country=\"PE\" tvg-chno=\"846\" group-title=\"Perú\",846 - Qollasuyo TV",
@@ -10525,7 +10525,7 @@
     "grupo": "Perú",
     "nombre": "Qollasuyo TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CasmaTV.pe@SD\" tvg-name=\"Casma TV\" tvg-logo=\"https://i.imgur.com/42aE0nm.jpeg\" tvg-country=\"PE\" tvg-chno=\"822\" group-title=\"Perú\",822 - Casma TV",
@@ -10534,7 +10534,7 @@
     "grupo": "Perú",
     "nombre": "Casma TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"GlobalTV.pe@SD\" tvg-name=\"Global TV\" tvg-logo=\"https://i.imgur.com/yuEou9C.png\" tvg-country=\"PE\" tvg-chno=\"828\" group-title=\"Perú\",828 - Global TV",
@@ -10543,7 +10543,7 @@
     "grupo": "Perú",
     "nombre": "Global TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"NativaTVSatipo.pe@SD\" tvg-name=\"Nativa TV Satipo\" tvg-logo=\"https://i.imgur.com/ScCAgGB.png\" tvg-country=\"PE\" tvg-chno=\"840\" group-title=\"Perú\",840 - Nativa TV Satipo",
@@ -10552,7 +10552,7 @@
     "grupo": "Perú",
     "nombre": "Nativa TV Satipo",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PequesTV.pe@SD\" tvg-name=\"Peques TV\" tvg-logo=\"https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png\" tvg-country=\"PE\" tvg-chno=\"526\" group-title=\"Infantil\",526 - Peques TV",
@@ -10561,7 +10561,7 @@
     "grupo": "Infantil",
     "nombre": "Peques TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PiuraTV.pe@SD\" tvg-name=\"PiuraTV\" tvg-logo=\"https://i.imgur.com/KnJAqbd.png\" tvg-country=\"PE\" tvg-chno=\"844\" group-title=\"Perú\",844 - PiuraTV",
@@ -10570,7 +10570,7 @@
     "grupo": "Perú",
     "nombre": "PiuraTV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RegionTVCallao.pe@SD\" tvg-name=\"Region TV Callao\" tvg-logo=\"https://i.imgur.com/I4grcqk.png\" tvg-country=\"PE\" tvg-chno=\"849\" group-title=\"Perú\",849 - Region TV Callao",
@@ -10579,7 +10579,7 @@
     "grupo": "Perú",
     "nombre": "Region TV Callao",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DTV.pe@SD\" tvg-name=\"DTV\" tvg-logo=\"https://i.imgur.com/OSvegAq.png\" tvg-country=\"PE\" tvg-chno=\"825\" group-title=\"Perú\",825 - DTV",
@@ -10588,7 +10588,7 @@
     "grupo": "Perú",
     "nombre": "DTV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"StudioPascoTV.pe@SD\" tvg-name=\"Studio Pasco TV\" tvg-logo=\"https://i.imgur.com/zgyNuVE.jpeg\" tvg-country=\"PE\" tvg-chno=\"855\" group-title=\"Perú\",855 - Studio Pasco TV",
@@ -10597,7 +10597,7 @@
     "grupo": "Perú",
     "nombre": "Studio Pasco TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABTelevision.pe@SD\" tvg-name=\"ABTelevision\" tvg-logo=\"https://i.imgur.com/tqMDscD.png\" tvg-country=\"PE\" tvg-chno=\"810\" group-title=\"Perú\",810 - ABTelevision",
@@ -10606,7 +10606,7 @@
     "grupo": "Perú",
     "nombre": "ABTelevision",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AgroTV.pe@SD\" tvg-name=\"Agro TV\" tvg-logo=\"https://i.imgur.com/1uLGa3w.png\" tvg-country=\"PE\" tvg-chno=\"811\" group-title=\"Perú\",811 - Agro TV",
@@ -10615,7 +10615,7 @@
     "grupo": "Perú",
     "nombre": "Agro TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AmazonicaTV.pe@SD\" tvg-name=\"Amazonica TV\" tvg-logo=\"https://i.imgur.com/22ebHAX.jpeg\" tvg-country=\"PE\" tvg-chno=\"812\" group-title=\"Perú\",812 - Amazonica TV",
@@ -10624,7 +10624,7 @@
     "grupo": "Perú",
     "nombre": "Amazonica TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Antena1.pe@SD\" tvg-name=\"Antena 1\" tvg-logo=\"https://i.imgur.com/Bt0yGtw.jpeg\" tvg-country=\"PE\" tvg-chno=\"814\" group-title=\"Perú\",814 - Antena 1",
@@ -10633,7 +10633,7 @@
     "grupo": "Perú",
     "nombre": "Antena 1",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BNBDigital.pe@SD\" tvg-name=\"BNB Digital\" tvg-logo=\"https://i.imgur.com/MgEN1F8.png\" tvg-country=\"PE\" tvg-chno=\"817\" group-title=\"Perú\",817 - BNB Digital",
@@ -10642,16 +10642,16 @@
     "grupo": "Perú",
     "nombre": "BNB Digital",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CajamarcaTV.pe@SD\" tvg-name=\"Cajamarca TV\" tvg-logo=\"https://i.imgur.com/pC57NYv.png\" tvg-country=\"PE\" tvg-chno=\"819\" group-title=\"Perú\",819 - Cajamarca TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Perú",
     "nombre": "Cajamarca TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DacTV.pe@SD\" tvg-name=\"Dac TV\" tvg-logo=\"https://i.imgur.com/g4pZ3ZW.jpeg\" tvg-country=\"PE\" tvg-chno=\"824\" group-title=\"Perú\",824 - Dac TV",
@@ -10660,7 +10660,7 @@
     "grupo": "Perú",
     "nombre": "Dac TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RumboMineroTV.pe@SD\" tvg-name=\"Rumbo Minero TV\" tvg-logo=\"https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png\" tvg-country=\"PE\" tvg-chno=\"851\" group-title=\"Perú\",851 - Rumbo Minero TV",
@@ -10669,16 +10669,16 @@
     "grupo": "Perú",
     "nombre": "Rumbo Minero TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PlaneaTV.pe@SD\" tvg-name=\"Planea TV\" tvg-logo=\"https://i.imgur.com/EoLhvBN.png\" tvg-country=\"PE\" tvg-chno=\"845\" group-title=\"Perú\",845 - Planea TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Perú",
     "nombre": "Planea TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"SqalaTV.pe@SD\" tvg-name=\"Sqala TV\" tvg-logo=\"https://i.imgur.com/DJ05m8s.png\" tvg-country=\"PE\" tvg-chno=\"223\" group-title=\"Deportes\",223 - Sqala TV",
@@ -10687,7 +10687,7 @@
     "grupo": "Deportes",
     "nombre": "Sqala TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live-hls-web-aje.akamaized.net/m3u8/out/v1/f247f6eb2bda49dbbb03910b80459892/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/b/b1/Al_Jazeera_English_logo.svg\" group-title=\"Noticias\",Al Jazeera English",
@@ -10705,7 +10705,7 @@
     "grupo": "Religioso",
     "nombre": "ADB TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TeleOnce.pr@HD\" tvg-name=\"TeleOnce\" tvg-logo=\"https://i.imgur.com/Crt3P4N.png\" tvg-country=\"PR\" tvg-chno=\"1126\" group-title=\"Puerto Rico\",1126 - TeleOnce",
@@ -10714,7 +10714,7 @@
     "grupo": "Puerto Rico",
     "nombre": "TeleOnce",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.arnoproducciones.com/hls/norte.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"MasNorteTV.co@SD\" tvg-name=\"Mas Norte TV\" tvg-logo=\"\" tvg-country=\"CO\" tvg-chno=\"784\" group-title=\"Colombia\",784 - Mas Norte TV",
@@ -10723,7 +10723,7 @@
     "grupo": "Colombia",
     "nombre": "Mas Norte TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.cmr24.fm/TVI/HD/chunks.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TamilVisionTV.ca@SD\" tvg-name=\"TamilVision-TV\" tvg-logo=\"https://i.imgur.com/DodsLuW.png\" tvg-country=\"CA\" tvg-chno=\"1014\" group-title=\"Desde Internet\",1014 - TamilVision-TV",
@@ -10732,7 +10732,7 @@
     "grupo": "Desde Internet",
     "nombre": "TamilVision-TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.ekamraott.com/4tv/bharata2z/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BharatAtoZ.in@SD\" tvg-name=\"Bharat AtoZ\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_AtoZ.png\" tvg-country=\"IN\" tvg-chno=\"374\" group-title=\"Noticias\",374 - Bharat AtoZ",
@@ -10741,7 +10741,7 @@
     "grupo": "Noticias",
     "nombre": "Bharat AtoZ",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Next HD",
@@ -10750,7 +10750,7 @@
     "grupo": "Paraguay",
     "nombre": "Next HD",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://live.enhdtv.com:8081/8060/index.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Suceso TV",
@@ -10759,7 +10759,7 @@
     "grupo": "Paraguay",
     "nombre": "Suceso TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://live.gideo.video/americateve2/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AmericaTeVe.pr@SD\" tvg-name=\"America TeVe\" tvg-logo=\"https://i.imgur.com/K9o3mLP.png\" tvg-country=\"PR\" tvg-chno=\"1122\" group-title=\"Puerto Rico\",1122 - America TeVe",
@@ -10768,7 +10768,7 @@
     "grupo": "Puerto Rico",
     "nombre": "America TeVe",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.jintv.org/medialive/jintv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"JinTV.nl@SD\" tvg-name=\"Jin TV\" tvg-logo=\"\" tvg-country=\"NL\" tvg-chno=\"450\" group-title=\"Cultura\",450 - Jin TV",
@@ -10777,7 +10777,7 @@
     "grupo": "Cultura",
     "nombre": "Jin TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.obslivestream.com/autenticatvmux/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AutenticaTelevision.pe@SD\" tvg-name=\"Autentica Television\" tvg-logo=\"https://i.imgur.com/bEJK3RN.png\" tvg-country=\"PE\" tvg-chno=\"816\" group-title=\"Perú\",816 - Autentica Television",
@@ -10786,7 +10786,7 @@
     "grupo": "Perú",
     "nombre": "Autentica Television",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.obslivestream.com/canal8/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal8Catacaos.pe@SD\" tvg-name=\"Canal 8 Catacaos\" tvg-logo=\"https://i.imgur.com/O5MrFjY.png\" tvg-country=\"PE\" tvg-chno=\"820\" group-title=\"Perú\",820 - Canal 8 Catacaos",
@@ -10795,7 +10795,7 @@
     "grupo": "Perú",
     "nombre": "Canal 8 Catacaos",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.obslivestream.com/crtvmux/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CRTelevision.pe@SD\" tvg-name=\"CR Television\" tvg-logo=\"https://i.imgur.com/oxycMeA.png\" tvg-country=\"PE\" tvg-chno=\"823\" group-title=\"Perú\",823 - CR Television",
@@ -10804,7 +10804,7 @@
     "grupo": "Perú",
     "nombre": "CR Television",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.obslivestream.com/sonoondatv/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"SonoOndaTV.ec@SD\" tvg-name=\"Sono Onda TV\" tvg-logo=\"https://i.imgur.com/HWHeqWY.png\" tvg-country=\"EC\" tvg-chno=\"806\" group-title=\"Ecuador\",806 - Sono Onda TV",
@@ -10813,7 +10813,7 @@
     "grupo": "Ecuador",
     "nombre": "Sono Onda TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.obslivestream.com/tvoriente/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RadioTVOriente.pe@SD\" tvg-name=\"RadioTV Oriente\" tvg-logo=\"https://i.imgur.com/iHaFLHX.png\" tvg-country=\"PE\" tvg-chno=\"847\" group-title=\"Perú\",847 - RadioTV Oriente",
@@ -10822,7 +10822,7 @@
     "grupo": "Perú",
     "nombre": "RadioTV Oriente",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live.teve.pro/live/tvoasis/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TVOasisMonay.ve@SD\" tvg-name=\"TV Oasis Monay\" tvg-logo=\"https://i.imgur.com/hwd7osJ.jpeg\" tvg-country=\"VE\" tvg-chno=\"870\" group-title=\"Venezuela\",870 - TV Oasis Monay",
@@ -10831,7 +10831,7 @@
     "grupo": "Venezuela",
     "nombre": "TV Oasis Monay",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live1.ottlive.co.in/aagaaztimes/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AagaazTimes.in@SD\" tvg-name=\"Aagaaz Times\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png\" tvg-country=\"IN\" tvg-chno=\"1148\" group-title=\"Desde Internet\",1148 - Aagaaz Times",
@@ -10840,7 +10840,7 @@
     "grupo": "Desde Internet",
     "nombre": "Aagaaz Times",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PowerHD.ar@SD\" tvg-name=\"PowerHD\" tvg-logo=\"https://i.imgur.com/15gMDG0.png\" tvg-country=\"AR\" tvg-chno=\"636\" group-title=\"Argentina\",636 - PowerHD",
@@ -10849,16 +10849,16 @@
     "grupo": "Argentina",
     "nombre": "PowerHD",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Enlace.cr@SD\" tvg-name=\"Enlace\" tvg-logo=\"https://i.imgur.com/YwUVTmS.png\" tvg-country=\"CR\" tvg-chno=\"1080\" group-title=\"Costa Rica\",1080 - Enlace",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Costa Rica",
     "nombre": "Enlace",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"HmongTVNetwork.us@SD\" tvg-name=\"Hmong TV Network\" tvg-logo=\"https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj\" tvg-country=\"US\" tvg-chno=\"442\" group-title=\"Cultura\",442 - Hmong TV Network",
@@ -10867,7 +10867,7 @@
     "grupo": "Cultura",
     "nombre": "Hmong TV Network",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"HmongStarTV.us@SD\" tvg-name=\"Hmong Star TV\" tvg-logo=\"https://i.imgur.com/dRsacao.png\" tvg-country=\"US\" tvg-chno=\"441\" group-title=\"Cultura\",441 - Hmong Star TV",
@@ -10876,7 +10876,7 @@
     "grupo": "Cultura",
     "nombre": "Hmong Star TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CanalShowsport.ar@SD\" tvg-name=\"Canal Showsport\" tvg-logo=\"https://i.imgur.com/0L9tW3Z.png\" tvg-country=\"AR\" tvg-chno=\"168\" group-title=\"Deportes\",168 - Canal Showsport",
@@ -10885,7 +10885,7 @@
     "grupo": "Deportes",
     "nombre": "Canal Showsport",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PBSKidsPacific.us@SD\" tvg-name=\"PBS Kids Pacific\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"525\" group-title=\"Infantil\",525 - PBS Kids Pacific",
@@ -10894,7 +10894,7 @@
     "grupo": "Infantil",
     "nombre": "PBS Kids Pacific",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PBSKids.us@SD\" tvg-name=\"PBS Kids\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"521\" group-title=\"Infantil\",521 - PBS Kids",
@@ -10903,7 +10903,7 @@
     "grupo": "Infantil",
     "nombre": "PBS Kids",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PBSKidsMountain.us@SD\" tvg-name=\"PBS Kids Mountain\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"524\" group-title=\"Infantil\",524 - PBS Kids Mountain",
@@ -10912,7 +10912,7 @@
     "grupo": "Infantil",
     "nombre": "PBS Kids Mountain",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PBSKidsAlaska.us@SD\" tvg-name=\"PBS Kids Alaska\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"522\" group-title=\"Infantil\",522 - PBS Kids Alaska",
@@ -10921,7 +10921,7 @@
     "grupo": "Infantil",
     "nombre": "PBS Kids Alaska",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PBSKidsHawaii.us@SD\" tvg-name=\"PBS Kids Hawaii\" tvg-logo=\"\" tvg-country=\"US\" tvg-chno=\"523\" group-title=\"Infantil\",523 - PBS Kids Hawaii",
@@ -10930,7 +10930,7 @@
     "grupo": "Infantil",
     "nombre": "PBS Kids Hawaii",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.perucast.com/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"SenalPeruTV.pe@SD\" tvg-name=\"Senal Peru TV\" tvg-logo=\"https://i.imgur.com/1q0R6R9.png\" tvg-country=\"PE\" tvg-chno=\"852\" group-title=\"Perú\",852 - Senal Peru TV",
@@ -10939,7 +10939,7 @@
     "grupo": "Perú",
     "nombre": "Senal Peru TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AFTV.us@SD\" tvg-name=\"AFTV\" tvg-logo=\"https://i.imgur.com/UoiUwFj.png\" tvg-country=\"US\" tvg-chno=\"936\" group-title=\"Estados Unidos\",936 - AFTV",
@@ -10948,7 +10948,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AFTV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AccessVisionChannel16.us@SD\" tvg-name=\"AccessVision Channel 16\" tvg-logo=\"https://i.imgur.com/vi4TCdb.png\" tvg-country=\"US\" tvg-chno=\"932\" group-title=\"Estados Unidos\",932 - AccessVision Channel 16",
@@ -10957,7 +10957,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AccessVision Channel 16",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AccessVisionChannel17.us@SD\" tvg-name=\"AccessVision Channel 17\" tvg-logo=\"https://i.imgur.com/vi4TCdb.png\" tvg-country=\"US\" tvg-chno=\"933\" group-title=\"Estados Unidos\",933 - AccessVision Channel 17",
@@ -10966,7 +10966,7 @@
     "grupo": "Estados Unidos",
     "nombre": "AccessVision Channel 17",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BMCHDTV.us@SD\" tvg-name=\"BMC-HD TV\" tvg-logo=\"https://i.imgur.com/c9LiTz0.png\" tvg-country=\"US\" tvg-chno=\"968\" group-title=\"Estados Unidos\",968 - BMC-HD TV",
@@ -10975,7 +10975,7 @@
     "grupo": "Estados Unidos",
     "nombre": "BMC-HD TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BerksCommunityTV.us@SD\" tvg-name=\"Berks Community TV\" tvg-logo=\"https://i.imgur.com/vQ6a4VL.png\" tvg-country=\"US\" tvg-chno=\"962\" group-title=\"Estados Unidos\",962 - Berks Community TV",
@@ -10984,7 +10984,7 @@
     "grupo": "Estados Unidos",
     "nombre": "Berks Community TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BATVPublicChannel.us@SD\" tvg-name=\"BATV Public Channel\" tvg-logo=\"https://i.imgur.com/zKQMDsu.png\" tvg-country=\"US\" tvg-chno=\"961\" group-title=\"Estados Unidos\",961 - BATV Public Channel",
@@ -10993,7 +10993,7 @@
     "grupo": "Estados Unidos",
     "nombre": "BATV Public Channel",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BATVEducationalChannel.us@SD\" tvg-name=\"BATV Educational Channel\" tvg-logo=\"https://i.imgur.com/eDoJqtg.png\" tvg-country=\"US\" tvg-chno=\"402\" group-title=\"Cultura\",402 - BATV Educational Channel",
@@ -11002,7 +11002,7 @@
     "grupo": "Cultura",
     "nombre": "BATV Educational Channel",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BATVGovernmentChannel.us@SD\" tvg-name=\"BATV Government Channel\" tvg-logo=\"https://i.imgur.com/4MdSstx.png\" tvg-country=\"US\" tvg-chno=\"960\" group-title=\"Estados Unidos\",960 - BATV Government Channel",
@@ -11011,7 +11011,7 @@
     "grupo": "Estados Unidos",
     "nombre": "BATV Government Channel",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BestofBATVChannel.us@SD\" tvg-name=\"Best of BATV Channel\" tvg-logo=\"https://i.imgur.com/TUMiKCX.png\" tvg-country=\"US\" tvg-chno=\"963\" group-title=\"Estados Unidos\",963 - Best of BATV Channel",
@@ -11020,7 +11020,7 @@
     "grupo": "Estados Unidos",
     "nombre": "Best of BATV Channel",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CMAPChannel17.us@SD\" tvg-name=\"CMAP Channel 17\" tvg-logo=\"https://i.imgur.com/wlYUEYc.png\" tvg-country=\"US\" tvg-chno=\"995\" group-title=\"Estados Unidos\",995 - CMAP Channel 17",
@@ -11029,7 +11029,7 @@
     "grupo": "Estados Unidos",
     "nombre": "CMAP Channel 17",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AccessNashua.us@SD\" tvg-name=\"Access Nashua\" tvg-logo=\"https://i.imgur.com/iv9Vfcb.png\" tvg-country=\"US\" tvg-chno=\"930\" group-title=\"Estados Unidos\",930 - Access Nashua",
@@ -11038,16 +11038,16 @@
     "grupo": "Estados Unidos",
     "nombre": "Access Nashua",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livetr.teleromagna.it/mia/live/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TRSport.it@SD\" tvg-name=\"TR Sport\" tvg-logo=\"\" tvg-country=\"IT\" tvg-chno=\"228\" group-title=\"Deportes\",228 - TR Sport",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Deportes",
     "nombre": "TR Sport",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livetrx01.vodgc.net/eltrecetv/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ElTrece.ar@SD\" tvg-name=\"El Trece\" tvg-logo=\"https://i.imgur.com/TrgBAdA.png\" tvg-country=\"AR\" tvg-chno=\"628\" group-title=\"Argentina\",628 - El Trece",
@@ -11056,7 +11056,7 @@
     "grupo": "Argentina",
     "nombre": "El Trece",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AlankarTV.in@SD\" tvg-name=\"Alankar TV\" tvg-logo=\"\" tvg-country=\"IN\" tvg-chno=\"237\" group-title=\"Cine y series\",237 - Alankar TV",
@@ -11065,16 +11065,16 @@
     "grupo": "Cine y series",
     "nombre": "Alankar TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"50Canale.it@SD\" tvg-name=\"50 Canale\" tvg-logo=\"https://i.imgur.com/D3OTRzf.png\" tvg-country=\"IT\" tvg-chno=\"1145\" group-title=\"Desde Internet\",1145 - 50 Canale",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Desde Internet",
     "nombre": "50 Canale",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"LoretoTV.ec@SD\" tvg-name=\"Loreto TV\" tvg-logo=\"https://i.imgur.com/3qGSAT3.png\" tvg-country=\"EC\" tvg-chno=\"802\" group-title=\"Ecuador\",802 - Loreto TV",
@@ -11083,7 +11083,7 @@
     "grupo": "Ecuador",
     "nombre": "Loreto TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ZenLIFEbyStingray.ca@HD\" tvg-name=\"ZenLIFE by Stingray\" tvg-logo=\"\" tvg-country=\"CA\" tvg-chno=\"1019\" group-title=\"Desde Internet\",1019 - ZenLIFE by Stingray",
@@ -11092,7 +11092,7 @@
     "grupo": "Desde Internet",
     "nombre": "ZenLIFE by Stingray",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"REVNAction.us@SD\" tvg-name=\"REV'N Action\" tvg-logo=\"https://i.imgur.com/xsm8mMd.png\" tvg-country=\"US\" tvg-chno=\"214\" group-title=\"Deportes\",214 - REV'N Action",
@@ -11101,7 +11101,7 @@
     "grupo": "Deportes",
     "nombre": "REV'N Action",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ExitosaTV.pe@SD\" tvg-name=\"Exitosa TV\" tvg-logo=\"https://i.imgur.com/pu0BSB7.png\" tvg-country=\"PE\" tvg-chno=\"826\" group-title=\"Perú\",826 - Exitosa TV",
@@ -11110,7 +11110,7 @@
     "grupo": "Perú",
     "nombre": "Exitosa TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DanceTelevision.nl@SD\" tvg-name=\"Dance Television\" tvg-logo=\"https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg\" tvg-country=\"NL\" tvg-chno=\"484\" group-title=\"Música\",484 - Dance Television",
@@ -11119,7 +11119,7 @@
     "grupo": "Música",
     "nombre": "Dance Television",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Nickelodeon.de@SD\" tvg-name=\"Nickelodeon\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" tvg-country=\"DE\" tvg-chno=\"517\" group-title=\"Infantil\",517 - Nickelodeon",
@@ -11128,7 +11128,7 @@
     "grupo": "Infantil",
     "nombre": "Nickelodeon",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AshwaveegaNews24x7.in@SD\" tvg-name=\"Ashwaveega News 24x7\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png\" tvg-country=\"IN\" tvg-chno=\"363\" group-title=\"Noticias\",363 - Ashwaveega News 24x7",
@@ -11137,7 +11137,7 @@
     "grupo": "Noticias",
     "nombre": "Ashwaveega News 24x7",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/ascontenido/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AsContenidos.bo@SD\" tvg-name=\"As Contenidos\" tvg-logo=\"https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png\" tvg-country=\"BO\" tvg-chno=\"696\" group-title=\"Bolivia\",696 - As Contenidos",
@@ -11146,7 +11146,7 @@
     "grupo": "Bolivia",
     "nombre": "As Contenidos",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/audiokisstv/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Audiokiss.bo@SD\" tvg-name=\"Audiokiss\" tvg-logo=\"https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png\" tvg-country=\"BO\" tvg-chno=\"467\" group-title=\"Música\",467 - Audiokiss",
@@ -11155,7 +11155,7 @@
     "grupo": "Música",
     "nombre": "Audiokiss",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/dmoda/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DmodaChannel.bo@SD\" tvg-name=\"Dmoda Channel\" tvg-logo=\"https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png\" tvg-country=\"BO\" tvg-chno=\"700\" group-title=\"Bolivia\",700 - Dmoda Channel",
@@ -11164,7 +11164,7 @@
     "grupo": "Bolivia",
     "nombre": "Dmoda Channel",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/eldebertv/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ELDEBER.bo@SD\" tvg-name=\"EL DEBER\" tvg-logo=\"https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg\" tvg-country=\"BO\" tvg-chno=\"701\" group-title=\"Bolivia\",701 - EL DEBER",
@@ -11173,7 +11173,7 @@
     "grupo": "Bolivia",
     "nombre": "EL DEBER",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/ftvhd/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"FTV.bo@SD\" tvg-name=\"FTV\" tvg-logo=\"https://i.imgur.com/YOr1Oac.png\" tvg-country=\"BO\" tvg-chno=\"185\" group-title=\"Deportes\",185 - FTV",
@@ -11182,7 +11182,7 @@
     "grupo": "Deportes",
     "nombre": "FTV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/redtvshop/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RedTVShop.bo@SD\" tvg-name=\"Red TV Shop\" tvg-logo=\"https://i.imgur.com/I7yB176.png\" tvg-country=\"BO\" tvg-chno=\"705\" group-title=\"Bolivia\",705 - Red TV Shop",
@@ -11191,7 +11191,7 @@
     "grupo": "Bolivia",
     "nombre": "Red TV Shop",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/tvlatina/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TVLatina.bo@SD\" tvg-name=\"TV Latina\" tvg-logo=\"https://i.imgur.com/V6wxEdh.png\" tvg-country=\"BO\" tvg-chno=\"710\" group-title=\"Bolivia\",710 - TV Latina",
@@ -11200,16 +11200,16 @@
     "grupo": "Bolivia",
     "nombre": "TV Latina",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://master.tucableip.com/univalletv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"UnivalleTelevision.bo@SD\" tvg-name=\"Univalle Television\" tvg-logo=\"https://i.imgur.com/qgrWDIs.png\" tvg-country=\"BO\" tvg-chno=\"713\" group-title=\"Bolivia\",713 - Univalle Television",
-    "estado": "video_detectado",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Bolivia",
     "nombre": "Univalle Television",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://maystreaming.cloudecast.com/redemeio/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RedeMeioNorte.br@SD\" tvg-name=\"Rede Meio Norte\" tvg-logo=\"https://i.imgur.com/KVdTi0M.png\" tvg-country=\"BR\" tvg-chno=\"663\" group-title=\"Brasil\",663 - Rede Meio Norte",
@@ -11218,7 +11218,7 @@
     "grupo": "Brasil",
     "nombre": "Rede Meio Norte",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Telesur.ve@SD\" tvg-name=\"Telesur\" tvg-logo=\"https://i.imgur.com/P50VjRX.png\" tvg-country=\"VE\" tvg-chno=\"866\" group-title=\"Venezuela\",866 - Telesur",
@@ -11227,16 +11227,16 @@
     "grupo": "Venezuela",
     "nombre": "Telesur",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ARDalpha.de@SD\" tvg-name=\"ARD-alpha\" tvg-logo=\"\" tvg-country=\"DE\" tvg-chno=\"397\" group-title=\"Cultura\",397 - ARD-alpha",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Cultura",
     "nombre": "ARD-alpha",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mcdn.daserste.de/daserste/int/master.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Europa\",Das Erste (ARD)",
@@ -11256,7 +11256,7 @@
     "grupo": "Música",
     "nombre": "Balle Balle",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"LaKalle.co@SD\" tvg-name=\"La Kalle\" tvg-logo=\"https://www.tdtparatodos.tv/sites/default/files/la_kalle.png\" tvg-country=\"CO\" tvg-chno=\"782\" group-title=\"Colombia\",782 - La Kalle",
@@ -11265,7 +11265,7 @@
     "grupo": "Colombia",
     "nombre": "La Kalle",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BluRadio.co@SD\" tvg-name=\"Blu Radio\" tvg-logo=\"https://i.imgur.com/w2t8CGT.png\" tvg-country=\"CO\" tvg-chno=\"768\" group-title=\"Colombia\",768 - Blu Radio",
@@ -11274,7 +11274,7 @@
     "grupo": "Colombia",
     "nombre": "Blu Radio",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal8.cr@SD\" tvg-name=\"Canal 8\" tvg-logo=\"https://i.imgur.com/nefPi2Y.png\" tvg-country=\"CR\" tvg-chno=\"1079\" group-title=\"Costa Rica\",1079 - Canal 8",
@@ -11283,7 +11283,7 @@
     "grupo": "Costa Rica",
     "nombre": "Canal 8",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TeleFormula.mx@SD\" tvg-name=\"TeleFormula\" tvg-logo=\"https://i.imgur.com/y0a0xwY.png\" tvg-country=\"MX\" tvg-chno=\"895\" group-title=\"México\",895 - TeleFormula",
@@ -11292,7 +11292,7 @@
     "grupo": "México",
     "nombre": "TeleFormula",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AztecaHonduras.hn@SD\" tvg-name=\"Azteca Honduras\" tvg-logo=\"https://i.imgur.com/sxFh1dw.png\" tvg-country=\"HN\" tvg-chno=\"1110\" group-title=\"Honduras\",1110 - Azteca Honduras",
@@ -11301,7 +11301,7 @@
     "grupo": "Honduras",
     "nombre": "Azteca Honduras",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Guatevision.gt@SD\" tvg-name=\"Guatevision\" tvg-logo=\"https://i.imgur.com/mbmHPnO.png\" tvg-country=\"GT\" tvg-chno=\"1133\" group-title=\"Centroamérica\",1133 - Guatevision",
@@ -11310,7 +11310,7 @@
     "grupo": "Centroamérica",
     "nombre": "Guatevision",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://media.neuquen.gov.ar/rtn/television/media.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RTN.ar@SD\" tvg-name=\"RTN\" tvg-logo=\"https://i.imgur.com/8xqYg4C.png\" tvg-country=\"AR\" tvg-chno=\"638\" group-title=\"Argentina\",638 - RTN",
@@ -11319,7 +11319,7 @@
     "grupo": "Argentina",
     "nombre": "RTN",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RadioTVNeuquen.ar@SD\" tvg-name=\"Radio TV Neuquen\" tvg-logo=\"https://i.imgur.com/HXBLozl.png\" tvg-country=\"AR\" tvg-chno=\"637\" group-title=\"Argentina\",637 - Radio TV Neuquen",
@@ -11328,7 +11328,7 @@
     "grupo": "Argentina",
     "nombre": "Radio TV Neuquen",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABNAfghanistan.us@SD\" tvg-name=\"ABN Afghanistan\" tvg-logo=\"https://i.imgur.com/LI30mAt.png\" tvg-country=\"US\" tvg-chno=\"547\" group-title=\"Religioso\",547 - ABN Afghanistan",
@@ -11337,7 +11337,7 @@
     "grupo": "Religioso",
     "nombre": "ABN Afghanistan",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABNAfrica.us@SD\" tvg-name=\"ABN Africa\" tvg-logo=\"https://i.imgur.com/SLrX8Ef.png\" tvg-country=\"US\" tvg-chno=\"548\" group-title=\"Religioso\",548 - ABN Africa",
@@ -11346,7 +11346,7 @@
     "grupo": "Religioso",
     "nombre": "ABN Africa",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABNBibleMoviesChannel.us@SD\" tvg-name=\"ABN Bible Movies Channel\" tvg-logo=\"https://i.imgur.com/NCqZdaL.png\" tvg-country=\"US\" tvg-chno=\"549\" group-title=\"Religioso\",549 - ABN Bible Movies Channel",
@@ -11355,7 +11355,7 @@
     "grupo": "Religioso",
     "nombre": "ABN Bible Movies Channel",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mediaserver.abnvideos.com/streams/abnchina.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABNChina.us@SD\" tvg-name=\"ABN China\" tvg-logo=\"https://i.imgur.com/zagVLQH.png\" tvg-country=\"US\" tvg-chno=\"550\" group-title=\"Religioso\",550 - ABN China",
@@ -11364,7 +11364,7 @@
     "grupo": "Religioso",
     "nombre": "ABN China",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABNTVIndia.us@SD\" tvg-name=\"ABN TV India\" tvg-logo=\"https://i.imgur.com/VcZn60X.png\" tvg-country=\"US\" tvg-chno=\"551\" group-title=\"Religioso\",551 - ABN TV India",
@@ -11373,7 +11373,7 @@
     "grupo": "Religioso",
     "nombre": "ABN TV India",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ABNUrdu.us@SD\" tvg-name=\"ABN Urdu\" tvg-logo=\"https://i.imgur.com/Y9ScPIl.png\" tvg-country=\"US\" tvg-chno=\"552\" group-title=\"Religioso\",552 - ABN Urdu",
@@ -11382,7 +11382,7 @@
     "grupo": "Religioso",
     "nombre": "ABN Urdu",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"VillaManteroTV.ar@SD\" tvg-name=\"Villa Mantero TV\" tvg-logo=\"https://i.imgur.com/mmEenTm.png\" tvg-country=\"AR\" tvg-chno=\"648\" group-title=\"Argentina\",648 - Villa Mantero TV",
@@ -11391,7 +11391,7 @@
     "grupo": "Argentina",
     "nombre": "Villa Mantero TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"MovieSphere.us@UK\" tvg-name=\"MovieSphere (UK)\" tvg-logo=\"https://i.imgur.com/0sfk3yp.png\" tvg-country=\"US\" tvg-chno=\"302\" group-title=\"Cine y series\",302 - MovieSphere (UK)",
@@ -11400,7 +11400,7 @@
     "grupo": "Cine y series",
     "nombre": "MovieSphere (UK)",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://movil.ejeserver.com/live/elmundodelcampo.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ElMundodelCampo.co@SD\" tvg-name=\"El Mundo del Campo\" tvg-logo=\"https://i.imgur.com/xG2apUG.jpeg\" tvg-country=\"CO\" tvg-chno=\"779\" group-title=\"Colombia\",779 - El Mundo del Campo",
@@ -11409,7 +11409,7 @@
     "grupo": "Colombia",
     "nombre": "El Mundo del Campo",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"1TwenteTV.nl@SD\" tvg-name=\"1Twente TV\" tvg-logo=\"https://i.imgur.com/ftiuNK3.png\" tvg-country=\"NL\" tvg-chno=\"1141\" group-title=\"Desde Internet\",1141 - 1Twente TV",
@@ -11418,7 +11418,7 @@
     "grupo": "Desde Internet",
     "nombre": "1Twente TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mst3k-roku.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"MST3K.us@US\" tvg-name=\"MST3K\" tvg-logo=\"https://i.imgur.com/2LSdcga.png\" tvg-country=\"US\" tvg-chno=\"304\" group-title=\"Cine y series\",304 - MST3K",
@@ -11427,7 +11427,7 @@
     "grupo": "Cine y series",
     "nombre": "MST3K",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"MoreThanSportsTV.de@SD\" tvg-name=\"More Than Sports TV\" tvg-logo=\"https://i.imgur.com/SLrjImc.png\" tvg-country=\"DE\" tvg-chno=\"202\" group-title=\"Deportes\",202 - More Than Sports TV",
@@ -11436,7 +11436,7 @@
     "grupo": "Deportes",
     "nombre": "More Than Sports TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Dokusat.de@SD\" tvg-name=\"Dokusat\" tvg-logo=\"https://i.imgur.com/GadfTwF.png\" tvg-country=\"DE\" tvg-chno=\"422\" group-title=\"Cultura\",422 - Dokusat",
@@ -11445,7 +11445,7 @@
     "grupo": "Cultura",
     "nombre": "Dokusat",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Europa\",EITB Basque",
@@ -11487,7 +11487,7 @@
     "grupo": "Noticias",
     "nombre": "10 TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"6TVTelugu.in@SD\" tvg-name=\"6 TV Telugu\" tvg-logo=\"https://i.imgur.com/l3EcRnZ.png\" tvg-country=\"IN\" tvg-chno=\"335\" group-title=\"Noticias\",335 - 6 TV Telugu",
@@ -11496,7 +11496,7 @@
     "grupo": "Noticias",
     "nombre": "6 TV Telugu",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"7SMusic.in@SD\" tvg-name=\"7S Music\" tvg-logo=\"https://i.imgur.com/zDiIhdN.png\" tvg-country=\"IN\" tvg-chno=\"456\" group-title=\"Música\",456 - 7S Music",
@@ -11505,7 +11505,7 @@
     "grupo": "Música",
     "nombre": "7S Music",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795886246
   },
   "https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Aastha.in@HD\" tvg-name=\"Aastha\" tvg-logo=\"https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540\" tvg-country=\"IN\" tvg-chno=\"540\" group-title=\"Religioso\",540 - Aastha",
@@ -11696,7 +11696,7 @@
     "grupo": "Paraguay",
     "nombre": "Ñandutí TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"WKAQTV22.pr@HD\" tvg-name=\"WKAQ-TV 2.2\" tvg-logo=\"https://i.imgur.com/TL6xy4y.png\" tvg-country=\"PR\" tvg-chno=\"1130\" group-title=\"Puerto Rico\",1130 - WKAQ-TV 2.2",
@@ -12360,11 +12360,11 @@
   "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",MiTV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "MiTV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-083\" tvg-name=\"República TV\" tvg-chno=\"128\" group-title=\"Paraguay\",128 - República TV",
@@ -12387,20 +12387,20 @@
   "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Trece",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Trece",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Unicanal",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-058\" tvg-name=\"NPY\" tvg-chno=\"96\" group-title=\"Paraguay\",096 - NPY",
@@ -13710,11 +13710,11 @@
   "https://stream.farra.com.py/live/farra_low.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Farra Play",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Farra Play",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://stream.giostreaming.app/canal11/canal11.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal11TuTV.sv@SD\" tvg-name=\"Canal 11 TuTV\" tvg-logo=\"https://i.imgur.com/itqQEux.png\" tvg-country=\"SV\" tvg-chno=\"1119\" group-title=\"El Salvador\",1119 - Canal 11 TuTV",
@@ -14256,11 +14256,11 @@
   "https://streaming.trece.com.py/live/trece.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Trece",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Trece",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"7TV.es@Cordoba\" tvg-name=\"7TV (Cordoba)\" tvg-logo=\"https://i.imgur.com/rnzMR9R.png\" tvg-country=\"ES\" tvg-chno=\"1024\" group-title=\"España\",1024 - 7TV (Cordoba)",
@@ -14629,11 +14629,11 @@
   "https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",MiTV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "MiTV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-099\" tvg-name=\"TVS\" tvg-chno=\"145\" group-title=\"Paraguay\",145 - TVS",
@@ -14856,11 +14856,11 @@
   "https://tv.mitvparaguay.com/hls?id=trece&type=hls": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Trece",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Trece",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://tv.ondadigital.pe/ondadigital/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"ONDADIGITAL.pe@SD\" tvg-name=\"ONDA DIGITAL\" tvg-logo=\"\" tvg-country=\"PE\" tvg-chno=\"841\" group-title=\"Perú\",841 - ONDA DIGITAL",
@@ -15636,7 +15636,7 @@
     "grupo": "Paraguay",
     "nombre": "Red Digital",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-082\" tvg-name=\"Regional TV Yaguarón\" tvg-chno=\"126\" group-title=\"Paraguay\",126 - Regional TV Yaguarón",
@@ -15645,7 +15645,7 @@
     "grupo": "Paraguay",
     "nombre": "Regional TV Yaguarón",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-096\" tvg-name=\"TV Aire\" tvg-chno=\"142\" group-title=\"Paraguay\",142 - TV Aire",
@@ -15654,7 +15654,7 @@
     "grupo": "Paraguay",
     "nombre": "TV Aire",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-098\" tvg-name=\"TV Canindeyú\" tvg-chno=\"144\" group-title=\"Paraguay\",144 - TV Canindeyú",
@@ -15663,7 +15663,7 @@
     "grupo": "Paraguay",
     "nombre": "TV Canindeyú",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-103\" tvg-name=\"UniRadio TV\" tvg-chno=\"149\" group-title=\"Paraguay\",149 - UniRadio TV",
@@ -15672,7 +15672,7 @@
     "grupo": "Paraguay",
     "nombre": "UniRadio TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AmericaEstereoGuayaquil.ec@SD\" tvg-name=\"America Estereo Guayaquil\" tvg-logo=\"https://i.imgur.com/gUqKymM.png\" tvg-country=\"EC\" tvg-chno=\"794\" group-title=\"Ecuador\",794 - America Estereo Guayaquil",
@@ -15735,7 +15735,7 @@
     "grupo": "Paraguay",
     "nombre": "Alcance FM PLAY TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-060\" tvg-name=\"Occidental TV\" tvg-chno=\"99\" group-title=\"Paraguay\",099 - Occidental TV",
@@ -15744,7 +15744,7 @@
     "grupo": "Paraguay",
     "nombre": "Occidental TV",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-061\" tvg-name=\"Oviedo TV\" tvg-chno=\"100\" group-title=\"Paraguay\",100 - Oviedo TV",
@@ -15785,11 +15785,11 @@
   "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Canal 5 TV Max",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Canal 5 TV Max",
     "opciones": [],
-    "ultimo": 1795883408
+    "ultimo": 1795886246
   },
   "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TDTMultimedia.bo@SD\" tvg-name=\"TDT Multimedia\" tvg-logo=\"https://i.imgur.com/JkCywl5.png\" tvg-country=\"BO\" tvg-chno=\"709\" group-title=\"Bolivia\",709 - TDT Multimedia",
