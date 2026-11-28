@@ -230,7 +230,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "480x360",
+          "resolucion": "384x288",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -908,7 +908,7 @@
       "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 2,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
