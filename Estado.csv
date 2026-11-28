@@ -31,7 +31,7 @@
 30,PY-124,Canal 4 TVCSA,sin enlace,,sin_enlace,pendiente,,,
 31,PY-125,Canal 40 TV Concepción,sin enlace,,sin_enlace,pendiente,,,
 32,PY-126,Canal 41 TV Cable Color Caaguazú,sin enlace,,sin_enlace,pendiente,,,
-33,PY-015,Canal 5 TV Max,no,Online,http_404,decodifica,h264,aac,1920x1080
+33,PY-015,Canal 5 TV Max,no,Online,hls_media,decodifica,h264,aac,1920x1080
 34,PY-127,Canal 6 Multimedios,sin enlace,,sin_enlace,pendiente,,,
 35,PY-128,Canal 7 TV Cable Caaguazú,sin enlace,,sin_enlace,pendiente,,,
 36,PY-016,Canal 8 C&C Producciones,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,480x360
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
