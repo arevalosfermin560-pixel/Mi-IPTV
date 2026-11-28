@@ -15,12 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 18
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Instalar FFmpeg si falta
         run: |
           if ! command -v ffmpeg >/dev/null || ! command -v ffprobe >/dev/null; then
             sudo apt-get update && sudo apt-get install -y ffmpeg
           fi
+      - name: Respaldar señales existentes
+        run: python3 Actualizar_Individual.py guardar
       - name: Verificar catálogo
         env:
           SCHEDULE: ${{ github.event.schedule }}
@@ -33,11 +35,13 @@ jobs:
           python3 Verificar.py --modo "$MODE"
       - name: Aplicar grupos fijos Xuper
         run: python3 Grupos.py
+      - name: Integrar y verificar señales individuales
+        run: python3 Actualizar_Individual.py verificar
       - name: Guardar cambios
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          for f in Paraguay.m3u Canales.json Estado.json Estado.csv Historial.csv Candidatos.json Internacional.json; do
+          for f in Paraguay.m3u Canales.json Estado.json Estado.csv Historial.csv Candidatos.json Internacional.json Registro_Senales.json; do
             if [ -f "$f" ]; then git add -- "$f"; fi
           done
           if git diff --cached --quiet; then exit 0; fi

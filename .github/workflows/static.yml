@@ -1,5 +1,4 @@
 name: Publicar IPTV en GitHub Pages
-
 on:
   workflow_dispatch:
   push:
@@ -11,47 +10,52 @@ on:
     workflows: ["IPTV Paraguay - mantenimiento"]
     types: [completed]
     branches: [main]
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
-
 jobs:
   deploy:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - name: Descargar repositorio
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: main
-
-      - name: Configurar Pages
-        uses: actions/configure-pages@v5
-
-      - name: Preparar lista IPTV
+      - name: Preparar y validar lista
+        id: lista
         run: |
+          set -eu
           mkdir -p public
           cp Paraguay.m3u public/Paraguay.m3u
           touch public/.nojekyll
-          echo "Canales publicados:"
-          grep -c "^#EXTINF" public/Paraguay.m3u
-
+          grep -q '^#EXTM3U' public/Paraguay.m3u
+          echo 'Canales publicados:'
+          grep -c '^#EXTINF:' public/Paraguay.m3u
+          # Evita desplegar repetidamente si la version en Pages es identica.
+          if [ "$GITHUB_EVENT_NAME" = workflow_run ] && curl -fsSL --max-time 20 'https://arevalosfermin560-pixel.github.io/Mi-IPTV/Paraguay.m3u' -o "$RUNNER_TEMP/publicada.m3u" && cmp -s public/Paraguay.m3u "$RUNNER_TEMP/publicada.m3u"; then
+            echo 'sin_cambios=true' >> "$GITHUB_OUTPUT"
+            echo 'La lista publicada ya coincide con main.'
+          else
+            echo 'sin_cambios=false' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Configurar Pages
+        if: steps.lista.outputs.sin_cambios != 'true'
+        uses: actions/configure-pages@v6
       - name: Subir archivo
-        uses: actions/upload-pages-artifact@v3
+        if: steps.lista.outputs.sin_cambios != 'true'
+        uses: actions/upload-pages-artifact@v5
         with:
           path: public
-
       - name: Publicar IPTV
+        if: steps.lista.outputs.sin_cambios != 'true'
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
