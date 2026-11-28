@@ -248,3 +248,6 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-28T01:58:47+00:00,PY-053,Ñandejara Ne'e TV,hls_master,decodifica,estado
 2026-11-28T01:58:47+00:00,PY-059,Oasis TV,http_404,decodifica,estado
 2026-11-28T02:14:59+00:00,PY-100,UGA TV,hls_master,decodifica,estado
+2026-11-28T03:16:13+00:00,PY-003,A24 Paraguay,error_red_URLError,decodifica,estado
+2026-11-28T03:16:13+00:00,PY-008,América Paraguay,error_red_URLError,decodifica,estado
+2026-11-28T03:16:13+00:00,PY-018,Canal Guapa,error_red_URLError,decodifica,estado
