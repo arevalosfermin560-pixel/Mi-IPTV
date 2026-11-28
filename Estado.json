@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "480x480",
+          "resolucion": "900x720",
           "video": "h264"
         },
         "rapida": "hls_media"
