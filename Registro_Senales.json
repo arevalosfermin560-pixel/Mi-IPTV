@@ -6,2684 +6,2684 @@
     "grupo": "Paraguay",
     "nombre": "TV Cámara",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://159.203.148.226/live/farra.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-034\" tvg-name=\"Farra Play\" tvg-chno=\"61\" group-title=\"Paraguay\",061 - Farra Play",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Farra Play",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://159.203.148.226/live/farra_low.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Farra Play",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Farra Play",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00b/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",A&E HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "A&E HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00c/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",AMC HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "AMC HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00d/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Animal Planet HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Animal Planet HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00h/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",AXN HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "AXN HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00l/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Baby TV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Baby TV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00m/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Noticias\",BBC Mundo",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Noticias",
     "nombre": "BBC Mundo",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00n/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Boomerang",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Boomerang",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00s/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Cine Latino",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Cine Latino",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00t/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Cinecanal HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Cinecanal HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00u/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Cinemax",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Cinemax",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00v/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Noticias\",CNN Internacional",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Noticias",
     "nombre": "CNN Internacional",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00w/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Noticias\",CNN en Espanol",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Noticias",
     "nombre": "CNN en Espanol",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a00x/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Comedy Central HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Comedy Central HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a010/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery Channel HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Discovery Channel HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a011/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery Civilization",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Discovery Civilization",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a012/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery Hogar y Salud",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Discovery Hogar y Salud",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a013/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery ID HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Discovery ID HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a014/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery Science",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Discovery Science",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a015/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Discovery Theater HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Discovery Theater HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a016/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery Turbo",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Discovery Turbo",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a017/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery World HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Discovery World HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a018/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Disney Channel",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Disney Channel",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a019/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Disney Jr",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Disney Jr",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01a/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Disney XD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Disney XD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01b/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",E! Entretenimiento HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "E! Entretenimiento HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01i/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",Exa TV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Música",
     "nombre": "Exa TV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01l/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",FOX Action HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "FOX Action HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01m/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Fox Classic HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Fox Classic HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01n/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",FOX Comedy HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "FOX Comedy HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01p/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",FOX HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "FOX HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01q/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",FOX Life",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "FOX Life",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01s/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",FOX Movies HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "FOX Movies HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01v/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",FOX Sports 3 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "FOX Sports 3 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01w/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",FX HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "FX HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01x/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",FX Peliculas HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "FX Peliculas HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01y/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Golden",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Golden",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a01z/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",Golf Channel HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "Golf Channel HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a020/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",H2",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "H2",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a021/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",HBO Family HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "HBO Family HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a022/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",HBO HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "HBO HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a023/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",HBO Plus HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "HBO Plus HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a024/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",HBO Xtreme",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "HBO Xtreme",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a025/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",HBO 2 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "HBO 2 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a026/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Historia HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Historia HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a029/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Lifetime",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Lifetime",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02c/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",MTV HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Música",
     "nombre": "MTV HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02d/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",MTV Hits",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Música",
     "nombre": "MTV Hits",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02f/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Multipremier",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Multipremier",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02g/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Nat Geo Wild HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Nat Geo Wild HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02h/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Nat Geo Kids",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Nat Geo Kids",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02i/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",National Geographic HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "National Geographic HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02j/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Nick Jr",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Nick Jr",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02l/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Nickelodeon",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Nickelodeon",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02m/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Paramount HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Paramount HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02o/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",RCN Novelas",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "RCN Novelas",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02s/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Semillitas",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Semillitas",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02t/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Sony HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Sony HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02u/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Space HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Space HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02w/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Studio Universal HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Studio Universal HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02y/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",TCM",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "TCM",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a02z/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Telemundo HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Telemundo HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a032/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",TLC",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "TLC",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a033/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",TNT HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "TNT HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a034/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",TNT Series HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "TNT Series HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a036/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",TVChile",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "TVChile",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a037/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Universal",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Universal",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a038/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Univision HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Univision HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a03a/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Warner HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Warner HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a03b/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",ZooMoo",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "ZooMoo",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a03h/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",Claro Sports 2 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "Claro Sports 2 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a03m/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Discovery Kids HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Discovery Kids HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a03w/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",Deportes Latinoamerica",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "Deportes Latinoamerica",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a03z/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",HTV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "HTV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a040/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Multicinema",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Multicinema",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a043/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",VH1 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Música",
     "nombre": "VH1 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a048/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",VH1 Classic",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Música",
     "nombre": "VH1 Classic",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04b/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",AMERICA TV Argentina",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "AMERICA TV Argentina",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04g/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",SKY Sport",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "SKY Sport",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04l/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Sundance HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Sundance HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04q/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",TL Novelas",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "TL Novelas",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04r/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Canal 5 Mexico",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Canal 5 Mexico",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04s/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Azteca 7 Mexico",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Azteca 7 Mexico",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04w/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",Tigo Sports HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "Tigo Sports HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a04y/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",Canal de Conciertos",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Música",
     "nombre": "Canal de Conciertos",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a051/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Golden Premiere HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Golden Premiere HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a053/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",El Gourmet",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "El Gourmet",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a057/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Cine Arte HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Cine Arte HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a058/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Multimedios Monterrey",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Multimedios Monterrey",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a05b/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Noticias\",RT Noticias",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Noticias",
     "nombre": "RT Noticias",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a05e/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a05g/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 3 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 3 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a05h/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 6 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 6 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a05j/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 4 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 4 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a05o/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 5 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 5 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://168.232.168.242:4000/play/a05q/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 2 HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 2 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0l0": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CARACOL TV HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "CARACOL TV HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0l3": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",LA KALLE",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Música",
     "nombre": "LA KALLE",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0l4": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",RCN HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "RCN HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0l7": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",SEÃAL COLOMBIA",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "SEÃAL COLOMBIA",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0l8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CANAL INSTITUCIONAL",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "CANAL INSTITUCIONAL",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0lb": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",TELECARIBE",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "TELECARIBE",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mm": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Playboy HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Playboy HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mn": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",ETC",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "ETC",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mo": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",TNT SPORTS",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "TNT SPORTS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mp": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",RAI Italia",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "RAI Italia",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mt": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",A&E HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "A&E HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mu": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Comedy Central HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "Comedy Central HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mv": {
     "cabecera": "#EXTINF:0 group-title=\"General\",El Gourmet HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "El Gourmet HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mw": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",UNIVERSAL CHANNEL HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "UNIVERSAL CHANNEL HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0mx": {
     "cabecera": "#EXTINF:0 group-title=\"General\",HEI HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "HEI HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0n0": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Atres Series",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Atres Series",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0n1": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",Win Sports+ HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "Win Sports+ HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0n2": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",AMC HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "AMC HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0n4": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",Canal 13",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Chile",
     "nombre": "Canal 13",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0n8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery World HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "Discovery World HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0na": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",TNT Novelas HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "TNT Novelas HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0nc": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",MTV HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "MTV HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0ov": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Ecuavisa",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Ecuavisa",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0ow": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Teleamazonas",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Teleamazonas",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0ox": {
     "cabecera": "#EXTINF:0 group-title=\"General\",GamavisiÃ³n",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "GamavisiÃ³n",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0oy": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",Televicentro",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "Televicentro",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0oz": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Cartoon Network HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Cartoon Network HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0p0": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",Discovery Kids HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "Discovery Kids HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0p2": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Home & Health HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Home & Health HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0p3": {
     "cabecera": "#EXTINF:0 group-title=\"Noticias\",CNN EspaÃ±ol",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Noticias",
     "nombre": "CNN EspaÃ±ol",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0p5": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Sony Movies",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Sony Movies",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0p7": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Disney Jr.",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "Disney Jr.",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0p8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery Turbo",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "Discovery Turbo",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0p9": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Nick Jr.",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Nick Jr.",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pa": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",TLC",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "TLC",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pb": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Discovery Science",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "Discovery Science",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pe": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Tooncast",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "Tooncast",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pf": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",HGTV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "HGTV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pg": {
     "cabecera": "#EXTINF:0 group-title=\"General\",TelefÃ©",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "TelefÃ©",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0ph": {
     "cabecera": "#EXTINF:0 group-title=\"Religion\",EWTN",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Religioso",
     "nombre": "EWTN",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pi": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Lifetime",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "Lifetime",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pj": {
     "cabecera": "#EXTINF:0 group-title=\"Religion\",Enlace",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Religioso",
     "nombre": "Enlace",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pk": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Adult Swim",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "Adult Swim",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pl": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",TVE",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "TVE",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pm": {
     "cabecera": "#EXTINF:0 group-title=\"General\",13 C",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "13 C",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pn": {
     "cabecera": "#EXTINF:0 group-title=\"Religion\",BETHEL TV",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Religioso",
     "nombre": "BETHEL TV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0po": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Animal Planet",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "Animal Planet",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pp": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Cinecanal",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "Cinecanal",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pt": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Nat Geo HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "Nat Geo HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pw": {
     "cabecera": "#EXTINF:0 group-title=\"General\",HOLA TV HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "HOLA TV HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0py": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Sony HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "Sony HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0pz": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Warner TV HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "Warner TV HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0q0": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",AXN HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "AXN HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0q2": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Space HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "Space HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0q5": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",FX HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "FX HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0q8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Canal TUVES",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "Canal TUVES",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0q9": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",TNT Sports Premium SD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "TNT Sports Premium SD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qb": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",De Pelicula",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "De Pelicula",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qc": {
     "cabecera": "#EXTINF:0 group-title=\"General\",REC TV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "REC TV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qd": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",HBO",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cine y series",
     "nombre": "HBO",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qh": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Pasiones HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "Pasiones HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qj": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 2 HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "ESPN 2 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0ql": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",L1 MAX",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "L1 MAX",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qm": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Nickelodeon HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "Nickelodeon HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qn": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",MEGA HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Chile",
     "nombre": "MEGA HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qo": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",TV+",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "TV+",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qp": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",CNN Chile",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "CNN Chile",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qq": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",La Red",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "La Red",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qr": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",Canal 24 Horas",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "Canal 24 Horas",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qt": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Food Network",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Food Network",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qu": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Las Estrellas HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "Las Estrellas HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qv": {
     "cabecera": "#EXTINF:0 group-title=\"Infantiles\",DHE HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Infantil",
     "nombre": "DHE HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qy": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",HBO Xtreme HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "HBO Xtreme HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0qz": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",Sun Channel HD",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "Sun Channel HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0r0": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",CHV",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Chile",
     "nombre": "CHV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0r1": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",Mega",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "Mega",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0r2": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",Espn Premium",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "Espn Premium",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0s2": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CANAL 1",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "CANAL 1",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0s3": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 6 HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "ESPN 6 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0s5": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 5 HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "ESPN 5 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0s6": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 3 HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "ESPN 3 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0s7": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "ESPN",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0s8": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 7 HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "ESPN 7 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0s9": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",ESPN 4 HD",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Deportes",
     "nombre": "ESPN 4 HD",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sb": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",Canal Caracol",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "Canal Caracol",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sc": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",Canal RCN",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "Canal RCN",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sd": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Ecuavisa",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Ecuavisa",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0se": {
     "cabecera": "#EXTINF:0 group-title=\"General\",Canal del Congreso",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "Canal del Congreso",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sf": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",PARAVISION",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "PARAVISION",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sg": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",Zoom",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Chile",
     "nombre": "Zoom",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sh": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",TRO",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "TRO",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0si": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",City TV",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "City TV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sj": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",Capital",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Chile",
     "nombre": "Capital",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sk": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",RCN Novelas",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "RCN Novelas",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sl": {
     "cabecera": "#EXTINF:0 group-title=\"General\",ID",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "ID",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sm": {
     "cabecera": "#EXTINF:0 group-title=\"Noticias\",France 24",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Noticias",
     "nombre": "France 24",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sn": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Home and Health",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Cultura",
     "nombre": "Home and Health",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0so": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Panamericana TV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Panamericana TV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sp": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",ATV",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "ATV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sq": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",Trece",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "España",
     "nombre": "Trece",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sr": {
     "cabecera": "#EXTINF:0 group-title=\"Religion\",Sin Limites",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Religioso",
     "nombre": "Sin Limites",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0ss": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",America TV PY",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "America TV PY",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0st": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",History Channel",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "History Channel",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0su": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Zona Latina",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "Zona Latina",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sv": {
     "cabecera": "#EXTINF:0 group-title=\"Latinoamerica\",Telefuturo",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "Telefuturo",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sw": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",Baby First",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "Baby First",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0sz": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Warner",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "Warner",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0t0": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",GOL TV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "GOL TV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0t1": {
     "cabecera": "#EXTINF:0 group-title=\"Deportes\",TyC",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "TyC",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0t2": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",AE Mundo",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Entretenimiento",
     "nombre": "AE Mundo",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0t3": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",TLC",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "TLC",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0t4": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",ViaX",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Chile",
     "nombre": "ViaX",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.79.131:8000/play/a0t6": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",Tlnovelas",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "Tlnovelas",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a06w/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",Animal Planet HD AMAZONAS",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "Animal Planet HD AMAZONAS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a08d/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",BABYTV ENVIADO",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "BABYTV ENVIADO",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a091/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",CANAL VENEVICION LOCAL",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "CANAL VENEVICION LOCAL",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0al/index.m3u8": {
     "cabecera": "#EXTINF:11 group-title=\"Entretenimiento\",AE",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "AE",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0am/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",AXN",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "AXN",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0as/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",CANAL DE LAS ESTRELLAS",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "CANAL DE LAS ESTRELLAS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0b0/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CARACOL",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "CARACOL",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0by/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Documentales\",ANIMAL PLANET",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cultura",
     "nombre": "ANIMAL PLANET",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0ct/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Entretenimiento\",AE",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Entretenimiento",
     "nombre": "AE",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0cu/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Peliculas\",AXN",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Cine y series",
     "nombre": "AXN",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0cx/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",CANALESTRELLAS",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "CANALESTRELLAS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0cy/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",CANALES NACIONALES",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "CANALES NACIONALES",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0cz/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CANAL 1 NACIONAL SIN TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "CANAL 1 NACIONAL SIN TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0d0/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",CANALINSTITUCIONAL NACIONAL SIN TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "CANALINSTITUCIONAL NACIONAL SIN TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0d2/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",CANAL CONGRE NACIONAL SIN TRANS",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "CANAL CONGRE NACIONAL SIN TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0d3/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",CANAL CAPITAL NACIONAL SIN TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "CANAL CAPITAL NACIONAL SIN TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0d4/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",CANAL 13 NACIONAL SIN TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "CANAL 13 NACIONAL SIN TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0da/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CANAL 1 TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "CANAL 1 TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0dh/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CANAL TRO TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "CANAL TRO TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0di/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CANAL CONGRESO TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Colombia",
     "nombre": "CANAL CONGRESO TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0dj/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",CANAL 13 TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "CANAL 13 TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0dk/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Chile\",CANAL CAPITAL TRANS",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Chile",
     "nombre": "CANAL CAPITAL TRANS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0e4/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",CANAL 12 VALLEDUPAR",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "CANAL 12 VALLEDUPAR",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0e8/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CABLE NOTICIAS",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "CABLE NOTICIAS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0fo/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",ANTV",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Desde Internet",
     "nombre": "ANTV",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0g3/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Colombia\",CABLE NOTICIAS",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Colombia",
     "nombre": "CABLE NOTICIAS",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0g9/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"Musica\",BANDAMAX",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Música",
     "nombre": "BANDAMAX",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://181.78.8.199:8000/play/a0ga/index.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"General\",BITME",
-    "estado": "pendiente",
+    "estado": "video_detectado",
     "fallos": 0,
     "grupo": "Desde Internet",
     "nombre": "BITME",
     "opciones": [
       "#EXTVLCOPT:network-caching=1000"
     ],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://190.108.83.69:8000/play/a070/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-067\" tvg-name=\"Popu TV\" tvg-chno=\"108\" group-title=\"Paraguay\",108 - Popu TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Popu TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://190.128.214.97:64333/play/a011/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-032\" tvg-name=\"Educanal\" tvg-chno=\"55\" group-title=\"Paraguay\",055 - Educanal",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Educanal",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://190.128.214.97:64333/play/a02w/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-050\" tvg-name=\"MiTV\" tvg-chno=\"87\" group-title=\"Paraguay\",087 - MiTV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "MiTV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://190.60.52.28:5001/play/a094/index.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"-\",ESPN 3 HD (N2)",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 3 HD (N2)",
     "opciones": [],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://190.60.52.28:5001/play/a095/index.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"-\",ESPN 6HD (N2)",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 6HD (N2)",
     "opciones": [],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://190.60.52.28:5001/play/a09d/index.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"-\",ESPN Premium HD (N1)",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN Premium HD (N1)",
     "opciones": [],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://190.60.52.28:5001/play/a09q/index.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"-\",ESPN 5HD (N2)",
-    "estado": "pendiente",
-    "fallos": 0,
+    "estado": "no_confirmado",
+    "fallos": 1,
     "grupo": "Deportes",
     "nombre": "ESPN 5HD (N2)",
     "opciones": [],
-    "ultimo": 0
+    "ultimo": 1795879675
   },
   "http://190.60.52.28:5001/play/a09t/index.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"-\",ESPN 2 HD (N2)",
@@ -2854,7 +2854,7 @@
     "grupo": "Paraguay",
     "nombre": "Paravisión",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.170.130.224:8000/play/a036/index.m3u8?hls": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-091\" tvg-name=\"SUR TV Itapúa\" tvg-chno=\"137\" group-title=\"Paraguay\",137 - SUR TV Itapúa",
@@ -2863,7 +2863,7 @@
     "grupo": "Paraguay",
     "nombre": "SUR TV Itapúa",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.170.130.224:8000/play/a03x/index.m3u8?hls": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",TV Cámara",
@@ -2872,79 +2872,79 @@
     "grupo": "Paraguay",
     "nombre": "TV Cámara",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-087\" tvg-name=\"SNT\" tvg-chno=\"133\" group-title=\"Paraguay\",133 - SNT",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Paravisión",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Paravisión",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-002\" tvg-name=\"5 Días TV\" tvg-chno=\"2\" group-title=\"Paraguay\",002 - 5 Días TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "5 Días TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-095\" tvg-name=\"Tropicalia 93.9 FM\" tvg-chno=\"141\" group-title=\"Paraguay\",141 - Tropicalia 93.9 FM",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Tropicalia 93.9 FM",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-004\" tvg-name=\"ABC TV\" tvg-chno=\"4\" group-title=\"Paraguay\",004 - ABC TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "ABC TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-101\" tvg-name=\"Unicanal\" tvg-chno=\"147\" group-title=\"Paraguay\",147 - Unicanal",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-094\" tvg-name=\"Trece\" tvg-chno=\"140\" group-title=\"Paraguay\",140 - Trece",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Trece",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://45.55.127.106/live/unicanal_mid.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Unicanal",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal2000.es@SD\" tvg-name=\"Canal 2000\" tvg-logo=\"https://i.imgur.com/9RoBASf.png\" tvg-country=\"ES\" tvg-chno=\"1034\" group-title=\"España\",1034 - Canal 2000",
@@ -5491,11 +5491,11 @@
   "http://inliveserver.com:1935/8312/8312/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-107\" tvg-name=\"Visión Villarrica\" tvg-chno=\"153\" group-title=\"Paraguay\",153 - Visión Villarrica",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Visión Villarrica",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://intelincloud01.com.ar/hls/cn3/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Canal3Pinamar.ar@SD\" tvg-name=\"Canal 3 Pinamar\" tvg-logo=\"https://i.imgur.com/IABFaH1.png\" tvg-country=\"AR\" tvg-chno=\"613\" group-title=\"Argentina\",613 - Canal 3 Pinamar",
@@ -5527,47 +5527,47 @@
   "http://nextplayparaguay.live/hls/canal10.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-036\" tvg-name=\"GCV Canal 10 Guajayví\" tvg-chno=\"66\" group-title=\"Paraguay\",066 - GCV Canal 10 Guajayví",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "GCV Canal 10 Guajayví",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://nextplayparaguay.live/hls/guajayvifm.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-024\" tvg-name=\"Choré TV\" tvg-chno=\"46\" group-title=\"Paraguay\",046 - Choré TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Choré TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://nextplayparaguay.live/hls/integraciontv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-040\" tvg-name=\"Integración TV\" tvg-chno=\"70\" group-title=\"Paraguay\",070 - Integración TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Integración TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://strm.unicanal.com.py/live/unicanal.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Unicanal",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://strm.unicanal.com.py/live/unicanal_src.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Unicanal",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Unicanal",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DisneyJrLatinAmerica.ar@South\" tvg-name=\"Disney Jr. Latin America (South)\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg\" tvg-country=\"AR\" tvg-chno=\"625\" group-title=\"Argentina\",625 - Disney Jr. Latin America (South)",
@@ -5581,11 +5581,11 @@
   "http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-023\" tvg-name=\"Central TV\" tvg-chno=\"45\" group-title=\"Paraguay\",045 - Central TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Central TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8": {
     "cabecera": "#EXTINF:0 group-title=\"EspaÃ±a\",HOLA! Play",
@@ -6161,101 +6161,101 @@
   "https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-033\" tvg-name=\"Estación Cristal TV\" tvg-chno=\"59\" group-title=\"Paraguay\",059 - Estación Cristal TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Estación Cristal TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Educanal",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Educanal",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-047\" tvg-name=\"Más TV Encarnación\" tvg-chno=\"80\" group-title=\"Paraguay\",080 - Más TV Encarnación",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Más TV Encarnación",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-085\" tvg-name=\"RTV 12\" tvg-chno=\"130\" group-title=\"Paraguay\",130 - RTV 12",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "RTV 12",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-148\" tvg-name=\"Obedira TV\" tvg-chno=\"98\" group-title=\"Paraguay\",098 - Obedira TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Obedira TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",RCC TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "RCC TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-079\" tvg-name=\"RCN TV\" tvg-chno=\"122\" group-title=\"Paraguay\",122 - RCN TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "RCN TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-089\" tvg-name=\"Somos del Este TV\" tvg-chno=\"135\" group-title=\"Paraguay\",135 - Somos del Este TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Somos del Este TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Somos del Este TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Somos del Este TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-090\" tvg-name=\"Suceso TV\" tvg-chno=\"136\" group-title=\"Paraguay\",136 - Suceso TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Suceso TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-012\" tvg-name=\"Cablemás TV\" tvg-chno=\"16\" group-title=\"Paraguay\",016 - Cablemás TV",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "Cablemás TV",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"Globovision.ve@SD\" tvg-name=\"Globovision\" tvg-logo=\"https://i.imgur.com/v6nRdxQ.png\" tvg-country=\"VE\" tvg-chno=\"860\" group-title=\"Venezuela\",860 - Globovision",
@@ -7040,7 +7040,7 @@
     "grupo": "Paraguay",
     "nombre": "A24 Paraguay",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RakutenTVDramaMovies.es@Spain\" tvg-name=\"Rakuten TV Drama Movies\" tvg-logo=\"https://i.imgur.com/Meew6eX.png\" tvg-country=\"ES\" tvg-chno=\"330\" group-title=\"Cine y series\",330 - Rakuten TV Drama Movies",
@@ -7198,29 +7198,29 @@
   "https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-011\" tvg-name=\"C9N\" tvg-chno=\"14\" group-title=\"Paraguay\",014 - C9N",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "C9N",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-088\" tvg-name=\"SNT\" tvg-chno=\"134\" group-title=\"Paraguay\",134 - SNT",
     "estado": "no_confirmado",
-    "fallos": 3,
+    "fallos": 4,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",SNT",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "SNT",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AlexBerlin.de@SD\" tvg-name=\"Alex Berlin\" tvg-logo=\"https://i.imgur.com/eTmHk4e.png\" tvg-country=\"DE\" tvg-chno=\"1152\" group-title=\"Desde Internet\",1152 - Alex Berlin",
@@ -7283,7 +7283,7 @@
     "grupo": "Paraguay",
     "nombre": "América Paraguay",
     "opciones": [],
-    "ultimo": 1795879224
+    "ultimo": 1795879675
   },
   "https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"DogtheBountyHunter.us@UK\" tvg-name=\"Dog the Bounty Hunter (UK)\" tvg-logo=\"https://i.imgur.com/lMICupK.png\" tvg-country=\"US\" tvg-chno=\"263\" group-title=\"Cine y series\",263 - Dog the Bounty Hunter (UK)",
@@ -11687,7 +11687,7 @@
     "grupo": "Paraguay",
     "nombre": "Ñandutí TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://nanduti.b-cdn.net/Source.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Ñandutí TV",
@@ -11849,11 +11849,11 @@
   "https://panel.dattalive.com/8028/8028/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-042\" tvg-name=\"KOA TV\" tvg-chno=\"72\" group-title=\"Paraguay\",072 - KOA TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "KOA TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CampusTV.cl@SD\" tvg-name=\"CampusTV\" tvg-logo=\"https://i.imgur.com/LvzLg33.png\" tvg-country=\"CL\" tvg-chno=\"720\" group-title=\"Chile\",720 - CampusTV",
@@ -12315,47 +12315,47 @@
   "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-001\" tvg-name=\"4DmásNoticias TV\" tvg-chno=\"1\" group-title=\"Paraguay\",001 - 4DmásNoticias TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "4DmásNoticias TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-010\" tvg-name=\"Bruno Masi TV\" tvg-chno=\"13\" group-title=\"Paraguay\",013 - Bruno Masi TV",
     "estado": "no_confirmado",
-    "fallos": 1,
+    "fallos": 2,
     "grupo": "Paraguay",
     "nombre": "Bruno Masi TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-021\" tvg-name=\"Cáritas TV\" tvg-chno=\"42\" group-title=\"Paraguay\",042 - Cáritas TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "Cáritas TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-030\" tvg-name=\"Dismar Radio TV\" tvg-chno=\"52\" group-title=\"Paraguay\",052 - Dismar Radio TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "Dismar Radio TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-038\" tvg-name=\"GO TV\" tvg-chno=\"68\" group-title=\"Paraguay\",068 - GO TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "GO TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",MiTV",
@@ -12369,20 +12369,20 @@
   "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-083\" tvg-name=\"República TV\" tvg-chno=\"128\" group-title=\"Paraguay\",128 - República TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "República TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-051\" tvg-name=\"Monumental TV\" tvg-chno=\"88\" group-title=\"Paraguay\",088 - Monumental TV",
-    "estado": "no_confirmado",
-    "fallos": 2,
+    "estado": "video_detectado",
+    "fallos": 0,
     "grupo": "Paraguay",
     "nombre": "Monumental TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Trece",
@@ -12405,11 +12405,11 @@
   "https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-058\" tvg-name=\"NPY\" tvg-chno=\"96\" group-title=\"Paraguay\",096 - NPY",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "NPY",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://redebrasil.nuvemplay.live/hls/stream.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"RedeBrasil.br@SD\" tvg-name=\"Rede Brasil\" tvg-logo=\"https://i.imgur.com/TXJKwzZ.png\" tvg-country=\"BR\" tvg-chno=\"662\" group-title=\"Brasil\",662 - Rede Brasil",
@@ -13435,7 +13435,7 @@
     "grupo": "Paraguay",
     "nombre": "Los Ángeles TV Radio",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"SoliveTV.ar@SD\" tvg-name=\"Solive TV\" tvg-logo=\"https://i.imgur.com/dyUxugT.png\" tvg-country=\"AR\" tvg-chno=\"641\" group-title=\"Argentina\",641 - Solive TV",
@@ -13894,7 +13894,7 @@
     "grupo": "Paraguay",
     "nombre": "Paraguay TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://stream.paroledivita.org/bejoy.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"BeJoykids.it@HD\" tvg-name=\"BeJoy.kids\" tvg-logo=\"https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png\" tvg-country=\"IT\" tvg-chno=\"496\" group-title=\"Infantil\",496 - BeJoy.kids",
@@ -14615,7 +14615,7 @@
     "grupo": "Paraguay",
     "nombre": "Unión TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-005\" tvg-name=\"AGR FM TV\" tvg-chno=\"5\" group-title=\"Paraguay\",005 - AGR FM TV",
@@ -14624,7 +14624,7 @@
     "grupo": "Paraguay",
     "nombre": "AGR FM TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",MiTV",
@@ -14638,11 +14638,11 @@
   "https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-099\" tvg-name=\"TVS\" tvg-chno=\"145\" group-title=\"Paraguay\",145 - TVS",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "TVS",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-100\" tvg-name=\"UGA TV\" tvg-chno=\"146\" group-title=\"Paraguay\",146 - UGA TV",
@@ -14651,7 +14651,7 @@
     "grupo": "Paraguay",
     "nombre": "UGA TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-105\" tvg-name=\"Venus Media\" tvg-chno=\"151\" group-title=\"Paraguay\",151 - Venus Media",
@@ -14660,7 +14660,7 @@
     "grupo": "Paraguay",
     "nombre": "Venus Media",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-017\" tvg-name=\"Canal 8 Visión TV\" tvg-chno=\"37\" group-title=\"Paraguay\",037 - Canal 8 Visión TV",
@@ -14669,7 +14669,7 @@
     "grupo": "Paraguay",
     "nombre": "Canal 8 Visión TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tiquiciatv.com/hls/lstv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"LosSantosTV.cr@SD\" tvg-name=\"Los Santos TV\" tvg-logo=\"https://i.imgur.com/5xw86wu.png\" tvg-country=\"CR\" tvg-chno=\"1084\" group-title=\"Costa Rica\",1084 - Los Santos TV",
@@ -14788,7 +14788,7 @@
     "grupo": "Paraguay",
     "nombre": "Invasiva TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tv.alterna.ar/stream/hls/live.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AlternaTV.ar@SD\" tvg-name=\"AlternaTV\" tvg-logo=\"\" tvg-country=\"AR\" tvg-chno=\"466\" group-title=\"Música\",466 - AlternaTV",
@@ -14838,11 +14838,11 @@
   "https://tv.invasivamedia.com/hls/limtv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-044\" tvg-name=\"LIM TV\" tvg-chno=\"74\" group-title=\"Paraguay\",074 - LIM TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "LIM TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"KaluTV.co@SD\" tvg-name=\"Kalu TV\" tvg-logo=\"\" tvg-country=\"CO\" tvg-chno=\"781\" group-title=\"Colombia\",781 - Kalu TV",
@@ -14932,7 +14932,7 @@
     "grupo": "Paraguay",
     "nombre": "Radio Colmenar 92.5 FM TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tvdatta.com:3991/live/guairatvlive.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-073\" tvg-name=\"Radio Guairá TV\" tvg-chno=\"115\" group-title=\"Paraguay\",115 - Radio Guairá TV",
@@ -14941,7 +14941,7 @@
     "grupo": "Paraguay",
     "nombre": "Radio Guairá TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tvdirecto.teleelx.es/stream/teleelx.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TeleElx.es@SD\" tvg-name=\"Tele Elx\" tvg-logo=\"\" tvg-country=\"ES\" tvg-chno=\"1068\" group-title=\"España\",1068 - Tele Elx",
@@ -14977,7 +14977,7 @@
     "grupo": "Paraguay",
     "nombre": "Canal 5 TV Max",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"AXSTV.us@SD\" tvg-name=\"AXS TV\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png\" tvg-country=\"US\" tvg-chno=\"469\" group-title=\"Música\",469 - AXS TV",
@@ -15474,7 +15474,7 @@
     "grupo": "Paraguay",
     "nombre": "Senado TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"EcuadorTV.ec@SD\" tvg-name=\"Ecuador TV\" tvg-logo=\"https://i.imgur.com/hj6EYwe.png\" tvg-country=\"EC\" tvg-chno=\"799\" group-title=\"Ecuador\",799 - Ecuador TV",
@@ -15555,16 +15555,16 @@
     "grupo": "Paraguay",
     "nombre": "Almaya TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-007\" tvg-name=\"Alt Media TV\" tvg-chno=\"9\" group-title=\"Paraguay\",009 - Alt Media TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "Alt Media TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-016\" tvg-name=\"Canal 8 C&C Producciones\" tvg-chno=\"36\" group-title=\"Paraguay\",036 - Canal 8 C&C Producciones",
@@ -15573,7 +15573,7 @@
     "grupo": "Paraguay",
     "nombre": "Canal 8 C&C Producciones",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-026\" tvg-name=\"Cosmos TV\" tvg-chno=\"48\" group-title=\"Paraguay\",048 - Cosmos TV",
@@ -15582,7 +15582,7 @@
     "grupo": "Paraguay",
     "nombre": "Cosmos TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-028\" tvg-name=\"Del Rey TV\" tvg-chno=\"50\" group-title=\"Paraguay\",050 - Del Rey TV",
@@ -15591,16 +15591,16 @@
     "grupo": "Paraguay",
     "nombre": "Del Rey TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-052\" tvg-name=\"Ñande Portetepe TV\" tvg-chno=\"89\" group-title=\"Paraguay\",089 - Ñande Portetepe TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "Ñande Portetepe TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-059\" tvg-name=\"Oasis TV\" tvg-chno=\"97\" group-title=\"Paraguay\",097 - Oasis TV",
@@ -15609,16 +15609,16 @@
     "grupo": "Paraguay",
     "nombre": "Oasis TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-149\" tvg-name=\"Panambi Vera TV\" tvg-chno=\"101\" group-title=\"Paraguay\",101 - Panambi Vera TV",
     "estado": "no_confirmado",
-    "fallos": 2,
+    "fallos": 3,
     "grupo": "Paraguay",
     "nombre": "Panambi Vera TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-077\" tvg-name=\"RB TV\" tvg-chno=\"120\" group-title=\"Paraguay\",120 - RB TV",
@@ -15627,7 +15627,7 @@
     "grupo": "Paraguay",
     "nombre": "RB TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-080\" tvg-name=\"Red Digital\" tvg-chno=\"124\" group-title=\"Paraguay\",124 - Red Digital",
@@ -15753,7 +15753,7 @@
     "grupo": "Paraguay",
     "nombre": "Oviedo TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-076\" tvg-name=\"Radio TV El Arca del Pacto\" tvg-chno=\"119\" group-title=\"Paraguay\",119 - Radio TV El Arca del Pacto",
@@ -15762,7 +15762,7 @@
     "grupo": "Paraguay",
     "nombre": "Radio TV El Arca del Pacto",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-081\" tvg-name=\"Red Interior TV\" tvg-chno=\"125\" group-title=\"Paraguay\",125 - Red Interior TV",
@@ -15771,7 +15771,7 @@
     "grupo": "Paraguay",
     "nombre": "Red Interior TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-075\" tvg-name=\"Radio San Cristóbal TV\" tvg-chno=\"118\" group-title=\"Paraguay\",118 - Radio San Cristóbal TV",
@@ -15780,7 +15780,7 @@
     "grupo": "Paraguay",
     "nombre": "Radio San Cristóbal TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8": {
     "cabecera": "#EXTINF:-1 group-title=\"Paraguay\",Canal 5 TV Max",
@@ -15924,7 +15924,7 @@
     "grupo": "Paraguay",
     "nombre": "CAD TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://videostream.jpbgdigital.com/NOWTV.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"CKNOFM.ca@SD\" tvg-name=\"CKNO-FM\" tvg-logo=\"https://i.imgur.com/sF2g7KE.png\" tvg-country=\"CA\" tvg-chno=\"479\" group-title=\"Música\",479 - CKNO-FM",
@@ -16207,7 +16207,7 @@
     "grupo": "Paraguay",
     "nombre": "Mega TV",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://www.desde-paraguay.com/pro.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"PY-020\" tvg-name=\"Canal Pro\" tvg-chno=\"41\" group-title=\"Paraguay\",041 - Canal Pro",
@@ -16216,7 +16216,7 @@
     "grupo": "Paraguay",
     "nombre": "Canal Pro",
     "opciones": [],
-    "ultimo": 1795877847
+    "ultimo": 1795879675
   },
   "https://www.latinasat.com.br/hls/live/stream/index.m3u8": {
     "cabecera": "#EXTINF:-1 tvg-id=\"TVLatinaSat.br@HD\" tvg-name=\"TVLatinaSat\" tvg-logo=\"\" tvg-country=\"BR\" tvg-chno=\"694\" group-title=\"Brasil\",694 - TVLatinaSat",
