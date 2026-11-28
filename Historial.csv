@@ -262,3 +262,4 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-28T11:10:41+00:00,PY-015,Canal 5 TV Max,hls_media,decodifica,estado
 2026-11-28T11:36:29+00:00,PY-061,Oviedo TV,http_404,decodifica,estado
 2026-11-28T12:08:17+00:00,PY-005,AGR FM TV,error_red_TimeoutError,decodifica,estado
+2026-11-28T12:38:16+00:00,PY-005,AGR FM TV,hls_master,decodifica,estado

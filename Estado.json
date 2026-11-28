@@ -78,19 +78,19 @@
   "PY-005": {
     "multimedia": "decodifica",
     "principal": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-    "rapida": "error_red_TimeoutError",
+    "rapida": "hls_master",
     "urls": {
       "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1280x720",
           "video": "h264"
         },
-        "rapida": "error_red_TimeoutError"
+        "rapida": "hls_master"
       }
     }
   },
