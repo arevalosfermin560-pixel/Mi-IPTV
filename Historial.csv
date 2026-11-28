@@ -254,3 +254,4 @@ utc,id,canal,rapida,multimedia,evento
 2026-11-28T03:24:27+00:00,PY-003,A24 Paraguay,hls_master,decodifica,estado
 2026-11-28T03:24:27+00:00,PY-008,América Paraguay,hls_master,decodifica,estado
 2026-11-28T03:24:27+00:00,PY-018,Canal Guapa,hls_master,decodifica,estado
+2026-11-28T06:39:34+00:00,PY-051,Monumental TV,error_red_TimeoutError,decodifica,estado
