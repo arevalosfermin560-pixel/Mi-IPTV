@@ -81,7 +81,7 @@
     "rapida": "hls_master",
     "urls": {
       "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": {
-        "exitos_multimedia": 0,
+        "exitos_multimedia": 1,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "384x288",
+          "resolucion": "480x360",
           "video": "h264"
         },
         "rapida": "hls_media"
