@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "0x0",
+          "resolucion": "480x360",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -868,7 +868,7 @@
     "rapida": "hls_media",
     "urls": {
       "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8": {
-        "exitos_multimedia": 1,
+        "exitos_multimedia": 2,
         "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
