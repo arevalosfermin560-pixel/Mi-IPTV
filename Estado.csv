@@ -31,13 +31,13 @@
 30,PY-124,Canal 4 TVCSA,sin enlace,,sin_enlace,pendiente,,,
 31,PY-125,Canal 40 TV Concepción,sin enlace,,sin_enlace,pendiente,,,
 32,PY-126,Canal 41 TV Cable Color Caaguazú,sin enlace,,sin_enlace,pendiente,,,
-33,PY-015,Canal 5 TV Max,no,Online,hls_media,decodifica,h264,aac,1920x1080
+33,PY-015,Canal 5 TV Max,no,Online,hls_media,error_decodificacion,h264,aac,1920x1080
 34,PY-127,Canal 6 Multimedios,sin enlace,,sin_enlace,pendiente,,,
 35,PY-128,Canal 7 TV Cable Caaguazú,sin enlace,,sin_enlace,pendiente,,,
 36,PY-016,Canal 8 C&C Producciones,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 37,PY-017,Canal 8 Visión TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1280x720
 38,PY-129,Canal de Salvación TV,sin enlace,,sin_enlace,pendiente,,,
-39,PY-018,Canal Guapa,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
+39,PY-018,Canal Guapa,sin fallo reportado,Online,hls_master,error_decodificacion,h264,aac,1920x1080
 40,PY-019,Canal Noticias PY,sin enlace,,sin_enlace,pendiente,,,
 41,PY-020,Canal Pro,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1920x1080
 42,PY-021,Cáritas TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
@@ -75,7 +75,7 @@
 74,PY-044,LIM TV,no,Offline,http_404,pendiente,,,
 75,PY-138,Limpio Digital TV,sin enlace,,sin_enlace,pendiente,,,
 76,PY-145,Local TV,sin enlace,,sin_enlace,pendiente,,,
-77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
+77,PY-045,Los Ángeles TV Radio,sin fallo reportado,Online,hls_media,decodifica,h264,aac,480x360
 78,PY-139,Luque Puroite Radio TV,sin enlace,,sin_enlace,pendiente,,,
 79,PY-046,Magazine Global,sin enlace,,sin_enlace,pendiente,,,
 80,PY-047,Más TV Encarnación,no,Timed out,error_red_URLError,pendiente,,,
@@ -144,7 +144,7 @@
 143,PY-097,TV Cámara,no,Online,hls_master,decodifica,mpeg2video,mp2,720x480
 144,PY-098,TV Canindeyú,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 145,PY-099,TVS,no,Timed out,error_red_TimeoutError,pendiente,,,
-146,PY-100,UGA TV,sin fallo reportado,Online,http_404,decodifica,h264,aac,1920x1080
+146,PY-100,UGA TV,sin fallo reportado,Online,error_red_TimeoutError,decodifica,h264,aac,1920x1080
 147,PY-101,Unicanal,no,Online,hls_media,sin_audio_video_confirmado,,,
 148,PY-102,Unión TV,sin fallo reportado,Online,hls_master,decodifica,h264,aac,1920x1080
 149,PY-103,UniRadio TV,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
