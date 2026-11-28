@@ -40,19 +40,19 @@
   "PY-003": {
     "multimedia": "decodifica",
     "principal": "https://a24-live.argosworkspace.com/a24/index.m3u8",
-    "rapida": "error_red_URLError",
+    "rapida": "hls_master",
     "urls": {
       "https://a24-live.argosworkspace.com/a24/index.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "error_red_URLError"
+        "rapida": "hls_master"
       }
     }
   },
@@ -130,19 +130,19 @@
   "PY-008": {
     "multimedia": "decodifica",
     "principal": "https://america-live.argosworkspace.com/america/index.m3u8",
-    "rapida": "error_red_URLError",
+    "rapida": "hls_master",
     "urls": {
       "https://america-live.argosworkspace.com/america/index.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "error_red_URLError"
+        "rapida": "hls_master"
       }
     }
   },
@@ -284,19 +284,19 @@
   "PY-018": {
     "multimedia": "decodifica",
     "principal": "https://guapa-live.argosworkspace.com/guapa/index.m3u8",
-    "rapida": "error_red_URLError",
+    "rapida": "hls_master",
     "urls": {
       "https://guapa-live.argosworkspace.com/guapa/index.m3u8": {
         "exitos_multimedia": 0,
         "fallos_multimedia": 0,
-        "fallos_rapidos": 1,
+        "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "error_red_URLError"
+        "rapida": "hls_master"
       }
     }
   },
