@@ -31,7 +31,7 @@
 30,PY-124,Canal 4 TVCSA,sin enlace,,sin_enlace,pendiente,,,
 31,PY-125,Canal 40 TV Concepción,sin enlace,,sin_enlace,pendiente,,,
 32,PY-126,Canal 41 TV Cable Color Caaguazú,sin enlace,,sin_enlace,pendiente,,,
-33,PY-015,Canal 5 TV Max,no,Online,hls_media,decodifica,h264,aac,1920x1080
+33,PY-015,Canal 5 TV Max,no,Online,http_404,decodifica,h264,aac,1920x1080
 34,PY-127,Canal 6 Multimedios,sin enlace,,sin_enlace,pendiente,,,
 35,PY-128,Canal 7 TV Cable Caaguazú,sin enlace,,sin_enlace,pendiente,,,
 36,PY-016,Canal 8 C&C Producciones,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
@@ -140,7 +140,7 @@
 139,PY-093,TN Noticias,sin enlace,,sin_enlace,pendiente,,,
 140,PY-094,Trece,no,Online,hls_media,sin_audio_video_confirmado,,,
 141,PY-095,Tropicalia 93.9 FM,no,Online,hls_media,sin_audio_video_confirmado,,,
-142,PY-096,TV Aire,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
+142,PY-096,TV Aire,sin fallo reportado,Online,http_404,decodifica,h264,aac,1280x720
 143,PY-097,TV Cámara,no,Online,hls_master,decodifica,mpeg2video,mp2,720x480
 144,PY-098,TV Canindeyú,sin fallo reportado,Online,hls_media,decodifica,h264,aac,1280x720
 145,PY-099,TVS,no,Timed out,error_red_TimeoutError,pendiente,,,
