@@ -1,0 +1,155 @@
+﻿Número;ID permanente;Canal;Estado;Enlace directo;Página de referencia;Fuente del enlace
+1;PY-001;4DmásNoticias TV;Funciona;https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8;;Catálogo maestro anterior
+2;PY-002;5 Días TV;Sin señal funcional;http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8;;Catálogo maestro anterior
+3;PY-003;A24 Paraguay;Funciona;https://a24-live.argosworkspace.com/a24/index.m3u8;;Catálogo maestro anterior
+4;PY-004;ABC TV;Sin señal funcional;http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8;;Catálogo maestro anterior
+5;PY-005;AGR FM TV;Funciona;https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8;;Catálogo maestro anterior
+6;PY-109;AlberdiNET TV;Sin enlace directo;;;
+7;PY-006;Alcance FM PLAY TV;Funciona;https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8;;Catálogo maestro anterior
+8;PY-110;Almaya TV;Nuevo por probar;https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8;https://tvonline.com.py/tv/almayatv.html;https://gist.github.com/akarickyyy/70bc38fb1245962f482e893fb1a333ef
+9;PY-007;Alt Media TV;Sin señal funcional;https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8;;Catálogo maestro anterior
+10;PY-008;América Paraguay;Funciona;https://america-live.argosworkspace.com/america/index.m3u8;;Catálogo maestro anterior
+11;PY-009;Areguá TV;Sin enlace directo;;https://m3u.cl/lista-iptv-paraguay.php;
+12;PY-111;Artigas TV Online;Sin enlace directo;;;
+13;PY-010;Bruno Masi TV;Funciona;https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8;;Catálogo maestro anterior
+14;PY-011;C9N;Sin señal funcional;https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8;;Catálogo maestro anterior
+15;PY-113;Caaguazú TV;Sin enlace directo;;;
+16;PY-012;Cablemás TV;Sin señal funcional;https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8;;Catálogo maestro anterior
+17;PY-013;CAD TV;Funciona;https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8;;Catálogo maestro anterior
+18;PY-144;Cadena Master TV;Sin enlace directo;;https://tvonline.com.py/tv/cadenamastertv.html;
+19;PY-014;Cambyretá TV;Sin enlace directo;;https://teleparaguay.com.py/;
+20;PY-114;Campo 9 Online;Sin enlace directo;;;
+21;PY-115;Canal 10 Atyrá;Sin enlace directo;;;
+22;PY-116;Canal 10 CTS;Sin enlace directo;;;
+23;PY-117;Canal 11 Damoa TV Regional;Sin enlace directo;;;
+24;PY-118;Canal 11 Yvy Pytã TV;Sin enlace directo;;;
+25;PY-119;Canal 15 San Joaquín;Sin enlace directo;;;
+26;PY-120;Canal 16 Fernando de la Mora;Sin enlace directo;;;
+27;PY-121;Canal 2 CCV;Sin enlace directo;;;
+28;PY-122;Canal 2 Teve;Sin enlace directo;;;
+29;PY-123;Canal 4 Iturbe;Sin enlace directo;;;
+30;PY-124;Canal 4 TVCSA;Sin enlace directo;;;
+31;PY-125;Canal 40 TV Concepción;Sin enlace directo;;;
+32;PY-126;Canal 41 TV Cable Color Caaguazú;Sin enlace directo;;;
+33;PY-015;Canal 5 TV Max;Sin señal funcional;https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8;;Catálogo maestro anterior
+34;PY-127;Canal 6 Multimedios;Verificar país e identidad (posible canal mexicano);;;
+35;PY-128;Canal 7 TV Cable Caaguazú;Sin enlace directo;;https://tvonline.com.py/tv/canal7tvcablecaaguazu.html;
+36;PY-016;Canal 8 C&C Producciones;Funciona;https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8;;Catálogo maestro anterior
+37;PY-017;Canal 8 Visión TV;Funciona;https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8;;Catálogo maestro anterior
+38;PY-129;Canal de Salvación TV;Sin enlace directo;;;
+39;PY-018;Canal Guapa;Funciona;https://guapa-live.argosworkspace.com/guapa/index.m3u8;;Catálogo maestro anterior
+40;PY-019;Canal Noticias PY;Sin enlace directo;;;
+41;PY-020;Canal Pro;Funciona;https://www.desde-paraguay.com/pro.m3u8;;Catálogo maestro anterior
+42;PY-021;Cáritas TV;Funciona;https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8;;Catálogo maestro anterior
+43;PY-022;Causa Común;Sin enlace directo;;https://teleparaguay.com.py/;
+44;PY-112;CBC Canal 8;Sin enlace directo;;;
+45;PY-023;Central TV;Sin señal funcional;http://workingsolutionparaguay.store/hls/centralparaguaytv.m3u8;;Catálogo maestro anterior
+46;PY-024;Choré TV;Sin señal funcional;http://nextplayparaguay.live/hls/guajayvifm.m3u8;;Catálogo maestro anterior
+47;PY-025;Cordillera Noticias;Sin enlace directo;;https://teleparaguay.com.py/;
+48;PY-026;Cosmos TV;Funciona;https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8;;Catálogo maestro anterior
+49;PY-027;Costanera TV;Sin enlace directo;;https://m3u.cl/lista-iptv-paraguay.php;
+50;PY-028;Del Rey TV;Funciona;https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8;;Catálogo maestro anterior
+51;PY-029;Diario La Jornada;Sin enlace directo;;https://teleparaguay.com.py/;
+52;PY-030;Dismar Radio TV;Funciona;https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8;;Catálogo maestro anterior
+53;PY-130;DMpy;Sin enlace directo;;;
+54;PY-031;E40;Funciona;https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion;;Catálogo maestro anterior
+55;PY-032;Educanal;Sin señal funcional;http://190.128.214.97:64333/play/a011/index.m3u8;;Catálogo maestro anterior
+56;PY-131;El Observador TV;Sin enlace directo;;https://tvonline.com.py/tv/elobservador.html;
+57;PY-132;Emprende TV;Sin enlace directo;;;
+58;PY-133;En Lengua de Señas TV;Sin enlace directo;;;
+59;PY-033;Estación Cristal TV;Sin señal funcional;https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8;;Catálogo maestro anterior
+60;PY-134;Estación Radio TV;Sin enlace directo;;https://teleparaguay.com.py/;
+61;PY-034;Farra Play;Pendiente de prueba;http://159.203.148.226/live/farra.m3u8;;Catálogo maestro anterior
+62;PY-136;Fe TV;Sin enlace directo;;;
+63;PY-035;Fiera TV;Sin enlace directo;;https://m3u.cl/lista-iptv-paraguay.php;
+64;PY-135;FM Frutillar TV;Sin enlace directo;;;
+65;PY-137;Fuente Paraguay TV;Sin enlace directo;;;
+66;PY-036;GCV Canal 10 Guajayví;Sin señal funcional;http://nextplayparaguay.live/hls/canal10.m3u8;;Catálogo maestro anterior
+67;PY-037;GEN;Sin enlace directo;;;
+68;PY-038;GO TV;Funciona;https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8;;Catálogo maestro anterior
+69;PY-039;HEi Now;Funciona;https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion;;Catálogo maestro anterior
+70;PY-040;Integración TV;Sin señal funcional;http://nextplayparaguay.live/hls/integraciontv.m3u8;;Catálogo maestro anterior
+71;PY-041;Invasiva TV;Funciona;https://tv-omega-nine.vercel.app/hls/live.m3u8;;Catálogo maestro anterior
+72;PY-042;KOA TV;Sin señal funcional;https://panel.dattalive.com/8028/8028/playlist.m3u8;;Catálogo maestro anterior
+73;PY-043;Latele;Funciona;https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion;;Catálogo maestro anterior
+74;PY-044;LIM TV;Sin señal funcional;https://tv.invasivamedia.com/hls/limtv.m3u8;;Catálogo maestro anterior
+75;PY-138;Limpio Digital TV;Sin enlace directo;;;
+76;PY-145;Local TV;Sin enlace directo;;https://tvonline.com.py/tv/localtv.html;
+77;PY-045;Los Ángeles TV Radio;Funciona;https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8;;Catálogo maestro anterior
+78;PY-139;Luque Puroite Radio TV;Sin enlace directo;;;
+79;PY-046;Magazine Global;Sin enlace directo;;https://teleparaguay.com.py/;
+80;PY-047;Más TV Encarnación;Sin señal funcional;https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8;;Catálogo maestro anterior
+81;PY-140;Max Plus TV;Sin enlace directo;;;
+82;PY-048;Mbokayaty TV;Sin enlace directo;;https://tvonline.com.py/tv/mbocayatytv.html;
+83;PY-049;Mega TV;Funciona;https://www.desde-paraguay.com/mega.m3u8;;Catálogo maestro anterior
+84;PY-141;Mil Ideas TV Canal 10;Sin enlace directo;;;
+85;PY-146;Miranda Radio TV;Sin enlace directo;;https://tvonline.com.py/tv/miranda.html;
+86;PY-142;Misión TV Digital;Sin enlace directo;;;
+87;PY-050;MiTV;Sin señal funcional;http://190.128.214.97:64333/play/a02w/index.m3u8;;Catálogo maestro anterior
+88;PY-051;Monumental TV;Funciona;https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion;;Catálogo maestro anterior
+89;PY-052;Ñande Portetepe TV;Sin señal funcional;https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8;;Catálogo maestro anterior
+90;PY-053;Ñandejara Ne'e TV;Funciona;https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion;;Catálogo maestro anterior
+91;PY-054;Ñandutí TV;Funciona;https://nanduti.b-cdn.net/720p.m3u8;;Catálogo maestro anterior
+92;PY-055;Natalicio TV;Sin enlace directo;;https://teleparaguay.com.py/;
+93;PY-147;NetPlayGo;Sin enlace directo;;https://tvonline.com.py/tv/netplaygo.html;
+94;PY-056;Next HD;Sin señal funcional;https://edge.enhdtv.com/nexthd/index.m3u8;;Catálogo maestro anterior
+95;PY-057;NotiFranco;Sin enlace directo;;https://teleparaguay.com.py/;
+96;PY-058;NPY;Funciona;https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion;;Catálogo maestro anterior
+97;PY-059;Oasis TV;Funciona;https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8;;Catálogo maestro anterior
+98;PY-148;Obedira TV;Nuevo por probar;https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8;https://tvonline.com.py/tv/obediratv.html;https://sultanovici.clan.su/forum/25-2339-349
+99;PY-060;Occidental TV;Funciona;https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8;;Catálogo maestro anterior
+100;PY-061;Oviedo TV;Funciona;https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8;;Catálogo maestro anterior
+101;PY-149;Panambi Vera TV;Nuevo por probar;https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8;https://tvonline.com.py/tv/panambiveratv.html;https://gist.github.com/memos79/bae91e2b3eb61353b568b51ce1128964
+102;PY-062;Paraguay TV;Funciona;https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8;;Catálogo maestro anterior
+103;PY-063;Paraná Medios;Sin enlace directo;;https://teleparaguay.com.py/;
+104;PY-064;Paraná TV;Sin enlace directo;;https://teleparaguay.com.py/;
+105;PY-065;Paravisión;Sin señal funcional;http://45.170.130.224:8000/play/a032/index.m3u8?hls;;Catálogo maestro anterior
+106;PY-150;PDS Radio y TV;Sin enlace directo;;https://tvonline.com.py/tv/pdsradiotv.html;
+107;PY-066;PLRA TV;Sin enlace directo;;https://teleparaguay.com.py/;
+108;PY-067;Popu TV;Sin señal funcional;http://190.108.83.69:8000/play/a070/index.m3u8;;Catálogo maestro anterior
+109;PY-068;Productiva TV;Funciona;https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion;;Catálogo maestro anterior
+110;PY-069;Progreso TV;Sin enlace directo;;https://teleparaguay.com.py/;
+111;PY-070;Pykasu Radio TV;Sin enlace directo;;;
+112;PY-151;Radio Ciudad TV;Sin enlace directo;;https://tvonline.com.py/tv/radiociudadtv.html;
+113;PY-071;Radio Colmenar 92.5 FM TV;Funciona;https://tvdatta.com:3041/live/colmenarlive.m3u8;;Catálogo maestro anterior
+114;PY-072;Radio Fénix TV;Sin enlace directo;;https://tvonline.com.py/tv/radiofenixyaguaron.html;
+115;PY-073;Radio Guairá TV;Funciona;https://tvdatta.com:3991/live/guairatvlive.m3u8;;Catálogo maestro anterior
+116;PY-074;Radio Iguazú TV;Sin enlace directo;;https://teleparaguay.com.py/;
+117;PY-143;Radio Miguelita TV;Sin enlace directo;;;
+118;PY-075;Radio San Cristóbal TV;Funciona;https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8;;Catálogo maestro anterior
+119;PY-076;Radio TV El Arca del Pacto;Funciona;https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8;;Catálogo maestro anterior
+120;PY-077;RB TV;Sin señal funcional;https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8;;Catálogo maestro anterior
+121;PY-078;RCC TV;Funciona;https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion;;Catálogo maestro anterior
+122;PY-079;RCN TV;Sin señal funcional;https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8;;Catálogo maestro anterior
+123;PY-152;Red Activa Paraguay TV;Sin enlace directo;;https://tvonline.com.py/tv/redactivaparaguay.html;
+124;PY-080;Red Digital;Sin señal funcional;https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8;;Catálogo maestro anterior
+125;PY-081;Red Interior TV;Funciona;https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8;;Catálogo maestro anterior
+126;PY-082;Regional TV Yaguarón;Funciona;https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8;;Catálogo maestro anterior
+127;PY-153;Renueva TV;Sin enlace directo;;https://tvonline.com.py/tv/renuevatv.html;
+128;PY-083;República TV;Funciona;https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8;;Catálogo maestro anterior
+129;PY-084;Rewind;Verificar país e identidad (posible canal chileno);;https://m3u.cl/lista-iptv-paraguay.php;
+130;PY-085;RTV 12;Sin señal funcional;https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8;;Catálogo maestro anterior
+131;PY-086;Senado TV;Verificar identidad de señal (dominio extranjero);https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1;;Catálogo maestro anterior
+132;PY-154;Simplemente Cielo TV;Sin enlace directo;;https://tvonline.com.py/tv/simplementecielo.html;
+133;PY-087;SNT;Sin señal funcional;http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8;;Catálogo maestro anterior
+134;PY-088;SNT;"Respaldo histórico; mismo canal";https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8;;Catálogo maestro anterior
+135;PY-089;Somos del Este TV;Sin señal funcional;https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8;;Catálogo maestro anterior
+136;PY-090;Suceso TV;Sin señal funcional;https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8;;Catálogo maestro anterior
+137;PY-091;SUR TV Itapúa;Sin señal funcional;http://45.170.130.224:8000/play/a036/index.m3u8?hls;;Catálogo maestro anterior
+138;PY-092;Telefuturo;Funciona;https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion;;Catálogo maestro anterior
+139;PY-093;TN Noticias;Sin enlace directo;;https://teleparaguay.com.py/;
+140;PY-094;Trece;Sin señal funcional;http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8;;Catálogo maestro anterior
+141;PY-095;Tropicalia 93.9 FM;Sin señal funcional;http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8;;Catálogo maestro anterior
+142;PY-096;TV Aire;Funciona;https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8;;Catálogo maestro anterior
+143;PY-097;TV Cámara;Sin señal funcional;http://158.172.217.18:8000/play/a00m/index.m3u8;;Catálogo maestro anterior
+144;PY-098;TV Canindeyú;Funciona;https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8;;Catálogo maestro anterior
+145;PY-099;TVS;Pendiente de prueba;https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8;;Catálogo maestro anterior
+146;PY-100;UGA TV;Funciona;https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8;;Catálogo maestro anterior
+147;PY-101;Unicanal;Sin señal funcional;http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8;;Catálogo maestro anterior
+148;PY-102;Unión TV;Por verificar en TV (reportado fallo, numeración divergente);https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8;;Catálogo maestro anterior
+149;PY-103;UniRadio TV;Funciona;https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8;;Catálogo maestro anterior
+150;PY-104;Vamo al Aire TV;Sin enlace directo;;https://tvonline.com.py/tv/vamoalairetv.html;
+151;PY-105;Venus Media;Funciona;https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8;;Catálogo maestro anterior
+152;PY-106;Villa Elisa Radio TV;Funciona;https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion;;Catálogo maestro anterior
+153;PY-107;Visión Villarrica;Sin señal funcional;http://inliveserver.com:1935/8312/8312/playlist.m3u8;;Catálogo maestro anterior
+154;PY-108;Xpress TV;Sin enlace directo;;https://tvonline.com.py/tv/paraguaritv.html;
