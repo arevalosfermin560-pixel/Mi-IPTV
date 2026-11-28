@@ -225,17 +225,17 @@
     "urls": {}
   },
   "PY-015": {
-    "multimedia": "error_decodificacion",
+    "multimedia": "decodifica",
     "principal": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
     "rapida": "hls_media",
     "urls": {
       "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8": {
-        "exitos_multimedia": 0,
-        "fallos_multimedia": 1,
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
-          "estado": "error_decodificacion",
+          "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
@@ -282,17 +282,17 @@
     }
   },
   "PY-018": {
-    "multimedia": "error_decodificacion",
+    "multimedia": "decodifica",
     "principal": "https://guapa-live.argosworkspace.com/guapa/index.m3u8",
     "rapida": "hls_master",
     "urls": {
       "https://guapa-live.argosworkspace.com/guapa/index.m3u8": {
-        "exitos_multimedia": 0,
-        "fallos_multimedia": 1,
+        "exitos_multimedia": 1,
+        "fallos_multimedia": 0,
         "fallos_rapidos": 0,
         "multimedia": {
           "audio": "aac",
-          "estado": "error_decodificacion",
+          "estado": "decodifica",
           "resolucion": "1920x1080",
           "video": "h264"
         },
@@ -675,7 +675,7 @@
         "multimedia": {
           "audio": "aac",
           "estado": "decodifica",
-          "resolucion": "480x360",
+          "resolucion": "1280x720",
           "video": "h264"
         },
         "rapida": "hls_media"
@@ -1492,7 +1492,7 @@
   "PY-100": {
     "multimedia": "decodifica",
     "principal": "https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8",
-    "rapida": "error_red_TimeoutError",
+    "rapida": "http_404",
     "urls": {
       "https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8": {
         "exitos_multimedia": 0,
@@ -1504,7 +1504,7 @@
           "resolucion": "1920x1080",
           "video": "h264"
         },
-        "rapida": "error_red_TimeoutError"
+        "rapida": "http_404"
       }
     }
   },
